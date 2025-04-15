@@ -42,9 +42,10 @@ The goal: make ~$500k of money I can own in ~60 days (or at least get my income 
 - [ ] put up clothes
 - [x] Eat Lunch (3pm) ((finished breakfast lmaooo))
 - [x] transfer zettelkasten ideas over to source material folder
-	- [ ] Sort into now and later ideas (modified to just sorting; you can see for yourself how it is)
+	- [x] Sort into now and later ideas (modified to just sorting; you can see for yourself how it is)
 		- [x] Never say it can't happen unless it shouldn't
-		- [ ] Filter said ideas for personal information
+		- [x] Filter said ideas for personal information
+			- [x] Pulled some back to filter later
 - [x] Post this on repo
 	- [x] make hopefullyabysmal github account
 	- [x] ReadMe
@@ -53,9 +54,9 @@ The goal: make ~$500k of money I can own in ~60 days (or at least get my income 
 	- [ ] throw url on my watch for people to scan
 - [ ] Take dogs out 
 	- [x] 2:09pm 
-	- [ ] 4:00 pm
-- [ ] Go get groceries (4:30pm)
-	- [ ] Can only afford milk and hot chip so thats all you get (SNAP tmrw)
+	- [x] 4:00 pm (4:30, running late and running out of steam)
+- [x] Go get groceries (4:30pm)
+	- [x] Can only afford milk and hot chip so thats all you get (SNAP tmrw)
 - [ ] Shower
 - [ ] Write speech for later
 	- [ ] Just think about it at least.
@@ -75,3 +76,29 @@ The goal: make ~$500k of money I can own in ~60 days (or at least get my income 
 	- zettelkasten storage on github is fine; need something for video tho
 		- maybe thats another business to make lmao
 - Backup relevant are.na boards to this **obsidian vault** for ease of access and security in case shit hits the fan. 
+
+
+---
+
+# Intro Speech Ideation
+
+- This is not a job, this is not entertainment, this is the rise of a better empire, a revolution (not tyrannical, the system is great; just the people who use money for bad are not.)
+- Must align with my views of economic philosophy to fully participate
+	- I wont stop you from helping; but I will most definitely get you out of my way if you try to fuck me over.
+	- This is going to built on trust; the way I see it this is a heist, albeit completely legal and encouraged.
+	- We get this done then can split ways if we so desire
+	- My only caveat is the following:
+		- You must only take what you need.
+	- I am requiring you all to sign memorandums of understanding for this engagement; the terms as follows:
+		- At the point where the individual needs of all participants are met (to be determined); the assets and automated services created will be released to the public as a democratic Digital Autonomous Organization. This means you will not have IP for this and cannot prevent others from using it. This does not mean that you cannot use what you created to build new things however; its open source for fucks sake. 
+		- You must document all efforts placed into this endeavor by means of the team zettelkasten and video recording; timestamps and time spent will be verified by a third party. 
+			- You may opt out of having your image posted; though your endeavors must be transparent. I suggest creating a working pseudonym if that is the case. We will work to anonymize your contributions to the best of our abilities
+				- Including but not limited to: facial scrubbing, vocal scrubbing, metadata wiping, and whatever else just request it and we'll figure it out.
+		- The reason for the documentation is the distribution of the needs fund through a time-based split. None of our time is worth more than the others; a percentage of time spent compared to that of everyone else will be your split unless explicitly stated. The following cases adjust this split:
+				- IP prior to engagement - X% bonus (depending on development level of the idea)
+				- Overtime contingency - over 40 hours a week leads to time and a half akin to the systems in place
+				- Failure - past the 60 day mark if goals have not been met the rate of percentage accrual diminishes by X% rate per hour per day
+					- Turn this into an ongoing system of thinktanks; high pressure high reward.
+					- Akin to GTFO housing; maybe synergize that and have makerspace housing later on down the line
+
+GPT to save the day: [[Memorandum of Understanding]]
