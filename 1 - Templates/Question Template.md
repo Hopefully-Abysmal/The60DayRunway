@@ -4,10 +4,11 @@ Last Updated: "{{date}} {{time}}"
 tags:
   - Area
 Index:
-  - "[[Journal]]"
+  - "[[Journals]]"
 Topic: 
 Status: Unweathered
 Published: true
+Author:
 ---
 ---
 

@@ -4,9 +4,10 @@ Last Updated: "{{date}} {{time}}"
 tags:
   - Archive
 Index:
-  - "[[Journal]]"
+  - "[[Journals]]"
 Status: Unweathered
 Published: true
+Author:
 ---
 ---
 

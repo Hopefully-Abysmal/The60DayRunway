@@ -5,12 +5,15 @@ tags:
   - Resource
 Index: 
 Topic: 
-Author: 
 Link: 
 Status: Unweathered
 Published: true
 ---
 ---
+
+
+
+# Reflection
 ## Curiosities
 - 
 

@@ -1,4 +1,16 @@
-
+---
+Date Created: 2025-04-15 15:48
+Last Updated: 2025-04-15 15:48
+tags:
+  - Resource
+Index: 
+Topic: 
+Link: 
+Status: Unweathered
+Published: true
+Author: Landon
+---
+---
 # Request for Sub-project readme's
 Here are **starter `README.md` templates** for each of the projects you’re planning to work on during Weeks 2–3 of _The 60 Day Runway_. These are meant to be clear, inviting, and sponsor/dev-oriented, with room for quick iteration and personal flavor.
 
@@ -256,3 +268,17 @@ And because I believe in making it visible — in **livestreaming** the climb, t
 ---
 
 Let me know if you’d like to include GitHub badges, live project links, or embed a sponsor/Ko-fi button. I can also help convert this into a clean landing page or stream intro.
+
+
+# Reflection
+## Curiosities
+- 
+
+## Ideas
+- 
+
+## Misc. Notes
+- 
+
+## Questions
+- 
