@@ -65,7 +65,7 @@ We believe in making it visible — in **livestreaming** the climb, the mistakes
 ## Follow / Support
 
 - 🛍️ Shop at [hopefullyabysmal.com](hopefullyabysmal.com)
-- 💌 Contact: [the60dayrunway@hopefullyabysmal.com]
+- 💌 Contact: [60dayrunway@hopefullyabysmal.com]
 - 🧭 Follow progress via [Our Zettelkasten](https://hopefullyabysmal.github.io)
 - ✨ Submit your ideas on our [Are.na](https://www.are.na/nxlounojeoi/misc-community-ideas)
 - 💻 Join the community on our [Discord Server](https://discord.gg/WM8uWWwUH7 )
