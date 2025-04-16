@@ -51,15 +51,15 @@ The goal: make ~$500k of money I can own in ~60 days (or at least get my income 
 	- [x] ReadMe
 		- [x] Links to everything
 	- [ ] Quartz webhosting on hopefullyabysmal.github.io
-	- [ ] throw url on my watch for people to scan
+	- [x] throw url on my watch for people to scan
 - [ ] Take dogs out 
 	- [x] 2:09pm 
 	- [x] 4:00 pm (4:30, running late and running out of steam)
 - [x] Go get groceries (4:30pm)
 	- [x] Can only afford milk and hot chip so thats all you get (SNAP tmrw)
-- [ ] Shower
-- [ ] Write speech for later
-	- [ ] Just think about it at least.
+- [x] Shower
+- [x] Write speech for later
+	- [x] Just think about it at least.
 - [ ] Go to movie with friends (6:10pm)
 - [ ] Dinner with Adam and team (8pm)
 

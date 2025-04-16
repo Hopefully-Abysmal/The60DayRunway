@@ -106,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -267,7 +267,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "61abc57c5a9ddab5",
+  "active": "cd3bbbe89dc3a8f0",
   "lastOpenFiles": [
     "0 - Housekeeping/Memorandum of Understanding.md",
     "5 - Journals/Landon/Day 0.md",
