@@ -102,3 +102,20 @@ The goal: make ~$500k of money I can own in ~60 days (or at least get my income 
 					- Akin to GTFO housing; maybe synergize that and have makerspace housing later on down the line
 
 GPT to save the day: [[Memorandum of Understanding]]
+
+
+---
+
+Couldnt sleep after the meeting, thoughts racing:
+
+![[20250416_112227.jpg]]
+
+![[20250416_112230.jpg]]
+
+![[20250416_112236.jpg]]
+
+![[20250416_112240.jpg]]
+
+![[20250416_112245.jpg]]
+
+![[20250416_112251.jpg]]
