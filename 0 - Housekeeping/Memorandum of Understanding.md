@@ -68,13 +68,13 @@ You are not required to believe everything I believe — but you must not act in
         
         - 🧠 _Pre-existing IP Bonus_: +X% (to be negotiated)
             
-        - 🕰️ _Overtime Rate_: +50% for hours beyond 40/wk
+        - 🕰️ _Overtime Rate_: +50% of split percentage earned per hour for hours beyond 40/wk
             
         - ⏳ _Failure Modifier_: After Day 60, if group goals are unmet, contribution rate decays by X% per hour/day
             
             - Intended to create urgency, not punishment
                 
-            - May evolve into an ongoing thinktank with housing or makerspace support
+            - Note: If evolving into an ongoing thinktank with housing or makerspace support this would be the gimmick.
                 
 
 ---

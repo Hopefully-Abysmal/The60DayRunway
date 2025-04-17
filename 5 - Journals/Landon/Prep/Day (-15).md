@@ -3,8 +3,7 @@ Date Created: 2025-04-15 12:41
 Last Updated: 2025-04-15 12:41
 tags:
   - Archive
-Index:
-  - "[[Journals]]"
+Index: "[[Journals]]"
 Status: Unweathered
 Published: true
 ---
@@ -106,16 +105,4 @@ GPT to save the day: [[Memorandum of Understanding]]
 
 ---
 
-Couldnt sleep after the meeting, thoughts racing:
-
-![[20250416_112227.jpg]]
-
-![[20250416_112230.jpg]]
-
-![[20250416_112236.jpg]]
-
-![[20250416_112240.jpg]]
-
-![[20250416_112245.jpg]]
-
-![[20250416_112251.jpg]]
+Couldnt sleep after the meeting, thoughts racing: [[2025-04-15 (handwritten notes)]]

@@ -3,8 +3,7 @@ Date Created: 2025-04-15 15:25
 Last Updated: 2025-04-15 15:25
 tags:
   - Archive
-Index:
-  - "[[Journals]]"
+Index: "[[Journals]]"
 Status: Unweathered
 Published: true
 Author: Landon
@@ -17,7 +16,7 @@ Lets get this fucking bread
 Adding the following to tomorrows team daily goals:
 Peruse my mind:
 - 0 - Housekeeping // [[Dead Links]]
-- .. // Landon // [[5 - Journals/Landon/Day 0|Day 0]]
+- .. // Landon // [[Day (-15)|Day (-15)]]
 - 4 - Source Material
 - 6 - Projects
 	- PICK SOMETHING AND START FUCKING THINKING
