@@ -1,7 +1,7 @@
 # The60DayRunway
 The 60 Day Runway // The Beginnings of The Arx Foundation
 
-# The 60 Day Runway ✈️  
+![[Pasted image 20250417105237.png]]
 _The Beginnings of The Arx Foundation_
 
 ## What Is This?
@@ -31,15 +31,16 @@ Landon's Motivations:
 
 We believe in making it visible — in **livestreaming** the climb, the mistakes, the breakthroughs, and the burnout; the current market lacks transparency. Open source doesn't mean just community driven; it means complete transparency in all aspects; complete accountability for the power the entity gains.
 
+
+
 ## Core Projects
 
-| Project                 | Description                                                  |
-|------------------------|--------------------------------------------------------------|
-| **Bliss in Ignorance** | Customizable content filtering for intentional mental space  |
-| **Interphrase**        | Language immersion tool via browser-based phrase swapping     |
-| **Babel Ideas Archive**| A searchable, open-source graveyard of unclaimed ideas        |
-| **School of X**        | A forever-incomplete digital school, taught in Zettels        |
-| **Elryan Portfolio**   | A living dev portfolio and mirror of my evolving identity     |
+| Project                 | Description                                                 |
+| ----------------------- | ----------------------------------------------------------- |
+| **Bliss in Ignorance**  | Customizable content filtering for intentional mental space |
+| **Interphrase**         | Language immersion tool via browser-based phrase swapping   |
+| **Babel Ideas Archive** | A searchable, open-source graveyard of unclaimed ideas      |
+| **Elryan Portfolio**    | A living dev portfolio and mirror of my evolving identity   |
 
 ## Built With
 
@@ -67,6 +68,7 @@ We believe in making it visible — in **livestreaming** the climb, the mistakes
 - 🛍️ Shop at [hopefullyabysmal.com](hopefullyabysmal.com)
 - 💌 Contact: [60dayrunway@hopefullyabysmal.com]
 - 🧭 Follow progress via [Our Zettelkasten](https://hopefullyabysmal.github.io)
+- 📽️ Immerse yourself in the story on [Youtube](https://www.youtube.com/@HopefullyAbysmal/)
 - ✨ Submit your ideas on our [Are.na](https://www.are.na/nxlounojeoi/misc-community-ideas)
 - 💻 Join the community on our [Discord Server](https://discord.gg/WM8uWWwUH7 )
 	- Soon to add Matrix and IRC support
