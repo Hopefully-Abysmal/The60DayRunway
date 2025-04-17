@@ -22,49 +22,21 @@
             }
           },
           {
-            "id": "4af8d80ce59f951e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5 - Journals/Landon/Prep/Day (-14).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Day (-14)"
-            }
-          },
-          {
-            "id": "70026351e6a5b957",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4 - Source Material/Interviews/Economist - Brady Talley.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Economist - Brady Talley"
-            }
-          },
-          {
-            "id": "ee15333b796ab8fd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
             "id": "9d161167e2f2438b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Projects/The ARX Portal/Formerly stated as the School of X (name generation).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Formerly stated as the School of X (name generation)"
+            }
+          },
+          {
+            "id": "bfd68b9ed4523385",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -75,6 +47,20 @@
               },
               "icon": "lucide-file",
               "title": "Day (-13)"
+            }
+          },
+          {
+            "id": "3ef5491ede271d72",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Projects/Outreach/Youtube.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Youtube"
             }
           },
           {
@@ -139,12 +125,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 - Source Material/Interviews/Prof Dan Ball.md",
+                "file": "4 - Source Material/Interviews/Academic - Prof Dan Ball.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Prof Dan Ball"
+              "title": "Academic - Prof Dan Ball"
             }
           }
         ],
@@ -310,19 +296,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9d161167e2f2438b",
+  "active": "78edba02962d9a50",
   "lastOpenFiles": [
-    "0 - Housekeeping/_Attatchments/Pasted image 20250417115820.png",
-    "4 - Source Material/Interviews/Economist - Brady Talley.md",
     "5 - Journals/Landon/Prep/Day (-13).md",
-    "4 - Source Material/Interviews/Prof Dan Ball.md",
-    "3 - Indexes/Interviews.md",
+    "6 - Projects/Outreach/Youtube.md",
+    "3 - Indexes/Outreach.md",
+    "6 - Projects/The ARX Portal/I have identified enough keys to create the sledgehammer needed to break out of this cage.md",
+    "6 - Projects/Outreach",
+    "6 - Projects/The ARX Portal/Formerly stated as the School of X (name generation).md",
     "README.md",
+    "4 - Source Material/Interviews/Economist - Brady Talley.md",
+    "5 - Journals/Landon/Prep/Day (-14).md",
+    "6 - Projects/The ARX Portal",
+    "0 - Housekeeping/_Attatchments/Pasted image 20250417115820.png",
+    "4 - Source Material/Interviews/Academic - Prof Dan Ball.md",
+    "3 - Indexes/Interviews.md",
     "6 - Projects/_Branding/Thumbnails.md",
     "6 - Projects/Economic Philosophy/Creation, Time, and Impact Based Economy.md",
     "6 - Projects/Economic Philosophy/Socialism vs Communism.md",
     "6 - Projects/Economic Philosophy/The True Growth Capitalist.md",
-    "5 - Journals/Landon/Prep/Day (-14).md",
     "0 - Housekeeping/_Attatchments/Pasted image 20250417105237.png",
     "0 - Housekeeping/_Attatchments/Pasted image 20250417105217.png",
     "4 - Source Material/_LLM Logs/Day (-14) Reflection.md",
@@ -341,15 +333,10 @@
     "1 - Templates/Journal Entry Template.md",
     "0 - Housekeeping/Dead Links.md",
     "4 - Source Material/Ideas/Tech Bro In the Making/Business Automation/ERP Plugin Marketplace.md",
-    "2 - Paths/Artificial Intelligence.md",
-    "1 - Templates/Todo list.md",
     "5 - Journals/Landon/Prep",
-    "5 - Journals/Team/Day 0.md",
     "4 - Source Material/_Unsorted",
     "4 - Source Material/_Unsorted/Screenshot_20240214-214156_Firefox_Nightly.jpg",
     "7 - On Ice",
-    "4 - Source Material/Ideas/Giving Back",
-    "4 - Source Material/Ideas/Just to flex",
-    "6 - Projects/DIY-MBA/Tech Company Managment/9. Operations"
+    "4 - Source Material/Ideas/Giving Back"
   ]
 }
