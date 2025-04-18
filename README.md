@@ -4,6 +4,8 @@ The 60 Day Runway // The Beginnings of The Arx Foundation
 ![[Pasted image 20250417105237.png]]
 _The Beginnings of The Arx Foundation_
 
+Note: By continuing your perusal of this vault you are bound to the terms of the license and [memorandum of understanding](https://github.com/Hopefully-Abysmal/The60DayRunway/blob/main/0%20-%20Housekeeping%2FMemorandum%20of%20Understanding.md) IP terms listed; this is for the greater good, do not get in our way.
+
 ## What Is This?
 
 **The 60 Day Runway** is a public 2-month challenge to escape student debt, secure housing, and build a sustainable, creator-owned life — all before June 30, 2025. It's a test of self-rescue, autonomy, and creative momentum.
@@ -32,8 +34,14 @@ Landon's Motivations:
 We believe in making it visible — in **livestreaming** the climb, the mistakes, the breakthroughs, and the burnout; the current market lacks transparency. Open source doesn't mean just community driven; it means complete transparency in all aspects; complete accountability for the power the entity gains.
 
 
+## The Mission
 
-## Core Projects
+Revolutionize // reform the education system as we know it. We are in a time of misinformation, fear, and turmoil; now is better than any other time to make a change so thats what we are doing.
+
+Specifically: "Make Academia Great Again" by processing and centralizing knowledge on a publically owned platorm with the aim of decentralizing the tools to access and utilize it. The end goal is to create a marketplace of intellectual acceleration methods and strategies; we believe that people can think for themselves and want to ensure that is a secure statement.
+
+
+## Core Projects (beyond the platform)
 
 | Project                 | Description                                                 |
 | ----------------------- | ----------------------------------------------------------- |
