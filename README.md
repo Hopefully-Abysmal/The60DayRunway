@@ -48,7 +48,6 @@ Specifically: "Make Academia Great Again" by processing and centralizing knowled
 | **Bliss in Ignorance**  | Customizable content filtering for intentional mental space |
 | **Interphrase**         | Language immersion tool via browser-based phrase swapping   |
 | **Babel Ideas Archive** | A searchable, open-source graveyard of unclaimed ideas      |
-| **Elryan Portfolio**    | A living dev portfolio and mirror of my evolving identity   |
 
 ## Built With
 
@@ -62,6 +61,7 @@ Specifically: "Make Academia Great Again" by processing and centralizing knowled
 - **Funding support** for editors, moderators, and infrastructure
 - **All video revenue** is being shared among collaborators based on time/impact
 - Looking for grants, community backers, or people who want to co-build something different
+- Attention. Share this with your friends, family, colleagues, anyone who will listen; we are a democratic society and the only way change occurs is with volume of opinion.
 
 ## Long-Term Vision: The Arx Foundation
 
@@ -73,6 +73,7 @@ Specifically: "Make Academia Great Again" by processing and centralizing knowled
 
 ## Follow / Support
 
+- 💲 Support on Patreon: patreon.com/HopefullyAbysmal
 - 🛍️ Shop at [hopefullyabysmal.com](hopefullyabysmal.com)
 - 💌 Contact: [60dayrunway@hopefullyabysmal.com]
 - 🧭 Follow progress via [Our Zettelkasten](https://hopefullyabysmal.github.io)
