@@ -30,7 +30,9 @@ https://business.rad.live/press-blog/deep-dive-the-power-of-smart-contracts-for-
 - ![[Pasted image 20250417162719.png]]
 	- I'm all for private ownership of goods, but content one watches once then moves on is something one likely won't care if they own...
 		- unless you can sell something you don't truly own it.
-	- 
+
+https://www.ibm.com/think/topics/smart-contracts
+	
 
 # Reflection
 ## Curiosities

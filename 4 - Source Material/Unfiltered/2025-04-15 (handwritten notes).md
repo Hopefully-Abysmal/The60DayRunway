@@ -1,12 +1,12 @@
 ---
-Date Created: "2025-04-16 21:45"
-Last Updated: "2025-04-16 21:45"
+Date Created: 2025-04-16 21:45
+Last Updated: 2025-04-16 21:45
 tags:
   - Archive
 Index: "[[Journals]]"
 Status: Unweathered
 Published: true
-Author:
+Author: Landon
 ---
 ---
 # Translation from notes + thoughts now

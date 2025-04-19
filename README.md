@@ -12,6 +12,12 @@ Note: By continuing your perusal of this vault you are bound to the terms of the
 
 This isn’t just a hustle. It’s the **origin story of The Arx Foundation** — a long-term effort to build tools, ideas, and support structures for people stuck in survival loops. The goal is to challenge the myth of merit, reveal the hidden architecture of economic traps, and share everything I learn in the open.
 
+## The Mission
+
+Revolutionize // reform the education system as we know it. We are in a time of misinformation, fear, and turmoil; now is better than any other time to make a change so thats what we are doing.
+
+Specifically: "Make Academia Great Again" by processing and centralizing knowledge on a publically owned platorm with the aim of decentralizing the tools to access and utilize it. The end goal is to create a marketplace of intellectual acceleration methods and strategies; we believe that people can think for themselves and want to ensure that is a secure statement.
+
 ## Why?
 
 Generational Motivations:
@@ -32,13 +38,6 @@ Landon's Motivations:
 ** insert your motivations if you help out! **
 
 We believe in making it visible — in **livestreaming** the climb, the mistakes, the breakthroughs, and the burnout; the current market lacks transparency. Open source doesn't mean just community driven; it means complete transparency in all aspects; complete accountability for the power the entity gains.
-
-
-## The Mission
-
-Revolutionize // reform the education system as we know it. We are in a time of misinformation, fear, and turmoil; now is better than any other time to make a change so thats what we are doing.
-
-Specifically: "Make Academia Great Again" by processing and centralizing knowledge on a publically owned platorm with the aim of decentralizing the tools to access and utilize it. The end goal is to create a marketplace of intellectual acceleration methods and strategies; we believe that people can think for themselves and want to ensure that is a secure statement.
 
 
 ## Core Projects (beyond the platform)

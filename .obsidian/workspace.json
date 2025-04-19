@@ -8,68 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "14e516dcf63dfcb2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "9d161167e2f2438b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Projects/The Stranded Web/Formerly stated as the School of X (name generation).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Formerly stated as the School of X (name generation)"
-            }
-          },
-          {
-            "id": "bfd68b9ed4523385",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5 - Journals/Landon/Prep/Day (-13).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Day (-13)"
-            }
-          },
-          {
-            "id": "3ef5491ede271d72",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Projects/Outreach/Youtube.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Youtube"
-            }
-          },
-          {
             "id": "78edba02962d9a50",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Projects/Economic Philosophy/Creation, Time, and Impact Based Economy.md",
+                "file": "4 - Source Material/Research/Economics/Creation, Time, and Impact Based Economy.md",
                 "mode": "source",
                 "source": false
               },
@@ -78,101 +22,49 @@
             }
           },
           {
-            "id": "6f7eada13b80fef2",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
             "id": "580ef4e10203161c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Projects/The Stranded Web/Funding Strategies for Open Access Education.md",
+                "file": "4 - Source Material/Unfiltered/2025-04-18 (handwritten notes).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Funding Strategies for Open Access Education"
+              "title": "2025-04-18 (handwritten notes)"
             }
           },
           {
-            "id": "c0fe55f3c371c0ef",
+            "id": "4b73ae57f870c5a9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Projects/The Stranded Web/I have identified enough keys to create the sledgehammer needed to break out of this cage.md",
+                "file": "6 - Projects/Outreach/DOGE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "I have identified enough keys to create the sledgehammer needed to break out of this cage"
+              "title": "DOGE"
             }
           },
           {
-            "id": "cce5bdd5c66b690e",
+            "id": "c6196eb849c260ec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Projects/Economic Philosophy/Socialism vs Communism.md",
+                "file": "4 - Source Material/Research/Economics/Blockchain - Smart Contracts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Socialism vs Communism"
-            }
-          },
-          {
-            "id": "5a39578f5d2c7a59",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4 - Source Material/Unfiltered/2025-04-16 (handwritten notes).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-04-16 (handwritten notes)"
-            }
-          },
-          {
-            "id": "1afaa7f50566816e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4 - Source Material/Unfiltered/2025-04-15 (handwritten notes).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-04-15 (handwritten notes)"
-            }
-          },
-          {
-            "id": "81e882d0c684f76c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4 - Source Material/Interviews/Academic - Prof Dan Ball.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Academic - Prof Dan Ball"
+              "title": "Blockchain - Smart Contracts"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -336,51 +228,51 @@
   },
   "active": "580ef4e10203161c",
   "lastOpenFiles": [
-    "6 - Projects/The Stranded Web/Gamification Strategies.md",
-    "6 - Projects/The Stranded Web/Funding Strategies for Open Access Education.md",
-    "0 - Housekeeping/_Attatchments/in-other-waters-h5w67-1664758789.jpg",
+    "4 - Source Material/Unfiltered/2025-04-17 (handwritten notes).md",
+    "4 - Source Material/Unfiltered/2025-04-16 (handwritten notes).md",
+    "4 - Source Material/Unfiltered/2025-04-18 (handwritten notes).md",
+    "0 - Housekeeping/_Attatchments/The Arx Foundation（18）.png",
+    "0 - Housekeeping/_Attatchments/The Arx Foundation（17）.png",
+    "0 - Housekeeping/_Attatchments/The Arx Foundation（16）.png",
+    "0 - Housekeeping/_Attatchments/The Arx Foundation（15）.png",
+    "0 - Housekeeping/_Attatchments/The Arx Foundation（14）.png",
+    "0 - Housekeeping/_Attatchments/The Arx Foundation（13）.png",
+    "0 - Housekeeping/_Attatchments/The Arx Foundation（12）.png",
+    "0 - Housekeeping/_Attatchments/The Arx Foundation（11）.png",
+    "0 - Housekeeping/_Attatchments/The Arx Foundation（10）.png",
+    "0 - Housekeeping/_Attatchments/The Arx Foundation（9）.png",
+    "6 - Projects/Outreach/DOGE.md",
+    "4 - Source Material/Research/Economics/Blockchain - Smart Contracts.md",
+    "5 - Journals/Landon/Prep/Day (-12).md",
+    "4 - Source Material/Unfiltered/2025-04-15 (handwritten notes).md",
+    "4 - Source Material/Research/Economics/Socialism vs Communism.md",
     "6 - Projects/The Stranded Web/I have identified enough keys to create the sledgehammer needed to break out of this cage.md",
-    "6 - Projects/The ARX Foundation/The School of X.md",
+    "4 - Source Material/Research/Economics/Creation, Time, and Impact Based Economy.md",
     "6 - Projects/The Stranded Web/Formerly stated as the School of X (name generation).md",
-    "0 - Housekeeping/_Attatchments/Screenshot_1.webp",
-    "0 - Housekeeping/_Attatchments/Pasted image 20250417163003.png",
-    "6 - Projects/Economic Philosophy/Blockchain - Smart Contracts.md",
-    "0 - Housekeeping/_Attatchments/Pasted image 20250417162719.png",
-    "0 - Housekeeping/_Attatchments/Pasted image 20250417162538.png",
-    "0 - Housekeeping/_Attatchments/Pasted image 20250417161826.png",
-    "6 - Projects/Economic Philosophy/Creation, Time, and Impact Based Economy.md",
+    "README.md",
     "5 - Journals/Landon/Prep/Day (-13).md",
     "6 - Projects/Outreach/Youtube.md",
+    "4 - Source Material/Research/Economics",
+    "4 - Source Material/Research/Economics/crypto as backend.md",
+    "6 - Projects/Worst Case Prep/Continuity Plan - How to Use.md",
+    "6 - Projects/Worst Case Prep/Continuity Plan Template.md",
+    "6 - Projects/Worst Case Prep",
+    "6 - Projects/The Stranded Web/Compensation methods.md",
+    "6 - Projects/The ARX Foundation/ARX CDN.md",
+    "4 - Source Material/Research/Patents.md",
+    "4 - Source Material/Research/Economics/Finances of Competition.md",
+    "4 - Source Material/Research",
+    "6 - Projects/The Stranded Web/Funding Strategies for Open Access Education.md",
+    "6 - Projects/The Stranded Web/Gamification Strategies.md",
+    "6 - Projects/The ARX Foundation/The School of X.md",
     "3 - Indexes/Outreach.md",
     "6 - Projects/Outreach",
-    "README.md",
     "4 - Source Material/Interviews/Economist - Brady Talley.md",
-    "5 - Journals/Landon/Prep/Day (-14).md",
     "6 - Projects/The Stranded Web",
-    "0 - Housekeeping/_Attatchments/Pasted image 20250417115820.png",
-    "4 - Source Material/Interviews/Academic - Prof Dan Ball.md",
-    "3 - Indexes/Interviews.md",
-    "6 - Projects/_Branding/Thumbnails.md",
-    "6 - Projects/Economic Philosophy/Socialism vs Communism.md",
-    "6 - Projects/Economic Philosophy/The True Growth Capitalist.md",
-    "0 - Housekeeping/_Attatchments/Pasted image 20250417105237.png",
-    "0 - Housekeeping/_Attatchments/Pasted image 20250417105217.png",
-    "4 - Source Material/_LLM Logs/Day (-14) Reflection.md",
     "6 - Projects/_Branding",
     "4 - Source Material/Ideas",
     "4 - Source Material/Interviews",
-    "4 - Source Material/_LLM Logs/Initializing Project GPT Conversation.md",
-    "5 - Journals/Landon/Prep/Day (-15).md",
-    "4 - Source Material/Unfiltered/2025-04-15 (handwritten notes).md",
-    "4 - Source Material/Unfiltered/2025-04-16 (dane weinig conversation).md",
-    "4 - Source Material/Unfiltered/2025-04-16 (handwritten notes).md",
-    "0 - Housekeeping/Memorandum of Understanding.md",
-    "0 - Housekeeping/Broken properties.md",
     "4 - Source Material/Unfiltered",
-    "5 - Journals/Landon/Prep",
-    "4 - Source Material/_Unsorted",
-    "4 - Source Material/_Unsorted/Screenshot_20240214-214156_Firefox_Nightly.jpg",
-    "7 - On Ice",
-    "4 - Source Material/Ideas/Giving Back"
+    "5 - Journals/Landon/Prep"
   ]
 }
