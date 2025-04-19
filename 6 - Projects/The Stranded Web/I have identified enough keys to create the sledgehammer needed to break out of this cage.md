@@ -85,6 +85,7 @@ https://www.youtube.com/@greguevarart
 
 Media events I want to attend // people I want to talk with with an audience:
 https://www.youtube.com/@mythicalkitchen
+Dua lipa interview
 
 
 
@@ -99,7 +100,7 @@ https://www.youtube.com/@overwerk (love his design as well so would def ask for 
 https://www.youtube.com/@2hollis
 https://www.youtube.com/@owlcity
 https://www.youtube.com@Justice
-https://www.youtube.com/@Dusqk (goated environment; ARX theme collab??)
+https://www.youtube.com/@Dusqk (goated environmental ambient music; ARX theme collab??)
 https://www.youtube.com/@WitchBoltMusic
 https://www.youtube.com/@jane_remover
 https://www.youtube.com/@brakence8435

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5 - Journals/Landon/Day 0.1.md",
+                "file": "6 - Projects/The Stranded Web/I have identified enough keys to create the sledgehammer needed to break out of this cage.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Day 0.1"
+              "title": "I have identified enough keys to create the sledgehammer needed to break out of this cage"
             }
           }
         ]
@@ -112,7 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "5 - Journals/Landon/Day 0.1.md",
+            "file": "6 - Projects/The Stranded Web/I have identified enough keys to create the sledgehammer needed to break out of this cage.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -167,20 +167,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b2a84412bc78147e",
+  "active": "621e22076c85a59b",
   "lastOpenFiles": [
-    "0 - Housekeeping/_Attatchments/20250416_112301.jpg",
-    "0 - Housekeeping/_Attatchments/20250416_112257.jpg",
-    "0 - Housekeeping/_Attatchments/20250416_112251 1.jpg",
-    "5 - Journals/Landon/Day 0.md",
-    "5 - Journals/Landon/Day 0.1.md",
-    "0 - Housekeeping/_Attatchments/20250416_112251.jpg",
-    "0 - Housekeeping/_Attatchments/20250416_112245.jpg",
-    "0 - Housekeeping/_Attatchments/20250416_112236 1.jpg",
-    "0 - Housekeeping/_Attatchments/20250416_112240.jpg",
+    "4 - Source Material/Research/smart contracts/crypto as backend.md",
+    "6 - Projects/The Stranded Web/Compensation methods.md",
+    "4 - Source Material/Research/smart contracts",
+    "6 - Projects/The ARX Foundation/ARX CDN.md",
+    "4 - Source Material/Research/Patents.md",
+    "6 - Projects/The Stranded Web/I have identified enough keys to create the sledgehammer needed to break out of this cage.md",
+    "6 - Projects/Outreach/Youtube.md",
+    "4 - Source Material/Research/Finances of Competition.md",
+    "0 - Housekeeping/_Attatchments/Pasted image 20250417105237.png",
+    "4 - Source Material/Research",
+    "0 - Housekeeping/_Attatchments/Pasted image 20250417115820.png",
+    "0 - Housekeeping/_Attatchments/Pasted image 20250417161826.png",
+    "0 - Housekeeping/_Attatchments/Pasted image 20250417162538.png",
+    "0 - Housekeeping/_Attatchments/Pasted image 20250417162719.png",
+    "0 - Housekeeping/_Attatchments/Pasted image 20250417163003.png",
+    "0 - Housekeeping/_Attatchments/Screenshot_1.webp",
     "0 - Housekeeping/_Attatchments/20250416_112236.jpg",
-    "0 - Housekeeping/_Attatchments/20250416_112230.jpg",
     "0 - Housekeeping/_Attatchments/20250416_112227.jpg",
+    "README.md",
+    "5 - Journals/Landon/Day 0.1.md",
+    "0 - Housekeeping/_Attatchments/20250416_112301.jpg",
+    "5 - Journals/Landon/Day 0.md",
     "0 - Housekeeping/_Attatchments"
   ]
 }
