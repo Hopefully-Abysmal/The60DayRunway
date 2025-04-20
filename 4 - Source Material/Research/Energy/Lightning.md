@@ -1,0 +1,1 @@
+https://www.reddit.com/r/explainlikeimfive/comments/11clcws/eli5_so_why_cant_we_just_harness_the_power_from/

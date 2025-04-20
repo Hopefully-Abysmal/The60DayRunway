@@ -61,7 +61,7 @@ Author:
 
 # Notes:
 
-Hope everyone had a good good friday! I saw my energy declining so decided to take a break today (I say as I was off and on awake and asleep this morning from 1 am onwards due to dogs and having ideas that I'll scan in later :/ )
+Hope everyone had a good good friday! I saw my energy declining so decided to take a break today (I say as I was off and on awake and asleep this morning from 1 am onwards due to dogs and having ideas that I'll scan in later :/ ) [[2025-04-18 (handwritten notes)]]
 
 Skipped out on meds and caffeine for today so I'll actually sleep; also taking melatonin so hope can finally get some rest; trying not to let the stress get to me.
 

@@ -1,4 +1,11 @@
 {
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "0 - Housekeeping/_Attatchments"
+  "attachmentFolderPath": "0 - Housekeeping/_Attatchments",
+  "pdfExportSettings": {
+    "includeName": false,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }
