@@ -16,3 +16,6 @@ Author:
 	- GitHub for code/notes = ✅, but video needs redundancy  
 		- Potential business idea: secure sync platform for indie creators
 - Backup research/boards/notes to this vault (just in case shit hits the fan)
+- Filter personal info to upload
+	- Remainder of 'cracked ideas'
+	- Personal zettelkasten as a whole

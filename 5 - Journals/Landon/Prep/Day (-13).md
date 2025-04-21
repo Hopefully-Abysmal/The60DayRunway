@@ -27,30 +27,30 @@ Author:
 		- [x] mushroom blend
 		- [x] veggie superfood blend
 	- [x] Drink something green and holy (Good old matcha my beloved)  
-- [ ] Check financial status (e.g., bank, crypto, whatever)
-- [ ] Eat something (yes, that counts)
-- [ ] Do a chore (dish/laundry/trash/etc.)
-- [ ] Handle pet care / errands / groceries  
-- [ ] Shower (for the love of all that is sacred)
-- [ ] Reflect / prep for public speaking / writing
-- [ ] Go outside (optionally with friends)
-- [ ] Dinner or evening wind-down
+- [x] Check financial status (e.g., bank, crypto, whatever)
+- [x] Eat something (yes, that counts)
+- [x] Do a chore (dish/laundry/trash/etc.)
+- [x] Handle pet care / errands / groceries  
+- [x] Shower (for the love of all that is sacred)
+- [x] Reflect / prep for public speaking / writing
+- [x] Go outside (optionally with friends)
+- [x] Dinner or evening wind-down
 
 ## 🌱 Throughout Day
 
-- [ ] Drink entire water bottle (seriously)
-- [ ] Move body, stretch, or at least shift positions
-- [ ] !!BREATHE!!
+- [x] Drink entire water bottle (seriously)
+- [x] Move body, stretch, or at least shift positions
+- [x] !!BREATHE!!
 
 
 ## 🤑Work Schedule
 
 - [ ] Finish admin or digital task  
-	- [ ] Transfer ideas / organize files  
+	- [x] Transfer ideas / organize files  
 	- [ ] Filter personal info to upload
-- [ ] Post updates or progress  
-	- [ ] Push to repo / update site  
-	- [ ] Update socials / links
+- [x] Post updates or progress  
+	- [x] Push to repo / update site  
+	- [x] Update socials / links
 
 
 ---

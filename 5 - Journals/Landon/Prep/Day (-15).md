@@ -38,7 +38,7 @@ The goal: make ~$500k of money I can own in ~60 days (or at least get my income 
 - [x] Finish breakfast
 - [x] finish dishes
 - [x] take out trash
-- [ ] put up clothes
+- [x] put up clothes
 - [x] Eat Lunch (3pm) ((finished breakfast lmaooo))
 - [x] transfer zettelkasten ideas over to source material folder
 	- [x] Sort into now and later ideas (modified to just sorting; you can see for yourself how it is)
@@ -51,7 +51,7 @@ The goal: make ~$500k of money I can own in ~60 days (or at least get my income 
 		- [x] Links to everything
 	- [ ] Quartz webhosting on hopefullyabysmal.github.io
 	- [x] throw url on my watch for people to scan
-- [ ] Take dogs out 
+- [x] Take dogs out 
 	- [x] 2:09pm 
 	- [x] 4:00 pm (4:30, running late and running out of steam)
 - [x] Go get groceries (4:30pm)
@@ -59,12 +59,12 @@ The goal: make ~$500k of money I can own in ~60 days (or at least get my income 
 - [x] Shower
 - [x] Write speech for later
 	- [x] Just think about it at least.
-- [ ] Go to movie with friends (6:10pm)
-- [ ] Dinner with Adam and team (8pm)
+- [x] Go to movie with friends (6:10pm)
+- [x] Dinner with Adam and team (8pm)
 
 ## Throughout Day
 - [ ] drink entire water bottle (throughout day) 
-- [ ] Take dogs out (if you didn't see it above mf)
+- [x] Take dogs out (if you didn't see it above mf)
 
 ---
 

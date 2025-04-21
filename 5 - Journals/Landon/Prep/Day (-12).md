@@ -46,11 +46,11 @@ Author:
 ## 🤑Work Schedule
 
 - [ ] Finish admin or digital task  
-	- [ ] Transfer ideas / organize files  
+	- [x] Transfer ideas / organize files  
 	- [ ] Filter personal info to upload
-- [ ] Post updates or progress  
-	- [ ] Push to repo / update site  
-	- [ ] Update socials / links
+- [x] Post updates or progress  
+	- [x] Push to repo / update site  
+	- [x] Update socials / links
 
 
 ---

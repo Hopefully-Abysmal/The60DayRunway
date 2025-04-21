@@ -11,4 +11,4 @@ Author:
 ---
 ---
 
-GTG to class but will come back to this
+[[2025-04-17 (handwritten notes)]]

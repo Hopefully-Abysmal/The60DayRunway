@@ -8,119 +8,154 @@
         "type": "tabs",
         "children": [
           {
-            "id": "78edba02962d9a50",
+            "id": "671ed1f167115df4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 - Source Material/Research/Economics/Creation, Time, and Impact Based Economy.md",
+                "file": "5 - Journals/Landon/Prep/Day (-10).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Creation, Time, and Impact Based Economy"
+              "title": "Day (-10)"
             }
           },
           {
-            "id": "580ef4e10203161c",
+            "id": "1551166790b99ea3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 - Source Material/Unfiltered/2025-04-19 (handwritten notes).md",
+                "file": "6 - Projects/The ARX Foundation/ARX Names.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-04-19 (handwritten notes)"
+              "title": "ARX Names"
             }
           },
           {
-            "id": "10058658f9969161",
+            "id": "f603f0396eece895",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5 - Journals/Landon/Prep/Day (-11).md",
+                "file": "4 - Source Material/_LLM Logs/Analysis of More by Hangmeas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Day (-11)"
+              "title": "Analysis of More by Hangmeas"
             }
           },
           {
-            "id": "4e72d68b8a76034a",
+            "id": "f1619851cb468e4e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 - Source Material/_LLM Logs/Alternative Energy is an Imperative to power the technologies required to get this to scale.md",
+                "file": "4 - Source Material/_LLM Logs/Rust Exploration.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Alternative Energy is an Imperative to power the technologies required to get this to scale"
+              "title": "Rust Exploration"
             }
           },
           {
-            "id": "a9a6bbc0b77410ec",
+            "id": "8e03604025fee893",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 - Source Material/Research/Energy/Harnessing Entropy - A Thermodynamic Framework for World Peace and Energy Abundance.md",
+                "file": "4 - Source Material/_LLM Logs/Architecture Planning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Harnessing Entropy - A Thermodynamic Framework for World Peace and Energy Abundance"
+              "title": "Architecture Planning"
             }
           },
           {
-            "id": "3da55d7e0f225e29",
+            "id": "77ad654bad54e412",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 - Source Material/Unfiltered/2025-04-17 (handwritten notes).md",
+                "file": "4 - Source Material/Unfiltered/2025-04-18 (handwritten notes).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-04-17 (handwritten notes)"
-            }
-          },
-          {
-            "id": "4b73ae57f870c5a9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Projects/Outreach/DOGE.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "DOGE"
-            }
-          },
-          {
-            "id": "c6196eb849c260ec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4 - Source Material/Research/Economics/Blockchain - Smart Contracts.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Blockchain - Smart Contracts"
+              "title": "2025-04-18 (handwritten notes)"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
+      },
+      {
+        "id": "963682a3963f892f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b94c19ff0160db16",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4 - Source Material/_LLM Logs/Architecture Planning.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Architecture Planning"
+            }
+          },
+          {
+            "id": "d8c9571018e5f7a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Consolidated_Notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Consolidated_Notes"
+            }
+          },
+          {
+            "id": "77988f34172da450",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4 - Source Material/Unfiltered/2025-04-18 (handwritten notes).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-04-18 (handwritten notes)"
+            }
+          },
+          {
+            "id": "67960c5a0c04de29",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Projects/The Creostic Academia/Subsidiaries and Synergistic partnerships to pursue.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Subsidiaries and Synergistic partnerships to pursue"
+            }
+          }
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -152,7 +187,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "sponsorships",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -282,26 +317,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a9a6bbc0b77410ec",
+  "active": "61abc57c5a9ddab5",
   "lastOpenFiles": [
-    "4 - Source Material/_LLM Logs/Alternative Energy is an Imperative to power the technologies required to get this to scale.md",
-    "4 - Source Material/Research/Energy/Harnessing Entropy - A Thermodynamic Framework for World Peace and Energy Abundance.md",
-    "license.md",
-    "4 - Source Material/Research/Energy/UV.md",
-    "5 - Journals/Landon/Prep/Day (-11).md",
-    "4 - Source Material/Research/Energy/The Space Ring.md",
-    "4 - Source Material/Research/Energy/Heat.md",
-    "3 - Indexes/Energy.md",
-    "4 - Source Material/Research/Energy/Lightning.md",
-    "4 - Source Material/Research/Energy/Water.md",
-    "4 - Source Material/Research/Energy/Wind.md",
-    "4 - Source Material/Unfiltered/2025-04-18 (handwritten notes).md",
-    "4 - Source Material/Research/Energy",
-    "4 - Source Material/Research/Untitled.md",
-    "4 - Source Material/Unfiltered/2025-04-17 (handwritten notes).md",
-    "4 - Source Material/Unfiltered/2025-04-16 (handwritten notes).md",
     "4 - Source Material/Unfiltered/2025-04-19 (handwritten notes).md",
-    "5 - Journals/Landon/Prep/Day (-12).md",
+    "4 - Source Material/Unfiltered/2025-04-18 (handwritten notes).md",
+    "6 - Projects/The Creostic Academia/Subsidiaries and Synergistic partnerships to pursue.md",
+    "3 - Indexes/Outreach.md",
+    "6 - Projects/The Creostic Academia/I have identified enough keys to create the sledgehammer needed to break out of this cage.md",
+    "6 - Projects/Outreach/Youtube.md",
+    "Consolidated_Notes.md",
+    "4 - Source Material/_LLM Logs/Architecture Planning.md",
+    "4 - Source Material/Unfiltered/2025-04-17 (handwritten notes).md",
+    "4 - Source Material/_LLM Logs/Rust Exploration.md",
+    "6 - Projects/The Creostic Academia/Compensation methods.md",
+    "4 - Source Material/_LLM Logs/Analysis of More by Hangmeas.md",
+    "6 - Projects/The Creostic Academia/Funding Strategies for Open Access Education.md",
+    "4 - Source Material/Research/Economics/Creation, Time, and Impact Based Economy.md",
+    "5 - Journals/Landon/Prep/Day (-10).md",
+    "6 - Projects/The ARX Foundation/ARX Names.md",
+    "4 - Source Material/Research/Economics/Blockchain - Smart Contracts.md",
+    "6 - Projects/Outreach/DOGE.md",
+    "6 - Projects/The ARX Foundation/ARX Idea Generation.md",
+    "4 - Source Material/Videos/I Spent 18 Months Using Rust And Regret It - PrimeTime.md",
+    "4 - Source Material/Videos/This Exploit Allows Me To Hack Any Vibecoder.md",
+    "4 - Source Material/Videos/AI Is Here And Students You Are Screwed If You Don't Take Action - Prime Reacts.md",
+    "6 - Projects/The Creostic Academia/Creosticism.md",
+    "4 - Source Material/Videos",
+    "4 - Source Material/Research/Energy/Harnessing Entropy - A Thermodynamic Framework for World Peace and Energy Abundance.md",
+    "3 - Indexes/The ARX Index.md",
+    "6 - Projects/The ARX Foundation/ARX Products.md",
+    "6 - Projects/The Creostic Academia",
+    "4 - Source Material/Research/Energy",
     "0 - Housekeeping/_Attatchments/The Arx Foundation（18）.png",
     "0 - Housekeeping/_Attatchments/The Arx Foundation（17）.png",
     "0 - Housekeeping/_Attatchments/The Arx Foundation（16）.png",
@@ -312,23 +358,12 @@
     "0 - Housekeeping/_Attatchments/The Arx Foundation（11）.png",
     "0 - Housekeeping/_Attatchments/The Arx Foundation（10）.png",
     "0 - Housekeeping/_Attatchments/The Arx Foundation（9）.png",
-    "6 - Projects/Outreach/DOGE.md",
-    "4 - Source Material/Research/Economics/Blockchain - Smart Contracts.md",
-    "4 - Source Material/Unfiltered/2025-04-15 (handwritten notes).md",
-    "4 - Source Material/Research/Economics/Socialism vs Communism.md",
-    "6 - Projects/The Stranded Web/I have identified enough keys to create the sledgehammer needed to break out of this cage.md",
-    "4 - Source Material/Research/Economics/Creation, Time, and Impact Based Economy.md",
-    "6 - Projects/The Stranded Web/Formerly stated as the School of X (name generation).md",
-    "README.md",
-    "5 - Journals/Landon/Prep/Day (-13).md",
     "4 - Source Material/Research/Economics",
     "6 - Projects/Worst Case Prep",
     "4 - Source Material/Research",
     "6 - Projects/Outreach",
-    "6 - Projects/The Stranded Web",
+    "6 - Projects/The Creostic Academia/The Stranded Web",
     "6 - Projects/_Branding",
-    "4 - Source Material/Ideas",
-    "4 - Source Material/Interviews",
-    "4 - Source Material/Unfiltered"
+    "4 - Source Material/Ideas"
   ]
 }

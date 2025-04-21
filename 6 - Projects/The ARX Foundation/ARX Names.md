@@ -13,69 +13,69 @@ Published: false
 
 # Name
 
-Augmented Reality eXplorer
+Augmented Realities eXplorer
 
-Augmented Reality eXperience
+Augmented Realities eXperience
 
-Augmented Reality eXtravaganza
+Augmented Realities eXtravaganza
 
-Augmented Reality eXtraordinaire
+Augmented Realities eXtraordinaire
 
-Augmented Reality eXstacy
+Augmented Realities eXstacy
 
-Augmented Reality eXteriors
+Augmented Realities eXteriors
 
-Augmented Reality eXpansion
+Augmented Realities eXpansion
 
-Augmented Reality eXtroversion
+Augmented Realities eXtroversion
 
-Augmented Reality eXtracorporeal
+Augmented Realities eXtracorporeal
 
-Augmented Reality eXhibition
+Augmented Realities eXhibition
 
-Augmented Reality eXperimentation
+Augmented Realities eXperimentation
 
-Augmented Reality eXistence
+Augmented Realities eXistence
 	eXistentialism
 
-Augmented Reality eXternalization
+Augmented Realities eXternalization
 
-Augmented Reality eXpeditions
+Augmented Realities eXpeditions
 
-Augmented Reality eXclusives
+Augmented Realities eXclusives
 
-Augmented Reality eXponentiation
+Augmented Realities eXponentiation
 
-Augmented Reality eXpostulations
+Augmented Realities eXpostulations
 	Education
 
-Augmented Reality eXcitabilities
-	Freaky deaky stuff lmaooo
+Augmented Realities eXcitabilities
+	Freaky deaky stuff lmaooo (fr tho sex ed? Keep it kosher and age verify but is much needed)
 
-Augmented Reality eXclaustration
+Augmented Realities eXclaustration
 	What is real?
 
-Augmented Reality eXhereditation
+Augmented Realities eXhereditation
 	Become unlike yourself
 
-Augmented Reality eXpurgation
+Augmented Realities eXpurgation
 	Clear your mind
 
-Augmented Reality eXpergefaction
+Augmented Realities eXpergefaction
 	Wake up
 
-Augmented Reality eXtendlessness
+Augmented Realities eXtendlessness
 	It never ends, but you can still enjoy it all
 
-Augmented Reality eXtrinsicality
+Augmented Realities eXtrinsicality
 	Bring that which is out in
 
-Augmented Reality eXplicableness
+Augmented Realities eXplicableness
 	Understand all, gain a new perspective
 
-Augmented Reality eXtracanonical
+Augmented Realities eXtracanonical
 	Write your own story
 
-Augmented Reality eXtraarticular
+Augmented Realities eXtraarticular
 	Perform the impossible
 

@@ -1,3 +1,16 @@
+---
+Date Created: 2025-04-20 12:55
+Last Updated: 2025-04-20 12:55
+tags:
+  - Project
+Index: "[[The ARX Index]]"
+Topic: 
+Status: Unweathered
+Published: true
+Author:
+---
+---
+
 **Public Title: Harnessing Entropy: A Thermodynamic Framework for World Peace and Energy Abundance**
 **~ Internal Title: The ARX Manifesto ~** 
 **Author: Landon Dahle // Elryan The Explorer // The ARX Foundation**

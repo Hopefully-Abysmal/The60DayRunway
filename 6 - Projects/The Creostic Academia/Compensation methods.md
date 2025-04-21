@@ -3,7 +3,7 @@ Date Created: 2025-04-18 07:20
 Last Updated: 2025-04-18 07:20
 tags:
   - Project
-Index: "[[Cracked Ideas]]"
+Index: "[[The ARX Index]]"
 Topic: 
 Status: Unweathered
 Published: true

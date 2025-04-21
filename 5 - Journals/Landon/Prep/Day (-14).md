@@ -55,20 +55,20 @@ Listening to [FORM vol 9](https://www.youtube.com/watch?v=O2hKcoftkv0&t=3122s) S
 ## 🤑Work Schedule
 
 - [ ] Finish admin or digital task  
-	- [ ] Translate written notes to digital
-		- [ ] Upload to AI overloards for review
-		- [ ] Update Readme with scope shift
+	- [x] Translate written notes to digital
+		- [x] Upload to AI overloards for review
+		- [x] Update Readme with scope shift
 	- [ ] Filter personal info to upload
-- [ ] Post updates or progress  
+- [x] Post updates or progress  
 	- [x] Push to repo / update site  
 	- [x] Update socials / links
 		- [x] Added profile pic to github
 		- [x] Posted some funnies to Are.na
-		- [ ] Recorded videos for day (-)15 and day (-) 14
-			- [ ] Edit videos
-			- [ ] Post 
-- [ ] Apply for DOGE
-- [ ] Make Logo
+		- [x] Recorded videos for day (-)15 and day (-) 14
+			- [x] Edit videos
+			- [x] Post 
+- [x] Apply for DOGE
+- [x] Make Logo
 
 ---
 
