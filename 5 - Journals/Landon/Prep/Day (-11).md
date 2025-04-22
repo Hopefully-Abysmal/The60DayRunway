@@ -55,7 +55,7 @@ Author:
 
 ---
 
-## 🧠 [[_Misc Ideas]]
+## 🧠 [[_Misc Tasks]]
 
 ---
 

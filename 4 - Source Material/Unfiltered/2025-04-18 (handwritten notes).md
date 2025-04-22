@@ -118,4 +118,92 @@ Funding the platform:
 	- For those who purely consume (don't create) and don't want to pay can do the freemium model only up until costs have been comped (i.e. incentivize consumption past the point of having ads / allow for one to just watch a ton of ads at the beginning or something idk)
 	- Incentivizes creation or funding of the platform and stimulates the economy (the current justification for advertisements, I still hate them though they're too distracting)
 	- See [[2025-04-19 (handwritten notes)]] for more ideas on this, only relevant ads go to user.
-- 
+
+Campaign:
+- Make America Childish Again
+- Make America Lean Again
+- Make America Think Again
+- Make America Explore Again
+- Make America Explorers Again
+- Make America Whimsical Again
+- Make America FREE Again
+- Make America Educated Again
+- Make America Existential Again
+- Make America Aware Again
+- Make America Great Again (but not like that)
+- Fuck just America, Make ACADEMIA Great Again.
+	- (Plato and the ancient greeks had that shit on lock tbh I envy that)
+
+Accessibility - Text <-> Speech
+- Mobile and desktop, offload processing to servers where applicable (unless privacy is needed, people can locally host and get a discount)
+- Allow for as much offline as possible for places with spotty connection
+	- Pre-load courses in compressed file type akin to how youtube does it lmao (I really do be just yoinkin their shit but like also spotify does it, any music streamer does it;; its not youtube nor googles IP its the tech industries :P )
+- Special Needs Education (need to talk with Mason's Aunt about this, special-ed educator)
+	- Recognize learning speed and tailor for all
+		- Allocate resources where necessary, regardless of diagnosis
+		- (though ofc if extra diagnosis are picked up that system doesnt they are valid and should be accounted for too)
+	- For beyond-border of digital help: In-person help is required.
+		- Need to make in-person communities and mentorship an imperative.\
+	- I was in special Ed (Accelerated Leaning Program) and that shit saved my academic career. 
+
+Context: Curriculum ideas
+- Life Skills:
+	- Counting Money
+	- Paying bills
+	- Budgeting
+	- Taxes
+	- Parenting
+	- Mental Health (DBT REQUIRED EARLY ON)
+	- Safe Drug Use (for 18+ only? idk, should be a young people thing too; people be smoking shit in middle school ffs)
+		- Solution: Parent's choice!
+	- Sex ED (for 18+ only? I have less of a holdup on this one; should be taught YOUNG. Accidents happen. Puberty is chaos.)
+		- Solution: Parent's choice!
+	- Gender / Identity Studies
+		- Help them curate their identity and act as a safe space for ideas.
+	- Relationship Training
+		- Aimed at Preventing Toxicity and Sexual Assault
+	- Cooking
+	- Political literacy
+	- Charity
+	- Polyglot / immersion learning via sorting hat weekly stuff (see below)
+
+Map of local resources:
+- Low cost clinics
+- mental health facilities / hotlines
+- food pantries
+- wellfare qualification assistance
+- pro-bono lawyers
+	- immigration law
+	- patent law
+	- assault persecution
+	- etc.
+
+Mental Health is a necessity in this modern day society (always has been always will be)
+- We put so many resources into researching this but dont teach it in schools for fuckn why???
+- Mandatory testing at all stages of life
+	- Provide resources if needed
+	- Notify parents IF child consents and is non-life-threatening; ensure this is a logical refusal if so;; cps if need be yk what I mean
+- Passively test for learning disabilities
+	- Utilize reading speed, comprehension, ideation speed, etc. as metrics
+	- Parse against timeframe of child development (I need to learn this by heart)
+- Monitor for whatever needs to be monitored for with AI and notify teachers / guardians / etc.
+	- Suicidality
+	- Sexual Assault
+	- Trafficking
+	- Abuse
+	- Addiction
+	- Bullying
+
+Sorting Hat
+- Based on verified age, location, stats, and interests; sort into group / communities to then do socratic seminars for course discussion (and irrelevant discussion!).
+- Shuffle - Switch it up! (Once a week?) Put kids in conference calls with people all over the world with the same sorting system; give them an objective and let them figure it out (translation etc.)
+	- Helps build kids networks
+	- Helps kids learn global worldview
+	- Helps kids not fall into trap of confirmation bias (of culture, location, etc.)
+	- Again (as always) need to consult childhood development experts on how this works specifically as to not harm with this concept.
+
+Peer mentor weekly meetings -> upperclassmen // higher divisions
+- everyone pulls everyone else up! 
+- The only thing I like abt frats / sorrorities is the community, the way they do bigs and littles is an ingenious idea that can be put into practice at a much younger age.
+- Again track interactions for hazing / bullying but like why not??
+

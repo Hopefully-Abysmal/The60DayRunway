@@ -22,48 +22,6 @@
             }
           },
           {
-            "id": "1551166790b99ea3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Projects/The ARX Foundation/ARX Names.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ARX Names"
-            }
-          },
-          {
-            "id": "f603f0396eece895",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4 - Source Material/_LLM Logs/Analysis of More by Hangmeas.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Analysis of More by Hangmeas"
-            }
-          },
-          {
-            "id": "f1619851cb468e4e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4 - Source Material/_LLM Logs/Rust Exploration.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Rust Exploration"
-            }
-          },
-          {
             "id": "8e03604025fee893",
             "type": "leaf",
             "state": {
@@ -78,21 +36,21 @@
             }
           },
           {
-            "id": "77ad654bad54e412",
+            "id": "67834c92bebfbcf7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 - Source Material/Unfiltered/2025-04-18 (handwritten notes).md",
+                "file": "4 - Source Material/_LLM Logs/Sports Psychology as grounds for gamification.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-04-18 (handwritten notes)"
+              "title": "Sports Psychology as grounds for gamification"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       },
       {
         "id": "963682a3963f892f",
@@ -127,35 +85,35 @@
             }
           },
           {
-            "id": "77988f34172da450",
+            "id": "40e52a718087dd72",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 - Source Material/Unfiltered/2025-04-18 (handwritten notes).md",
+                "file": "5 - Journals/Landon/Prep/Day (-8).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-04-18 (handwritten notes)"
+              "title": "Day (-8)"
             }
           },
           {
-            "id": "67960c5a0c04de29",
+            "id": "18df4babd59f1dcc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Projects/The Creostic Academia/Subsidiaries and Synergistic partnerships to pursue.md",
+                "file": "5 - Journals/Landon/Prep/_Misc Tasks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Subsidiaries and Synergistic partnerships to pursue"
+              "title": "_Misc Tasks"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -317,35 +275,40 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "61abc57c5a9ddab5",
+  "active": "8e03604025fee893",
   "lastOpenFiles": [
-    "4 - Source Material/Unfiltered/2025-04-19 (handwritten notes).md",
+    "Consolidated_Notes.md",
+    "4 - Source Material/_LLM Logs/Sports Psychology as grounds for gamification.md",
+    "4 - Source Material/_LLM Logs/Architecture Planning.md",
+    "5 - Journals/Landon/Prep/Day (-8).md",
+    "5 - Journals/Landon/Prep/_Misc Tasks.md",
+    "5 - Journals/Landon/Prep/Day (-10).md",
+    "4 - Source Material/_LLM Logs/Rust Exploration.md",
+    "6 - Projects/The ARX Foundation/ARX Names.md",
     "4 - Source Material/Unfiltered/2025-04-18 (handwritten notes).md",
+    "4 - Source Material/Research/Cybersecurity/CTF Games.md",
+    "4 - Source Material/Unfiltered/2025-04-15 (handwritten notes).md",
+    "4 - Source Material/_LLM Logs/Day (-14) Reflection.md",
+    "5 - Journals/Landon/Prep/Day (-9).md",
+    "5 - Journals/Landon/Prep/Day (-11).md",
+    "4 - Source Material/Interviews/Private Transcripts/2025-04-21 -  ADAM MIRI (texted and recorded notes).md",
+    "4 - Source Material/Interviews/Private Transcripts",
     "6 - Projects/The Creostic Academia/Subsidiaries and Synergistic partnerships to pursue.md",
+    "4 - Source Material/Research/Principles/Philosophical Schools of Thought.md",
+    "4 - Source Material/_LLM Logs/Synergy of Epicureanism and Stoicism.md",
+    "2 - Paths/Adam Miri.md",
+    "3 - Indexes/People.md",
+    "4 - Source Material/Research/Principles",
+    "0 - Housekeeping/_Attatchments/Pasted image 20250421193424.png",
+    "0 - Housekeeping/_Attatchments/Pasted image 20250421193418.png",
+    "4 - Source Material/Research/Cybersecurity",
+    "4 - Source Material/Unfiltered/2025-04-19 (handwritten notes).md",
     "3 - Indexes/Outreach.md",
     "6 - Projects/The Creostic Academia/I have identified enough keys to create the sledgehammer needed to break out of this cage.md",
     "6 - Projects/Outreach/Youtube.md",
-    "Consolidated_Notes.md",
-    "4 - Source Material/_LLM Logs/Architecture Planning.md",
     "4 - Source Material/Unfiltered/2025-04-17 (handwritten notes).md",
-    "4 - Source Material/_LLM Logs/Rust Exploration.md",
     "6 - Projects/The Creostic Academia/Compensation methods.md",
-    "4 - Source Material/_LLM Logs/Analysis of More by Hangmeas.md",
-    "6 - Projects/The Creostic Academia/Funding Strategies for Open Access Education.md",
-    "4 - Source Material/Research/Economics/Creation, Time, and Impact Based Economy.md",
-    "5 - Journals/Landon/Prep/Day (-10).md",
-    "6 - Projects/The ARX Foundation/ARX Names.md",
-    "4 - Source Material/Research/Economics/Blockchain - Smart Contracts.md",
-    "6 - Projects/Outreach/DOGE.md",
-    "6 - Projects/The ARX Foundation/ARX Idea Generation.md",
-    "4 - Source Material/Videos/I Spent 18 Months Using Rust And Regret It - PrimeTime.md",
-    "4 - Source Material/Videos/This Exploit Allows Me To Hack Any Vibecoder.md",
-    "4 - Source Material/Videos/AI Is Here And Students You Are Screwed If You Don't Take Action - Prime Reacts.md",
-    "6 - Projects/The Creostic Academia/Creosticism.md",
     "4 - Source Material/Videos",
-    "4 - Source Material/Research/Energy/Harnessing Entropy - A Thermodynamic Framework for World Peace and Energy Abundance.md",
-    "3 - Indexes/The ARX Index.md",
-    "6 - Projects/The ARX Foundation/ARX Products.md",
     "6 - Projects/The Creostic Academia",
     "4 - Source Material/Research/Energy",
     "0 - Housekeeping/_Attatchments/The Arx Foundation（18）.png",
@@ -356,14 +319,9 @@
     "0 - Housekeeping/_Attatchments/The Arx Foundation（13）.png",
     "0 - Housekeeping/_Attatchments/The Arx Foundation（12）.png",
     "0 - Housekeeping/_Attatchments/The Arx Foundation（11）.png",
-    "0 - Housekeeping/_Attatchments/The Arx Foundation（10）.png",
-    "0 - Housekeeping/_Attatchments/The Arx Foundation（9）.png",
     "4 - Source Material/Research/Economics",
     "6 - Projects/Worst Case Prep",
     "4 - Source Material/Research",
-    "6 - Projects/Outreach",
-    "6 - Projects/The Creostic Academia/The Stranded Web",
-    "6 - Projects/_Branding",
-    "4 - Source Material/Ideas"
+    "6 - Projects/Outreach"
   ]
 }
