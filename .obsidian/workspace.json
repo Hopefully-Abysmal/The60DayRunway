@@ -62,12 +62,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 - Source Material/_LLM Logs/Architecture Planning.md",
+                "file": "6 - Projects/The Precursor/Project Planning Automation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Architecture Planning"
+              "title": "Project Planning Automation"
             }
           },
           {
@@ -76,7 +76,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Consolidated_Notes.md",
+                "file": "0 - Housekeeping/Consolidated_Notes.md",
                 "mode": "source",
                 "source": false
               },
@@ -90,12 +90,40 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5 - Journals/Landon/Prep/Day (-8).md",
+                "file": "6 - Projects/Interphrase/Interphrase Branding Ideation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Day (-8)"
+              "title": "Interphrase Branding Ideation"
+            }
+          },
+          {
+            "id": "a0808dabf229bc0e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 - Indexes/Tasks.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tasks"
+            }
+          },
+          {
+            "id": "94d61f788bdaa83f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Projects/Bliss In Ignorance/BII Branding Ideation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "BII Branding Ideation"
             }
           },
           {
@@ -112,8 +140,7 @@
               "title": "_Misc Tasks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -277,10 +304,26 @@
   },
   "active": "8e03604025fee893",
   "lastOpenFiles": [
-    "Consolidated_Notes.md",
-    "4 - Source Material/_LLM Logs/Sports Psychology as grounds for gamification.md",
+    "6 - Projects/The Precursor/Project Planning Automation.md",
     "4 - Source Material/_LLM Logs/Architecture Planning.md",
+    "2 - Paths/ChatGPT.md",
+    "6 - Projects/The Precursor",
+    "0 - Housekeeping/Consolidated_Notes.md",
+    "6 - Projects/Interphrase/Interphrase Branding Ideation.md",
+    "6 - Projects/_Branding/Thumbnails.md",
+    "6 - Projects/Interphrase/🌐 Interphrase — Tasklist.md",
+    "6 - Projects/Bliss In Ignorance/🐝 Bliss in Ignorance (BII) – Tasklist.md",
+    "3 - Indexes/Tasks.md",
+    "6 - Projects/Bliss In Ignorance/BII Branding Ideation.md",
+    "0 - Housekeeping/_Attatchments/icon-48.png",
+    "2 - Paths/Interphrase.md",
+    "3 - Indexes/Branding.md",
+    "0 - Housekeeping/_Attatchments/Pasted image 20250423101159.png",
+    "5 - Journals/Landon/Prep/Day (-7).md",
+    "6 - Projects/Interphrase",
+    "6 - Projects/Bliss In Ignorance",
     "5 - Journals/Landon/Prep/Day (-8).md",
+    "4 - Source Material/_LLM Logs/Sports Psychology as grounds for gamification.md",
     "5 - Journals/Landon/Prep/_Misc Tasks.md",
     "5 - Journals/Landon/Prep/Day (-10).md",
     "4 - Source Material/_LLM Logs/Rust Exploration.md",
@@ -293,21 +336,10 @@
     "5 - Journals/Landon/Prep/Day (-11).md",
     "4 - Source Material/Interviews/Private Transcripts/2025-04-21 -  ADAM MIRI (texted and recorded notes).md",
     "4 - Source Material/Interviews/Private Transcripts",
-    "6 - Projects/The Creostic Academia/Subsidiaries and Synergistic partnerships to pursue.md",
-    "4 - Source Material/Research/Principles/Philosophical Schools of Thought.md",
-    "4 - Source Material/_LLM Logs/Synergy of Epicureanism and Stoicism.md",
-    "2 - Paths/Adam Miri.md",
-    "3 - Indexes/People.md",
     "4 - Source Material/Research/Principles",
     "0 - Housekeeping/_Attatchments/Pasted image 20250421193424.png",
     "0 - Housekeeping/_Attatchments/Pasted image 20250421193418.png",
     "4 - Source Material/Research/Cybersecurity",
-    "4 - Source Material/Unfiltered/2025-04-19 (handwritten notes).md",
-    "3 - Indexes/Outreach.md",
-    "6 - Projects/The Creostic Academia/I have identified enough keys to create the sledgehammer needed to break out of this cage.md",
-    "6 - Projects/Outreach/Youtube.md",
-    "4 - Source Material/Unfiltered/2025-04-17 (handwritten notes).md",
-    "6 - Projects/The Creostic Academia/Compensation methods.md",
     "4 - Source Material/Videos",
     "6 - Projects/The Creostic Academia",
     "4 - Source Material/Research/Energy",
@@ -317,11 +349,6 @@
     "0 - Housekeeping/_Attatchments/The Arx Foundation（15）.png",
     "0 - Housekeeping/_Attatchments/The Arx Foundation（14）.png",
     "0 - Housekeeping/_Attatchments/The Arx Foundation（13）.png",
-    "0 - Housekeeping/_Attatchments/The Arx Foundation（12）.png",
-    "0 - Housekeeping/_Attatchments/The Arx Foundation（11）.png",
-    "4 - Source Material/Research/Economics",
-    "6 - Projects/Worst Case Prep",
-    "4 - Source Material/Research",
-    "6 - Projects/Outreach"
+    "4 - Source Material/Research/Economics"
   ]
 }

@@ -1,6 +1,6 @@
 ---
-Date Created: "2025-04-22 12:34"
-Last Updated: "2025-04-22 12:34"
+Date Created: "2025-04-23 08:49"
+Last Updated: "2025-04-23 08:49"
 tags:
   - Archive
 Index: "[[Journals]]"
@@ -10,31 +10,27 @@ Author:
 ---
 ---
 
-# 📆 Daily Log – 2025-04-22
+# 📆 Daily Log – 2025-04-23
 
 **Shit I Need to Do Today:**
 
 ## 🕒 Life Schedule
 
-- [x] Make work to-do list  
-- [x] Morning routine  
-	- [x] Brush teeth  
-	- [x] Take meds  
-		- [ ] straterra (still staying off it, the rest of everything is really doing it for me; saving it for when I NEED it.)
+- [ ] Make work to-do list  
+- [ ] Morning routine  
+	- [ ] Brush teeth  
+	- [ ] Take meds  
+		- [x] straterra
 		- [x] l-methyl folate
 		- [x] glucosamine with chondroitin
 		- [x] omega 3-6-9 complex
 		- [x] mushroom blend
 		- [x] veggie superfood blend
-	- [x] Drink something green and holy (Good old matcha my beloved)  
+	- [ ] Drink something green and holy (Good old matcha my beloved)  
 - [ ] Check financial status (e.g., bank, crypto, whatever)
-- [x] Eat something (yes, that counts)
-	- [x] Ate an egg sandwich :dance:
-- [x] Do a chore (dish/laundry/trash/etc.)
-	- [x] Trash run
-- [x] Handle pet care / errands / groceries  
-	- [ ] Took Ares out at 12:20, Nala before I go to group proj meeting
-- [ ] Go to store for groceries
+- [ ] Eat something (yes, that counts)
+- [ ] Do a chore (dish/laundry/trash/etc.)
+- [ ] Handle pet care / errands / groceries  
 - [ ] Shower (for the love of all that is sacred)
 - [ ] Reflect / prep for public speaking / writing
 - [ ] Go outside (optionally with friends)
@@ -49,10 +45,8 @@ Author:
 
 ## 🤑Work Schedule
 
-  
-- [x] Finish Translation [[2025-04-18 (handwritten notes)]]
-- [x] Group project busywork (2-4pm)
-	- [x] Get list of injection molding shit for mike
+- [ ] BII and Interphrase prototype
+	- [ ] Use to apply for meloy innovator's grant ($2k)
 - [ ] Take and Record myers-briggs aptitude test (need before friday for career counseling)
 	- [ ] Reach out to myers-briggs // look into the tech they use for aptitude testing, quite ingenious tbh
 - [ ] Push [[Consolidated_Notes|all ideas]] to gpt to make long-term plan
@@ -65,10 +59,13 @@ Author:
 	- [ ] Remove redundant work schedule stuff from to-do
 		- [ ] Code something to copy paste the unchecked from the last days work schedule to auto update the template for next day?
 - [ ] If time permits - Fix my fuckn split keeb mounts
+- [ ] Finish admin or digital task  
+	- [ ] Transfer ideas / organize files  
+	- [ ] Filter personal info to upload
 - [ ] Post updates or progress  
-	- [x] Push to repo / update site  
+	- [ ] Push to repo / update site  
 	- [ ] Update socials / links
-- [x] Quartz webhosting on hopefullyabysmal.github.io (dude this is getting pushed off so much lmaoooo; sadly its just a convenience thing that is low priority, culling to misc. ideas and renaming to misc. tasks)
+
 
 ---
 
@@ -76,8 +73,3 @@ Author:
 
 ---
 
-# Notes
-
-Wife and I put on temporary tattoos B)
-
-Matcha for first time in a bit; good stuff.

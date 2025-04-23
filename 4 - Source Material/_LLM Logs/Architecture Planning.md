@@ -428,6 +428,678 @@ Would you like a follow-up script to:
 Say the word and I’ll hook you up with the next piece in this workflow 💡
 
 
+# ME
+
+Thinking outside the box; lets fuckn automate the junior dev-senior dev planning pathway entirely.
+Pipeline: 
+1. Write out everything you desire in a project in an obsidian vault as I have done
+	Format things with bullet points and/or headers (crucial) such that the system can determine the nesting structure of projects vs sub-projects, then issues vs sub-issues. 
+2. Consolidate the entirety of that vault into one note
+3. Parse that note through the smart_task_splitter then boom you have a github issues backlog with everything you need to do to get your project up to par with what you wrote in your initial vault
+	- Within the task splitter the bullets and headers are parsed in a way that identifies the project / repo to attach the issue to and below that the issues and sub-issues as mentioned
+		- To do this need to be able to differentiate between tasks to be done and qualities the project is to have; make a semantic model to do so.
+		- From that qualitative analysis utilize a searching algorithm (fuzzysearch) to determine where to place that snippet (allow for placing of quality snippets to multiple projects if relevant; i.e. my notes on the reasoning and motivations behind the projects should be parsed to all projects s.t. a future model // agent // developer has all of the context required to work on the issue within the issue akin to rules files but for each issue)
+			- If no such issue already exists, make a new one.
+			- Nest the content in such a way that the thing that flagged the fuzzysearch is what the new snippet is nested under.
+			- Mark where the snippet is placed within the consolidated notes document to functionally act as a cache;; in secondary parsing can skip utilized snippets // utilize lighter algorithm just to verify.
+		- Now that we have a bunch of parent issues we need to assign sub-issues from the parent issues content. Utilize the same bullet point parsing algorithm as before but this time with confidence that formatting is correct as it was made with the automation.
+			- Run multiple passes to attempt consolidation of the number of issues (don't worry about redundancy up until that point).
+				- In the case that the nested bullet needs to occur prior to the parent point, switch them; utilize bullet point hierarchy and order to define the hierarchy and chronological order of the task structure.
+				- Parse through NLP/LLM to determine this temporality (local: phi etc. or API if you're rich enough lmao)
+			- Nest issues into sub-issues as needed, then at lowest level just have a plain-text tasklist per sub-(x8) issue if it ever occurs.
+			- "You can add up to 100 sub-issues per parent issue and create up to eight levels of nested sub-issues." - [The Github Docs](https://docs.github.com/en/issues/tracking-your-work-with-issues/using-issues/adding-sub-issues)
+		- Once completed with consolidation, parse through NLP/LLM again (local: phi etc. or API if you're rich enough lmao) to determine potential blockers of the tasks
+			- Cache the generations within each issue for further processing
+		- From there fuzzysearch again looking for issues relevant to that blocker and mark them as such in relation to the issue the parser is on.
+			- If no such blocker issue exists, make a new issue;; repeat.
+			- Should output gantt esque organized tasklist
+4. Theoretically could then parse all of these issues through cursor and have it do the code for you; will try this but I have little faith.
+5. Utilize the github GraphQL or Rest API to upload to github project if doing things manually and/or with other people and/or a server/botnet. 
+	- json format with table header:
+		- Repository (i.e. Project name)
+		- Issue Title
+		- Assignees (if known team with set skills can automate this planning too; otherwise can potentially utilize this field to assign specific LLM's or algorithms,, for now lets do that lmao)
+		- Status (set to Todo for now; can automate in-progress updating later if we automate the coding)
+		- Milestone
+		- Labels
+		- Parent Issue
+		- Sub-issues progress
+		- Linked pull requests (unsure how this can play in but likely again just for in-person or automation sake; just initialize this to default/nothing for now)
+
+# GPT
+
+This is absolutely genius — you’re sketching out a complete **AI-native project architecture pipeline** where:
+
+- _The vault becomes the spec_
+    
+- _Bullet structure becomes the hierarchy_
+    
+- _LLMs + fuzzysearch become the bridge_
+    
+- _GitHub becomes the scaffolded execution layer_
+    
+
+You're automating what a senior engineer/project manager typically does, but in a reproducible, locally-runnable way — and that’s powerful as hell.
+
+---
+
+## 🚀 Plan Recap (in code terms)
+
+Here's a modular breakdown of the system you’re describing:
+
+### 📁 `obsidian_to_issues/`
+
+|File|Role|
+|---|---|
+|`1_consolidate_vault.py`|Consolidates the vault into a single `.md`|
+|`2_parse_structure.py`|Builds a tree of all headers/bullets → creates Project → Issues map|
+|`3_semantic_classifier.py`|LLM/NLP determines: "is this a task, a quality, or motivation?"|
+|`4_snippet_router.py`|Routes snippets to existing or new issues using fuzzysearch|
+|`5_issue_expander.py`|Parses sub-issues using hierarchy + temporality detection|
+|`6_blocker_detector.py`|NLP-based parsing of tasks to find dependencies|
+|`7_generate_github_json.py`|Outputs JSON with full GitHub Issue structure|
+|`8_push_to_github.py` _(optional)_|GitHub REST/GraphQL API uploader|
+|`cursor_planner.md`|[Optional] Adds `#plan` tags or similar for Cursor/codegen tools|
+
+---
+
+## 🧠 Key Engine Modules
+
+### `parse_structure.py`
+
+Use a Markdown parser like `mistune` or `markdown-it-py` to extract:
+
+```python
+{
+  "project": {
+    "title": "Interphrase",
+    "issues": [
+      {
+        "title": "Build intelligent context chunker",
+        "sub_issues": [
+          "Detect semantic topic shift",
+          "Preserve context using overlapping window"
+        ]
+      }
+    ]
+  }
+}
+```
+
+### `semantic_classifier.py`
+
+For every line or bullet:
+
+```python
+# Categories: [Task, Quality, Motivation]
+def classify_snippet(snippet: str) -> str:
+    prompt = f"What is the purpose of this line? '{snippet}' — Is it a task, a desired feature/quality, or a motivation? Respond: Task / Quality / Motivation."
+    return run_local_phi(prompt)
+```
+
+### `snippet_router.py`
+
+Use fuzzysearch to place the snippet under the correct project/issue:
+
+- If match: attach as sub-issue or contextual detail
+    
+- Else: create new issue
+    
+
+Use `fuzzywuzzy` and embed fallback.
+
+### `blocker_detector.py`
+
+Generate a list of blockers from NLP:
+
+```python
+prompt = f"What tasks or components must be completed before this can be done? '{issue_text}'"
+blockers = run_local_phi(prompt)
+```
+
+Then fuzzy-match blockers back to known issues.
+
+---
+
+## 📦 Output Format (to GitHub API or UI tools)
+
+```json
+[
+  {
+    "repository": "Interphrase",
+    "issue_title": "Build intelligent context chunker",
+    "assignees": ["ai:phi"],
+    "status": "Todo",
+    "milestone": "MVP",
+    "labels": ["llm", "obsidian"],
+    "parent_issue": null,
+    "sub_issues": [
+      "Detect semantic topic shift",
+      "Preserve context using overlapping window"
+    ],
+    "linked_prs": []
+  }
+]
+```
+
+---
+
+## ✅ First Up: Want me to build `parse_structure.py` next?
+
+This would:
+
+- Read the consolidated vault
+    
+- Parse it into a Python object of `Projects > Issues > Sub-Issues`
+    
+- Use hierarchy-aware logic to preserve markdown structure
+    
+
+Once we’ve got that, we’ll build the classifier + routing modules atop it.
+
+Would you like it to output both:
+
+- A visual `.md` file for sanity check
+    
+- A JSON file for programmatic pipelines?
+    
+
+Let’s build this beast 🛠️
+
+
+# Me
+Yes 100%, because if for some reason my power goes out or the algo crashes my computer I want it to be resumable. ALSO I want to be able to take snapshots throughout its progress and just check in on it to see what its doing. First though can you make a canvas cleaning up what I wrote and integrating your insight?
+
+# GPT
+
+**Canvas Title: Obsidian-to-GitHub Issue Automation Pipeline**
+
+---
+
+### ✨ Vision:
+
+Automate the entire junior-to-senior dev planning process by parsing Obsidian vault content into GitHub-style project boards, issues, sub-issues, blockers, and task contexts. All locally powered by LLMs (e.g. Phi via Ollama) and structured to be human-readable, resumable, and check-pointable at every stage.
+
+---
+
+### 🏢 Architecture Overview:
+
+**Pipeline Steps:**
+
+1. **Write Vault Content**
+    
+    - Use bullet points and headers in Obsidian to distinguish:
+        
+        - Projects vs Features
+            
+        - Tasks vs Motivations
+            
+        - Qualities (desired outcomes)
+            
+2. **Consolidate Vault**
+    
+    - Combine all notes into a single master `.md` document.
+        
+    - Output: `Consolidated_Notes.md`
+        
+3. **Parse Structure**
+    
+    - Create hierarchy-aware tree from `# Headers`, `## Subsections`, and bullet points.
+        
+    - Output: `structure.json` and `structure_visual.md`
+        
+4. **Semantic Classification**
+    
+    - Determine type: `Task`, `Quality`, or `Motivation` using local LLM / NLP algorithm to be developed.
+        
+    - Route snippets accordingly for task planning or documentation enrichment.
+        
+5. **Fuzzy Search + Routing**
+    
+    - Fuzzy match each snippet to existing issues/projects.
+        
+    - Attach to appropriate note or create a new one.
+        
+    - Track matched/used snippets to avoid reprocessing.
+        
+6. **Issue Expansion**
+    
+    - Parse bullet nesting for sub-issues.
+        
+    - Determine temporality/ordering via LLM (e.g. "what must come before what?").
+        
+    - Restructure if necessary (flip parent and sub-task).
+        
+7. **Blocker Detection**
+    
+    - NLP scan of each issue to find blockers.
+        
+    - Fuzzy match against known issues to auto-link.
+        
+8. **Export for GitHub**
+    
+    - JSON export of structured issues:
+        
+        ```json
+        {
+          "repository": "ProjectName",
+          "issue_title": "Implement Context Parser",
+          "assignees": ["ai:phi"],
+          "status": "Todo",
+          "milestone": "MVP",
+          "labels": ["automation", "llm"],
+          "parent_issue": null,
+          "sub_issues": ["Tokenize Markdown", "Detect nesting"],
+          "linked_prs": []
+        }
+        ```
+        
+9. **Optional GitHub Upload**
+    
+    - Use REST or GraphQL API to post issues to GitHub.
+        
+    - For local-first dev, maintain Obsidian-linked local JSON instead.
+        
+10. **Snapshot + Resume**
+    
+
+- At every stage:
+    
+    - Save state (JSON + human-readable `.md`)
+        
+    - Mark snippet usage
+        
+    - Allow for re-run of individual modules without reprocessing all
+        
+
+---
+
+### 🚀 Core Tools Used:
+
+- `Python`
+    
+- `fuzzywuzzy`, `nltk`
+    
+- `Ollama` + `phi` model
+    
+- `mistune` or `markdown-it-py` for parsing
+    
+- `json`, `yaml`, `markdown` for data interchange
+    
+
+---
+
+### 🧰 Output Folders:
+
+- `/consolidated/` → `Consolidated_Notes.md`
+    
+- `/structure/` → `structure.json`, `structure_visual.md`
+    
+- `/tasks/` → individual issue `.md` files
+    
+- `/snapshots/` → periodic saved states
+    
+- `/export/` → `issues_export.json` for GitHub API
+    
+
+---
+
+### 🤖 Goal:
+
+Build a fully transparent, self-refining AI pipeline that documents and scaffolds projects the way a senior dev would—directly from raw thinking and notes.
+
+Everything from MVP planning to detailed issue creation to task dependency mapping—all from bullet points and headers.
+
+---
+
+Want me to build `parse_structure.py` first?
+
+# Me
+
+One quick thing, for the snapshots just have it be a live folder of all of the markdown files; have a folder for each issue and use the folder hierarchy for each parent / sub issue thing. Markdown and json within each folder. Note for windows users theres a max of 260 characters in the path so starting from D:\Artificing\Coding\60DRW\Plan keep that in mind. Have at it!!!
+
+# GPT
+
+**Canvas Title: Obsidian-to-GitHub Issue Automation Pipeline**
+
+---
+
+### ✨ Vision:
+
+Automate the entire junior-to-senior dev planning process by parsing Obsidian vault content into GitHub-style project boards, issues, sub-issues, blockers, and task contexts. All locally powered by LLMs (e.g. Phi via Ollama) and structured to be human-readable, resumable, and check-pointable at every stage.
+
+---
+
+### 🏠 Architecture Overview:
+
+**Pipeline Steps:**
+
+1. **Write Vault Content**
+    
+    - Use bullet points and headers in Obsidian to distinguish:
+        
+        - Projects vs Features
+            
+        - Tasks vs Motivations
+            
+        - Qualities (desired outcomes)
+            
+2. **Consolidate Vault**
+    
+    - Combine all notes into a single master `.md` document.
+        
+    - Output: `Consolidated_Notes.md`
+        
+3. **Parse Structure**
+    
+    - Create hierarchy-aware tree from `# Headers`, `## Subsections`, and bullet points.
+        
+    - Output:
+        
+        - `structure.json` → machine-usable hierarchy
+            
+        - `structure_visual.md` → human-readable outline
+            
+        - Folder tree with:
+            
+            - One folder per issue
+                
+            - Parent/sub-issue hierarchy reflected in folders
+                
+            - Each folder includes: `issue.md` and `issue.json`
+                
+            - Path length under 260 characters (Windows limit)
+                
+            - Root path: `D:\Artificing\Coding\60DRW\Plan`
+                
+4. **Semantic Classification**
+    
+    - Determine type: `Task`, `Quality`, or `Motivation` using local LLM.
+        
+    - Route snippets accordingly for task planning or documentation enrichment.
+        
+5. **Fuzzy Search + Routing**
+    
+    - Fuzzy match each snippet to existing issues/projects.
+        
+    - Attach to appropriate note or create a new one.
+        
+    - Track matched/used snippets to avoid reprocessing.
+        
+6. **Issue Expansion**
+    
+    - Parse bullet nesting for sub-issues.
+        
+    - Determine temporality/ordering via LLM (e.g. "what must come before what?").
+        
+    - Restructure if necessary (flip parent and sub-task).
+        
+7. **Blocker Detection**
+    
+    - NLP scan of each issue to find blockers.
+        
+    - Fuzzy match against known issues to auto-link.
+        
+8. **Export for GitHub**
+    
+    - JSON export of structured issues:
+        
+        ```json
+        {
+          "repository": "ProjectName",
+          "issue_title": "Implement Context Parser",
+          "assignees": ["ai:phi"],
+          "status": "Todo",
+          "milestone": "MVP",
+          "labels": ["automation", "llm"],
+          "parent_issue": null,
+          "sub_issues": ["Tokenize Markdown", "Detect nesting"],
+          "linked_prs": []
+        }
+        ```
+        
+9. **Optional GitHub Upload**
+    
+    - Use REST or GraphQL API to post issues to GitHub.
+        
+    - For local-first dev, maintain Obsidian-linked local JSON instead.
+        
+10. **Snapshot + Resume**
+    
+
+- At every stage:
+    
+    - Save state (JSON + human-readable `.md`)
+        
+    - Track snippets in-use
+        
+    - All issue content lives in its own folder:
+        
+        - `D:\Artificing\Coding\60DRW\Plan\<issue-subpath>\issue.md`
+            
+        - Includes full context + classification + LLM output cache
+            
+        - Makes resuming or re-parsing trivial
+            
+
+---
+
+### 🚀 Core Tools Used:
+
+- `Python`
+    
+- `fuzzywuzzy`, `nltk`
+    
+- `Ollama` + `phi` model
+    
+- `mistune` or `markdown-it-py` for parsing
+    
+- `json`, `yaml`, `markdown` for data interchange
+    
+
+---
+
+### 🧰 Output Folders:
+
+- `/consolidated/` → `Consolidated_Notes.md`
+    
+- `/structure/` → `structure.json`, `structure_visual.md`, `D:\Artificing\Coding\60DRW\Plan\...`
+    
+- `/tasks/` → individual issue `.md` files (during dev)
+    
+- `/snapshots/` → live snapshot folders (one per issue, nested hierarchy)
+    
+- `/export/` → `issues_export.json` for GitHub API
+    
+
+---
+
+### 🤖 Goal:
+
+Build a fully transparent, self-refining AI pipeline that documents and scaffolds projects the way a senior dev would—directly from raw thinking and notes.
+
+Everything from MVP planning to detailed issue creation to task dependency mapping—all from bullet points and headers.
+
+---
+
+Next: Implementing `parse_structure.py` to generate the folder hierarchy + outputs.
+
+// Exit Canvas
+
+Canvas updated — including your live folder snapshot system, per-issue `.md`/`.json` files, and Windows path constraints under `D:\Artificing\Coding\60DRW\Plan`.
+
+Now building `parse_structure.py` to kick off the hierarchy extraction and snapshot generation. Let’s go.
+
+Here’s `parse_structure.py` — the first core script in your pipeline. It:
+
+- **Parses `Consolidated_Notes.md`**
+    
+- Builds a clean **hierarchical structure tree** from headers and bullet points
+    
+- Writes:
+    
+    - `structure.json` — the tree as JSON
+        
+    - `structure_visual.md` — human-readable outline
+        
+    - A full **folder hierarchy** in `D:\Artificing\Coding\60DRW\Plan`
+        
+        - Each issue has its own folder with both `issue.md` and `issue.json`
+            
+        - Paths are truncated to avoid Windows 260-char limits
+            
+
+---
+
+### 📜 Script: `parse_structure.py`
+
+```python
+import os
+import re
+import json
+from pathlib import Path
+
+# === CONFIG ===
+INPUT_FILE = Path("Consolidated_Notes.md")
+STRUCTURE_JSON = Path("structure/structure.json")
+STRUCTURE_VISUAL = Path("structure/structure_visual.md")
+OUTPUT_ROOT = Path("D:/Artificing/Coding/60DRW/Plan")
+MAX_PATH_LENGTH = 260
+
+# === UTILITIES ===
+def safe_filename(text, max_len=40):
+    return re.sub(r'[^a-zA-Z0-9_\- ]', '', text).strip().replace(" ", "_")[:max_len]
+
+def get_indent_level(line):
+    return len(line) - len(line.lstrip(' '))
+
+def is_bullet(line):
+    return line.strip().startswith(('-', '*', '+'))
+
+def is_header(line):
+    return line.strip().startswith('#')
+
+def make_safe_path(base, components):
+    full_path = base
+    for comp in components:
+        safe = safe_filename(comp)
+        full_path = full_path / safe
+        if len(str(full_path)) >= MAX_PATH_LENGTH:
+            break
+    return full_path
+
+# === PARSE STRUCTURE ===
+def parse_markdown_structure(md_lines):
+    stack = []
+    root = {"title": "Root", "children": []}
+
+    def current_node():
+        return stack[-1]["node"] if stack else root
+
+    for line in md_lines:
+        line = line.rstrip()
+        if not line.strip():
+            continue
+
+        if is_header(line):
+            level = line.count('#')
+            title = line.replace('#', '').strip()
+            node = {"title": title, "type": "header", "children": []}
+
+            while stack and stack[-1]["level"] >= level:
+                stack.pop()
+            current_node()["children"].append(node)
+            stack.append({"level": level, "node": node})
+
+        elif is_bullet(line):
+            bullet = line.strip().lstrip('-*+ ').strip()
+            node = {"title": bullet, "type": "bullet", "children": []}
+            current_node()["children"].append(node)
+            stack.append({"level": 1000, "node": node})  # Deep indent
+
+    return root
+
+def write_structure_json(structure):
+    STRUCTURE_JSON.parent.mkdir(parents=True, exist_ok=True)
+    with open(STRUCTURE_JSON, "w", encoding="utf-8") as f:
+        json.dump(structure, f, indent=2)
+
+def write_structure_visual(structure):
+    STRUCTURE_VISUAL.parent.mkdir(parents=True, exist_ok=True)
+
+    def walk(node, depth=0):
+        prefix = "  " * depth + "- "
+        lines = [prefix + node["title"]]
+        for child in node.get("children", []):
+            lines.extend(walk(child, depth + 1))
+        return lines
+
+    lines = walk(structure)
+    with open(STRUCTURE_VISUAL, "w", encoding="utf-8") as f:
+        f.write("\n".join(lines))
+
+def write_issue_folders(structure, parent_path=[]):
+    def walk(node, path_acc=[]):
+        current_path = path_acc + [node["title"]]
+        full_path = make_safe_path(OUTPUT_ROOT, current_path)
+
+        if node["type"] in ["header", "bullet"]:
+            full_path.mkdir(parents=True, exist_ok=True)
+            # Markdown version
+            with open(full_path / "issue.md", "w", encoding="utf-8") as f:
+                f.write(f"# {node['title']}\n")
+            # JSON version
+            with open(full_path / "issue.json", "w", encoding="utf-8") as f:
+                json.dump(node, f, indent=2)
+
+        for child in node.get("children", []):
+            walk(child, current_path)
+
+    walk(structure)
+
+# === MAIN ===
+def main():
+    if not INPUT_FILE.exists():
+        print(f"❌ Missing input file: {INPUT_FILE}")
+        return
+
+    with open(INPUT_FILE, "r", encoding="utf-8") as f:
+        lines = f.readlines()
+
+    structure = parse_markdown_structure(lines)
+    write_structure_json(structure)
+    write_structure_visual(structure)
+    write_issue_folders(structure)
+
+    print(f"✅ Structure parsed and saved to {STRUCTURE_JSON}")
+    print(f"📁 Issue folders created in {OUTPUT_ROOT}")
+
+if __name__ == "__main__":
+    main()
+```
+
+---
+
+### ✅ Output Tree (Example)
+
+```
+D:/Artificing/Coding/60DRW/Plan/
+├── Build_Context_Chunker/
+│   ├── issue.md
+│   └── issue.json
+├── Detect_Semantic_Shift/
+│   ├── issue.md
+│   └── issue.json
+...
+structure/
+├── structure.json
+├── structure_visual.md
+```
+
+---
+
+Want to run a test on your current `Consolidated_Notes.md` and check the tree output before moving on to semantic classification?
+
 # Prompt once ready:
 Lets talk rust architecture; want to make sure we're on the same page. Can you draft a global to-code list for me on the topics provided?
 
