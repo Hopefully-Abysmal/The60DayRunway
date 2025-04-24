@@ -19,3 +19,5 @@ Author:
 - [ ] Filter personal info to upload
 	- [ ] Remainder of 'cracked ideas'
 	- [ ] Personal zettelkasten as a whole
+- [ ] Reach out to myers-briggs // look into the tech they use for aptitude testing, quite ingenious tbh
+	- [ ] Look into their research!!
