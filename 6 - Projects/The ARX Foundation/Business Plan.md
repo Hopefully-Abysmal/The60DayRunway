@@ -901,9 +901,9 @@ Akin to DOI, ContentID, SSID, and the basic URL, everything and everyone needs t
 
 
 ## Subsidiaries // Synergistic partnerships to pursue:
-Activity hub integration - sync all action across all platforms s.t. one can create and maximize impact to users off platform
+Activity pub integration - sync all action across all platforms s.t. one can create and maximize impact to users off platform
 
-Content creation and distribution platforms :: Youtube (google) / insta (meta) / X / patreon idgaf  - creators that utilize youtube (any platform for that matter) can and should be able to opt to share their content on our platform as well; request their integration with activity hub and if rejected target the creators themselves; the mentality that one cannot do this is just a mental block lmao, we have the ability to contact anyone and everyone on this planet with a few clicks of a button and that is here to stay so fuck it lets use it for good.
+Content creation and distribution platforms :: Youtube (google) / insta (meta) / X / patreon idgaf  - creators that utilize youtube (any platform for that matter) can and should be able to opt to share their content on our platform as well; request their integration with activity-pub and if rejected target the creators themselves; the mentality that one cannot do this is just a mental block lmao, we have the ability to contact anyone and everyone on this planet with a few clicks of a button and that is here to stay so fuck it lets use it for good.
 
 Content creators themselves :: I really want to reach out to all of my favorite musicians and designers to ask for help / to use their music / designs in marketing this (from the people for the people as is the true American ideology ~ from the creators for the creators) 
 

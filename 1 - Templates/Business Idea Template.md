@@ -4,7 +4,7 @@ Last Updated: "{{date}} {{time}}"
 tags:
   - Project
 Index:
-  - "[[Cracked Ideas]]"
+  - "[[The ARX Index]]"
 Topic: 
 Status: Unweathered
 Published: true

@@ -102,7 +102,7 @@ Author: Landon
 			- Hostile takeover of all social media:
 				- Post EVERYTHING EVERYWHERE.
 				- Discord // matrix // IRC integration in Pine64 dev server as example
-				- Integrate with activity-hub; I fw it heavy cause it tells monopolies to fuck off
+				- Integrate with activity-pub; I fw it heavy cause it tells monopolies to fuck off
 	- Symptoms of an individualist economy include but are not limited to:
 		- Homelessness
 		- Debt (without the intent of leveraging it)

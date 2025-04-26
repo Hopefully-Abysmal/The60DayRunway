@@ -903,7 +903,7 @@ Author: Landon
 			- Hostile takeover of all social media:
 				- Post EVERYTHING EVERYWHERE.
 				- Discord // matrix // IRC integration in Pine64 dev server as example
-				- Integrate with activity-hub; I fw it heavy cause it tells monopolies to fuck off
+				- Integrate with activity-pub; I fw it heavy cause it tells monopolies to fuck off
 	- Symptoms of an individualist economy include but are not limited to:
 		- Homelessness
 		- Debt (without the intent of leveraging it)
@@ -3354,7 +3354,7 @@ Author: Landon
 			- Hostile takeover of all social media:
 				- Post EVERYTHING EVERYWHERE.
 				- Discord // matrix // IRC integration in Pine64 dev server as example
-				- Integrate with activity-hub; I fw it heavy cause it tells monopolies to fuck off
+				- Integrate with activity-pub; I fw it heavy cause it tells monopolies to fuck off
 	- Symptoms of an individualist economy include but are not limited to:
 		- Homelessness
 		- Debt (without the intent of leveraging it)
@@ -3871,7 +3871,7 @@ Author:
 ---
 ---
 ## The platform from my mind to paper (screen):
-Activity hub integration - sync all action across all platforms s.t. one can create and maximize impact to users off platform
+Activity pub integration - sync all action across all platforms s.t. one can create and maximize impact to users off platform
 Blockchain smart contracts - traceable, transparent, and soon to be accepted method of attributing impact to creators and rightfully compensating them.
 	Solves AI content training problem too so added bonus lmao
 	I propose as a peace offering to the current platforms that we offer this open source; allow them to use it, may the best platform and community win the user's time!
@@ -3894,9 +3894,9 @@ Focus centered interface
 
 
 ## Subsidiaries // Synergistic partnerships to pursue:
-Activity hub integration - sync all action across all platforms s.t. one can create and maximize impact to users off platform
+Activity-pub integration - sync all action across all platforms s.t. one can create and maximize impact to users off platform
 
-Content creation and distribution platforms :: Youtube (google) / insta (meta) / X / patreon idgaf  - creators that utilize youtube (any platform for that matter) can and should be able to opt to share their content on our platform as well; request their integration with activity hub and if rejected target the creators themselves; the mentality that one cannot do this is just a mental block lmao, we have the ability to contact anyone and everyone on this planet with a few clicks of a button and that is here to stay so fuck it lets use it for good.
+Content creation and distribution platforms :: Youtube (google) / insta (meta) / X / patreon idgaf  - creators that utilize youtube (any platform for that matter) can and should be able to opt to share their content on our platform as well; request their integration with activity-pub and if rejected target the creators themselves; the mentality that one cannot do this is just a mental block lmao, we have the ability to contact anyone and everyone on this planet with a few clicks of a button and that is here to stay so fuck it lets use it for good.
 
 Content creators themselves :: I really want to reach out to all of my favorite musicians and designers to ask for help / to use their music / designs in marketing this (from the people for the people as is the true American ideology ~ from the creators for the creators) 
 

@@ -16,7 +16,7 @@ Author:
 
 ## 🕒 Life Schedule
 
-- [ ] Make work to-do list  
+- [x] Make work to-do list  
 - [x] Morning routine  
 	- [x] Brush teeth  
 	- [x] Take meds  

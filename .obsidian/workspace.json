@@ -13,57 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 - Source Material/Legacies/Steve Jobs.md",
+                "file": "4 - Source Material/_LLM Logs/The Archive Eternal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Steve Jobs"
+              "title": "The Archive Eternal"
             }
           },
           {
-            "id": "a18f4b9bcad164bb",
+            "id": "24c335f47e9d540d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 - Source Material/_LLM Logs/Alternative Energy is an Imperative to power the technologies required to get this to scale.md",
+                "file": "6 - Projects/The Archive Eternal/DataBANK - Data Immortalization Service.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Alternative Energy is an Imperative to power the technologies required to get this to scale"
-            }
-          },
-          {
-            "id": "abd1ca5cd2ec1dd0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4 - Source Material/Research/Energy/Harnessing Entropy - A Thermodynamic Framework for World Peace and Energy Abundance.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Harnessing Entropy - A Thermodynamic Framework for World Peace and Energy Abundance"
-            }
-          },
-          {
-            "id": "9155e1ef89255a27",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "6 - Projects/The Creostic Academia/Funding Cycle for Open Access Education With Accelerative Learning Tools.canvas",
-                "viewState": {
-                  "x": 656.4454261672339,
-                  "y": 402.5239870738652,
-                  "zoom": -0.6075481192843498
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Funding Cycle for Open Access Education With Accelerative Learning Tools"
+              "title": "DataBANK - Data Immortalization Service"
             }
           },
           {
@@ -185,7 +154,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sponsorships",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -317,15 +286,28 @@
   },
   "active": "671ed1f167115df4",
   "lastOpenFiles": [
-    "6 - Projects/The ARX Foundation/Business Plan.md",
+    "6 - Projects/The Archive Eternal/DataBANK - Data Immortalization Service.md",
+    "4 - Source Material/_LLM Logs/The Archive Eternal.md",
+    "6 - Projects/The Archive Eternal/Project (Steve) Jobs/README.md",
+    "6 - Projects/The Archive Eternal/The Human Library.md",
+    "1 - Templates/Business Idea Template.md",
+    "3 - Indexes/Cracked Ideas.md",
     "4 - Source Material/Legacies/Steve Jobs.md",
+    "5 - Journals/Landon/Prep/Day (-4).md",
+    "6 - Projects/The Archive Eternal/Project (Steve) Jobs",
+    "6 - Projects/The ARX Foundation/Business Plan.md",
+    "0 - Housekeeping/Consolidated_Notes.md",
+    "4 - Source Material/Videos/Crypto Investing - More by Hangmeas.md",
+    "5 - Journals/Landon/Prep/Day (-14).md",
+    "6 - Projects/The Creostic Academia/I have identified enough keys to create the sledgehammer needed to break out of this cage.md",
+    "4 - Source Material/Unfiltered/2025-04-15 (handwritten notes).md",
+    "4 - Source Material/Research/Energy/Harnessing Entropy - A Thermodynamic Framework for World Peace and Energy Abundance.md",
+    "4 - Source Material/Unfiltered/2025-04-18 (handwritten notes).md",
+    "6 - Projects/The Creostic Academia/Funding Cycle for Open Access Education With Accelerative Learning Tools.canvas",
     "4 - Source Material/Legacies",
     "0 - Housekeeping/Content Creation Links.md",
-    "5 - Journals/Landon/Prep/Day (-4).md",
     "4 - Source Material/_LLM Logs/Alternative Energy is an Imperative to power the technologies required to get this to scale.md",
-    "4 - Source Material/Research/Energy/Harnessing Entropy - A Thermodynamic Framework for World Peace and Energy Abundance.md",
     "5 - Journals/Landon/Prep/_Misc Tasks.md",
-    "6 - Projects/The Creostic Academia/Funding Cycle for Open Access Education With Accelerative Learning Tools.canvas",
     "6 - Projects/The Creostic Academia/Funding Cycle for Open Access Education.canvas",
     "6 - Projects/The Creostic Academia/The ARX Browser/Smart Tool-selection.md",
     "0 - Housekeeping/_Attatchments/Pasted image 20250426141548.png",
@@ -334,21 +316,9 @@
     "6 - Projects/The ARX Browser.md",
     "1 - Templates/Journal Entry Template.md",
     "5 - Journals/Landon/Prep/Day (-7).md",
-    "1 - Templates/Business Idea Template.md",
     "1 - Templates/General Note Template.md",
     "1 - Templates/Index Template.md",
     "1 - Templates/Path Template.md",
-    "1 - Templates/Question Template.md",
-    "1 - Templates/Source Template.md",
-    "5 - Journals/Landon/Prep/Day (-6).md",
-    "0 - Housekeeping/Consolidated_Notes.md",
-    "6 - Projects/The Precursor/Project Planning Automation.md",
-    "6 - Projects/The Creostic Academia/Funding Strategies for Open Access Education.md",
-    "6 - Projects/The Creostic Academia/Compensation methods.md",
-    "0 - Housekeeping/Memorandum of Understanding.md",
-    "6 - Projects/The Creostic Academia/I have identified enough keys to create the sledgehammer needed to break out of this cage.md",
-    "4 - Source Material/Research/Economics/crypto as backend.md",
-    "5 - Journals/Landon/Prep/Day (-7) 1.md",
     "6 - Projects/The Precursor",
     "0 - Housekeeping/_Attatchments/icon-48.png",
     "0 - Housekeeping/_Attatchments/Pasted image 20250423101159.png",
@@ -360,7 +330,6 @@
     "0 - Housekeeping/_Attatchments/Pasted image 20250421193418.png",
     "4 - Source Material/Research/Cybersecurity",
     "4 - Source Material/Videos",
-    "6 - Projects/The Creostic Academia",
     "0 - Housekeeping/_Attatchments/The Arx Foundation（18）.png",
     "0 - Housekeeping/_Attatchments/The Arx Foundation（17）.png",
     "0 - Housekeeping/_Attatchments/The Arx Foundation（16）.png",

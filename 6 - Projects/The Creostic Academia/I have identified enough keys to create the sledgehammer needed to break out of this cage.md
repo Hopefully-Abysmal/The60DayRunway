@@ -11,7 +11,7 @@ Author:
 ---
 ---
 # The platform from my mind to paper (screen):
-Activity hub integration - sync all action across all platforms s.t. one can create and maximize impact to users off platform
+Activity-pub integration - sync all action across all platforms s.t. one can create and maximize impact to users off platform
 Blockchain smart contracts - traceable, transparent, and soon to be accepted method of attributing impact to creators and rightfully compensating them.
 	Solves AI content training problem too so added bonus lmao
 	I propose as a peace offering to the current platforms that we offer this open source; allow them to use it, may the best platform and community win the user's time!
