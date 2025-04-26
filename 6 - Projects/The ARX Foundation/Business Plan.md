@@ -6,13 +6,16 @@ tags:
 Index:
   - "[[The ARX Index]]"
 Topic:
-  - "[[Funding Strategies for Open Access Education]]"
+  - "[[Funding Cycle for Open Access Education.canvas|Funding Strategies for Open Access Education]]"
   - "[[Finances of Competition]]"
 Status: Unweathered
 Published: true
-Author:
+Author: 
 ---
 ---
+[[Funding Cycle for Open Access Education With Accelerative Learning Tools.canvas|Funding Cycle for Open Access Education With Accelerative Learning Tools]]
+
+
 
 GPT Lean Canvas:
 
@@ -148,8 +151,7 @@ Would you like a visual PDF version of this Lean Canvas, or should we now flesh 
 ```
 
 
-Relevant Notes:
-
+Relevant Notes to generate above:
 # [[license]]
 
 ## LICENSE — The ARX Foundation Public Pact (AFPP)

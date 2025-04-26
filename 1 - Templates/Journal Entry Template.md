@@ -45,13 +45,9 @@ Author:
 
 ## 🤑Work Schedule
 
-- [ ] Finish admin or digital task  
-	- [ ] Transfer ideas / organize files  
-	- [ ] Filter personal info to upload
 - [ ] Post updates or progress  
 	- [ ] Push to repo / update site  
 	- [ ] Update socials / links
-
 
 ---
 

@@ -3837,7 +3837,7 @@ https://en.wikipedia.org/wiki/Platonic_Academy
 
 
 
-# [[Funding Strategies for Open Access Education]]
+# [[Funding Cycle for Open Access Education.canvas|Funding Strategies for Open Access Education]]
 
 ---
 Date Created: 2025-04-17 17:13

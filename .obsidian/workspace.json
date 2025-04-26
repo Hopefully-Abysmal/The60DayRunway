@@ -13,30 +13,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Projects/The ARX Foundation/Business Plan.md",
+                "file": "4 - Source Material/Legacies/Steve Jobs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Business Plan"
+              "title": "Steve Jobs"
             }
           },
           {
-            "id": "18d0ca0d319d9f45",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5 - Journals/Landon/Prep/Day (-7).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Day (-7)"
-            }
-          },
-          {
-            "id": "49c5ee4a0a7bfef8",
+            "id": "a18f4b9bcad164bb",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -50,7 +36,7 @@
             }
           },
           {
-            "id": "bb272fd27dba8d05",
+            "id": "abd1ca5cd2ec1dd0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -61,6 +47,68 @@
               },
               "icon": "lucide-file",
               "title": "Harnessing Entropy - A Thermodynamic Framework for World Peace and Energy Abundance"
+            }
+          },
+          {
+            "id": "9155e1ef89255a27",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "6 - Projects/The Creostic Academia/Funding Cycle for Open Access Education With Accelerative Learning Tools.canvas",
+                "viewState": {
+                  "x": 656.4454261672339,
+                  "y": 402.5239870738652,
+                  "zoom": -0.6075481192843498
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Funding Cycle for Open Access Education With Accelerative Learning Tools"
+            }
+          },
+          {
+            "id": "70237b0b78d5ce0d",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "6 - Projects/The Creostic Academia/Funding Cycle for Open Access Education.canvas",
+                "viewState": {
+                  "x": 525.5297661236004,
+                  "y": 308.5158628855938,
+                  "zoom": -0.6666666666666666
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Funding Cycle for Open Access Education"
+            }
+          },
+          {
+            "id": "7fe59695ac57348d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Projects/The Creostic Academia/The ARX Browser/Smart Tool-selection.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Smart Tool-selection"
+            }
+          },
+          {
+            "id": "066fc64d9df42b01",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - Templates/Journal Entry Template.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Journal Entry Template"
             }
           },
           {
@@ -76,26 +124,6 @@
               "icon": "lucide-file",
               "title": "Architecture Planning"
             }
-          }
-        ]
-      },
-      {
-        "id": "963682a3963f892f",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "b94c19ff0160db16",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Projects/The Precursor/Project Planning Automation.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Project Planning Automation"
-            }
           },
           {
             "id": "d8c9571018e5f7a8",
@@ -110,9 +138,22 @@
               "icon": "lucide-file",
               "title": "Consolidated_Notes"
             }
+          },
+          {
+            "id": "b94c19ff0160db16",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Projects/The Precursor/Project Planning Automation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Project Planning Automation"
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -276,37 +317,43 @@
   },
   "active": "671ed1f167115df4",
   "lastOpenFiles": [
-    "0 - Housekeeping/Consolidated_Notes.md",
     "6 - Projects/The ARX Foundation/Business Plan.md",
+    "4 - Source Material/Legacies/Steve Jobs.md",
+    "4 - Source Material/Legacies",
+    "0 - Housekeeping/Content Creation Links.md",
+    "5 - Journals/Landon/Prep/Day (-4).md",
+    "4 - Source Material/_LLM Logs/Alternative Energy is an Imperative to power the technologies required to get this to scale.md",
+    "4 - Source Material/Research/Energy/Harnessing Entropy - A Thermodynamic Framework for World Peace and Energy Abundance.md",
+    "5 - Journals/Landon/Prep/_Misc Tasks.md",
+    "6 - Projects/The Creostic Academia/Funding Cycle for Open Access Education With Accelerative Learning Tools.canvas",
+    "6 - Projects/The Creostic Academia/Funding Cycle for Open Access Education.canvas",
+    "6 - Projects/The Creostic Academia/The ARX Browser/Smart Tool-selection.md",
+    "0 - Housekeeping/_Attatchments/Pasted image 20250426141548.png",
+    "0 - Housekeeping/_Attatchments/Pasted image 20250426141350.png",
+    "6 - Projects/The Creostic Academia/The ARX Browser",
+    "6 - Projects/The ARX Browser.md",
+    "1 - Templates/Journal Entry Template.md",
+    "5 - Journals/Landon/Prep/Day (-7).md",
+    "1 - Templates/Business Idea Template.md",
+    "1 - Templates/General Note Template.md",
+    "1 - Templates/Index Template.md",
+    "1 - Templates/Path Template.md",
+    "1 - Templates/Question Template.md",
+    "1 - Templates/Source Template.md",
+    "5 - Journals/Landon/Prep/Day (-6).md",
+    "0 - Housekeeping/Consolidated_Notes.md",
+    "6 - Projects/The Precursor/Project Planning Automation.md",
+    "6 - Projects/The Creostic Academia/Funding Strategies for Open Access Education.md",
+    "6 - Projects/The Creostic Academia/Compensation methods.md",
     "0 - Housekeeping/Memorandum of Understanding.md",
     "6 - Projects/The Creostic Academia/I have identified enough keys to create the sledgehammer needed to break out of this cage.md",
     "4 - Source Material/Research/Economics/crypto as backend.md",
-    "5 - Journals/Landon/Prep/Day (-6).md",
-    "5 - Journals/Landon/Prep/Day (-7).md",
     "5 - Journals/Landon/Prep/Day (-7) 1.md",
-    "4 - Source Material/Research/Energy/Harnessing Entropy - A Thermodynamic Framework for World Peace and Energy Abundance.md",
-    "4 - Source Material/_LLM Logs/Alternative Energy is an Imperative to power the technologies required to get this to scale.md",
-    "5 - Journals/Landon/Prep/_Misc Tasks.md",
-    "4 - Source Material/_LLM Logs/Sports Psychology as grounds for gamification.md",
-    "5 - Journals/Landon/Prep/Day (-10).md",
-    "4 - Source Material/_LLM Logs/Architecture Planning.md",
-    "6 - Projects/Bliss In Ignorance/BII Branding Ideation.md",
-    "3 - Indexes/Tasks.md",
-    "6 - Projects/Interphrase/Interphrase Branding Ideation.md",
-    "6 - Projects/The Precursor/Project Planning Automation.md",
-    "2 - Paths/ChatGPT.md",
     "6 - Projects/The Precursor",
-    "6 - Projects/_Branding/Thumbnails.md",
-    "6 - Projects/Interphrase/🌐 Interphrase — Tasklist.md",
-    "6 - Projects/Bliss In Ignorance/🐝 Bliss in Ignorance (BII) – Tasklist.md",
     "0 - Housekeeping/_Attatchments/icon-48.png",
-    "2 - Paths/Interphrase.md",
-    "3 - Indexes/Branding.md",
     "0 - Housekeeping/_Attatchments/Pasted image 20250423101159.png",
     "6 - Projects/Interphrase",
     "6 - Projects/Bliss In Ignorance",
-    "5 - Journals/Landon/Prep/Day (-8).md",
-    "4 - Source Material/_LLM Logs/Rust Exploration.md",
     "4 - Source Material/Interviews/Private Transcripts",
     "4 - Source Material/Research/Principles",
     "0 - Housekeeping/_Attatchments/Pasted image 20250421193424.png",
@@ -314,13 +361,9 @@
     "4 - Source Material/Research/Cybersecurity",
     "4 - Source Material/Videos",
     "6 - Projects/The Creostic Academia",
-    "4 - Source Material/Research/Energy",
     "0 - Housekeeping/_Attatchments/The Arx Foundation（18）.png",
     "0 - Housekeeping/_Attatchments/The Arx Foundation（17）.png",
     "0 - Housekeeping/_Attatchments/The Arx Foundation（16）.png",
-    "0 - Housekeeping/_Attatchments/The Arx Foundation（15）.png",
-    "0 - Housekeeping/_Attatchments/The Arx Foundation（14）.png",
-    "0 - Housekeeping/_Attatchments/The Arx Foundation（13）.png",
-    "4 - Source Material/Research/Economics"
+    "0 - Housekeeping/_Attatchments/The Arx Foundation（15）.png"
   ]
 }

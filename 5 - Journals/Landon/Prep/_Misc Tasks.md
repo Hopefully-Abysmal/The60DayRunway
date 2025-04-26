@@ -21,3 +21,5 @@ Author:
 	- [ ] Personal zettelkasten as a whole
 - [ ] Reach out to myers-briggs // look into the tech they use for aptitude testing, quite ingenious tbh
 	- [ ] Look into their research!!
+- [ ] Code something to copy paste the unchecked from the last days work schedule to auto update the template for next day
+	- [ ] Day planning automation
