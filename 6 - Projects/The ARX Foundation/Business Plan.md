@@ -448,7 +448,7 @@ Idea for initial monetization:
 				- Discord // matrix // IRC integration in Pine64 dev server as example
 				- Integrate with activity-hub; I fw it heavy cause it tells monopolies to fuck off
 	- Symptoms of an individualist economy include but are not limited to:
-		- Homelessness
+		- [[homelessness]]
 		- Debt (without the intent of leveraging it)
 		- Crime
 		- Gatekeeping information

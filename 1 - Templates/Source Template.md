@@ -10,18 +10,23 @@ Status: Unweathered
 Published: true
 ---
 ---
+# Summary:
 
 
+# Key Terms:
+* 
 
-# Reflection
-## Curiosities
-- 
-
-## Ideas
-- 
+# Reflection:
 
 ## Misc. Notes
 - 
-
+## Curiosities
+- 
+## Ideas
+- 
 ## Questions
 - 
+
+# GPT Refinement: 
+
+# Transcript:
