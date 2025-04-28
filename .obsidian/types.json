@@ -4,6 +4,7 @@
     "cssclasses": "multitext",
     "tags": "tags",
     "Index": "multitext",
-    "Topic": "multitext"
+    "Topic": "multitext",
+    "Author": "multitext"
   }
 }

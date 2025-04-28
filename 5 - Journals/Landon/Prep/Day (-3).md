@@ -48,14 +48,15 @@ Author:
 
 - [x]  Have fun thinking about stuff
 	- [x] [[Steve Jobs]]
-- [ ] Migrate old notes into relevant folders
-	- [ ] [[Bliss In Ignorance]]
-	- [ ] [[DataBANK - Data Immortalization Service]]
-	- [ ] [[The Human Library]]
+- [x] Migrate old notes into relevant folders
+	- [x] [[Bliss In Ignorance]]
+	- [x] [[DataBANK - Data Immortalization Service]]
+	- [x] [[The Human Library]]
 - [x] Draft [[DAO Voting Structures|DAO Governance Framework]]
-	- [ ] Send to MetaGov Community
-- [ ] Peruse KOI Documentation (very in line with what I want to do)
+	- [ ] Send to MetaGov Community (holding off until I can update with their KOI shit)
+- [x] Peruse KOI Documentation (very in line with what I want to do)
 - [ ] Add 'call to artists' to [[Harnessing Entropy - A Thermodynamic Framework for World Peace and Energy Abundance|The ARX Manifesto]]
+- [ ] Draft [[Building a Better Future Through Business and AI Application|AI Comp Application]]
 - [ ] BII and Interphrase prototype
 - [ ] Push [[Consolidated_Notes|all ideas]] to gpt to make long-term plan
 	- [ ] Script to split LONG context into short context with repeated prompt and overlap
