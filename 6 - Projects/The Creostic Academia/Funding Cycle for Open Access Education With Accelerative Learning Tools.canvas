@@ -7,7 +7,6 @@
 		{"id":"adb8584d88e73435","type":"text","text":"OVERHEAD","x":647,"y":369,"width":159,"height":60,"color":"1"},
 		{"id":"bb0eeb55b9cf6c0f","type":"text","text":"Server Costs","x":520,"y":174,"width":127,"height":60,"color":"1"},
 		{"id":"cabcf765de7b1ca5","type":"text","text":"Content Moderation (at start won't have community to do this)","x":767,"y":149,"width":224,"height":110,"color":"1"},
-		{"id":"167e90f0413540f6","type":"text","text":"Marketing? (Word of mouth should suffice but if not)","x":598,"y":29,"width":208,"height":110,"color":"1"},
 		{"id":"cdc4246b3bfb3525","type":"text","text":"DAO: Keep to a minimum; push for community to cover these to get costs down. PLATFORM IS NEVER FOR PROFIT","x":577,"y":-241,"width":250,"height":180,"color":"6"},
 		{"id":"10f463a207c720a7","type":"text","text":"CREATOR DIVIDENDS","x":1165,"y":371,"width":250,"height":60,"color":"5"},
 		{"id":"9e15c39a59236e2b","type":"text","text":"DAO: Baseline of funds dispersion based on average impact creating at livable wage","x":1142,"y":-31,"width":297,"height":115,"color":"6"},
@@ -21,7 +20,8 @@
 		{"id":"e4107f1c386fcf04","type":"text","text":"Views ~= Money","x":1040,"y":179,"width":185,"height":60,"color":"5"},
 		{"id":"2323140771002e05","type":"text","text":"Citations ~= More Money","x":1189,"y":234,"width":250,"height":60,"color":"5"},
 		{"id":"bbc437624303317e","type":"text","text":"Integrations ~= Most Money (taking ideas and integrating into business // on both our end and between creators, incentivize large scale contributions / collaborations)","x":1415,"y":120,"width":363,"height":118,"color":"5"},
-		{"id":"b50cad12498d98a8","type":"text","text":"A.L.T.'s As method of further compensation (not from fund though)","x":1314,"y":572,"width":250,"height":87,"color":"2"}
+		{"id":"b50cad12498d98a8","type":"text","text":"A.L.T.'s As method of further compensation (not from fund though)","x":1314,"y":572,"width":250,"height":87,"color":"2"},
+		{"id":"167e90f0413540f6","type":"text","text":"Development","x":622,"y":84,"width":169,"height":55,"color":"1"}
 	],
 	"edges":[
 		{"id":"0bb11130da5c1987","fromNode":"10130c5a7fc028ad","fromSide":"right","toNode":"47b95b2aeea4266f","toSide":"left"},

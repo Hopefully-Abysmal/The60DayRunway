@@ -55,7 +55,7 @@ Author:
 	- [x] Get list of injection molding shit for mike
 - [ ] Take and Record myers-briggs aptitude test (need before friday for career counseling)
 	- [ ] Reach out to myers-briggs // look into the tech they use for aptitude testing, quite ingenious tbh
-- [ ] Push [[Consolidated_Notes|all ideas]] to gpt to make long-term plan
+- [ ] Push [[Consolidated_Notes (2025-04-21)|all ideas]] to gpt to make long-term plan
 	- [ ] Script to split LONG context into short context with repeated prompt and overlap
 		- [ ] EX: make a global to-do list in canvas based on the following data; seperate currently actionable ideas from future ideas.
 	- [ ] Decide what to do next (just fuckn code already)

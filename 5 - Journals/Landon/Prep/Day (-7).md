@@ -54,7 +54,7 @@ Author:
 	- [ ] Use to apply for meloy innovator's grant ($2k)
 - [x] Take and Record myers-briggs aptitude test (need before friday for career counseling)
 	- [ ] Reach out to myers-briggs // look into the tech they use for aptitude testing, quite ingenious tbh (culling to misc. tasks)
-- [ ] Push [[Consolidated_Notes|all ideas]] to gpt to make long-term plan
+- [ ] Push [[Consolidated_Notes (2025-04-21)|all ideas]] to gpt to make long-term plan
 	- [x] Script to split LONG context into short context with repeated prompt and overlap
 		- [x] EX: make a global to-do list in canvas based on the following data; seperate currently actionable ideas from future ideas.
 	- [x] made [[Project Planning Automation]]; GPT was meh, need to code from scratch

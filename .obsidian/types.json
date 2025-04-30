@@ -5,6 +5,7 @@
     "tags": "tags",
     "Index": "multitext",
     "Topic": "multitext",
-    "Author": "multitext"
+    "Author": "multitext",
+    "Link": "multitext"
   }
 }

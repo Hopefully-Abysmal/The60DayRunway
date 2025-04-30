@@ -11,6 +11,7 @@ Author:
 ---
 ---
 - [ ] Quartz webhosting on hopefullyabysmal.github.io
+- [ ] Add 'call to artists' to [[Harnessing Entropy - A Thermodynamic Framework for World Peace and Energy Abundance|The ARX Manifesto]]
 - [ ] Build decentralized storage or backup net  
 	- [ ] Mirror video content to local devices or mini-nodes  
 	- [ ] GitHub for code/notes = ✅, but video needs redundancy  

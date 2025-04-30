@@ -14,6 +14,7 @@ Author:
 Activity hub integration - sync all action across all platforms s.t. one can create and maximize impact to users off platform
 
 Content creation and distribution platforms :: Youtube (google) / insta (meta) / X / patreon idgaf  - creators that utilize youtube (any platform for that matter) can and should be able to opt to share their content on our platform as well; request their integration with activity hub and if rejected target the creators themselves; the mentality that one cannot do this is just a mental block lmao, we have the ability to contact anyone and everyone on this planet with a few clicks of a button and that is here to stay so fuck it lets use it for good.
+	I would love to partner with google and youtube, make a strictly educational platform s.t. their market share for entertainment isnt hit too bad (my childhood was based on youtube to be frank, I am of the youtube generation) and I owe them a lot of my inspiration but it'll be over my dead body (or dead career) that this is acquired by them; google is a graveyard for sick ideas (yes they do cool shit but its a strictly profit centric model... I have beef for them shutting down the modular phone and shutting down fitbit sdk on my watch model, like at lease open source it!!!)
 
 Content creators themselves :: I really want to reach out to all of my favorite musicians and designers to ask for help / to use their music / designs in marketing this (from the people for the people as is the true American ideology ~ from the creators for the creators) 
 

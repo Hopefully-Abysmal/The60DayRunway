@@ -1,3 +1,15 @@
+---
+Date Created: 2025-04-21 09:34
+Last Updated: 2025-04-26 09:34
+tags: 
+Index: 
+Topic: 
+Status: Unweathered
+Published: true
+Author:
+---
+---
+
 # [[license]]
 
 ## LICENSE — The ARX Foundation Public Pact (AFPP)

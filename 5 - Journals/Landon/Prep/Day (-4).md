@@ -56,7 +56,7 @@ Author:
 - [x] If time permits - Fix my fuckn split keeb mounts
 - [ ] Add 'call to artists' to [[Harnessing Entropy - A Thermodynamic Framework for World Peace and Energy Abundance|The ARX Manifesto]]
 - [ ] BII and Interphrase prototype
-- [ ] Push [[Consolidated_Notes|all ideas]] to gpt to make long-term plan
+- [ ] Push [[Consolidated_Notes (2025-04-21)|all ideas]] to gpt to make long-term plan
 	- [ ] Script to split LONG context into short context with repeated prompt and overlap
 		- [ ] EX: make a global to-do list in canvas based on the following data; seperate currently actionable ideas from future ideas.
 	- [ ] Decide what to do next (just fuckn code already)

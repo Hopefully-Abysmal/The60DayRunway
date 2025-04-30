@@ -55,11 +55,11 @@ Author:
 - [x] Draft [[DAO Voting Structures|DAO Governance Framework]]
 	- [ ] Send to MetaGov Community (holding off until I can update with their KOI shit)
 - [x] Peruse KOI Documentation (very in line with what I want to do)
-- [ ] Add 'call to artists' to [[Harnessing Entropy - A Thermodynamic Framework for World Peace and Energy Abundance|The ARX Manifesto]]
+- [ ] Add 'call to artists' to [[Harnessing Entropy - A Thermodynamic Framework for World Peace and Energy Abundance|The ARX Manifesto]] (Culling to misc tasks for now)
 - [ ] Draft [[Building a Better Future Through Business and AI Application|AI Comp Application]]
 - [ ] BII and Interphrase prototype
-- [ ] Push [[Consolidated_Notes|all ideas]] to gpt to make long-term plan
-	- [ ] Script to split LONG context into short context with repeated prompt and overlap
+- [ ] Push [[Consolidated_Notes (2025-04-21)|all ideas]] to gpt to make long-term plan (culling to misc tasks for now; basically doing this with my brain)
+	- [x] Script to split LONG context into short context with repeated prompt and overlap
 		- [ ] EX: make a global to-do list in canvas based on the following data; seperate currently actionable ideas from future ideas.
 	- [ ] Decide what to do next (just fuckn code already)
 - [ ] Post updates or progress  
