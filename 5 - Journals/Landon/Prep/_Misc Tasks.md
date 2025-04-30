@@ -24,3 +24,4 @@ Author:
 	- [ ] Look into their research!!
 - [ ] Code something to copy paste the unchecked from the last days work schedule to auto update the template for next day
 	- [ ] Day planning automation
+- [ ] Continue KOI Perusal: https://github.com/BlockScience/koi

@@ -1,6 +1,6 @@
 ---
-Date Created: 2025-04-28 09:51
-Last Updated: 2025-04-28 09:51
+Date Created: 2025-04-29 09:51
+Last Updated: 2025-04-29 09:51
 tags:
   - Archive
 Index:
@@ -18,8 +18,8 @@ Author:
 
 ## 🕒 Life Schedule
 
-- [ ] Make work to-do list  
-- [ ] Morning routine  
+- [x] Make work to-do list  
+- [x] Morning routine  
 	- [x] Brush teeth  
 	- [ ] Take meds  
 		- [ ] straterra
@@ -29,7 +29,7 @@ Author:
 		- [x] mushroom blend
 		- [x] veggie superfood blend
 	- [ ] Drink something green and holy (Good old matcha my beloved)  
-- [x] Check financial status (e.g., bank, crypto, whatever)
+- [ ] Check financial status (e.g., bank, crypto, whatever)
 - [x] Eat something (yes, that counts)
 - [x] Do a chore (dish/laundry/trash/etc.)
 - [x] Handle pet care / errands / groceries  
@@ -40,7 +40,7 @@ Author:
 
 ## 🌱 Throughout Day
 
-- [ ] Drink entire water bottle (seriously)
+- [x] Drink entire water bottle (seriously)
 - [x] Move body, stretch, or at least shift positions
 - [x] !!BREATHE!!
 
@@ -53,9 +53,8 @@ Author:
 	- [x] Initial pass
 	- [x] Re-pass for consolidation, ensure chronological order and blockers
 		- [ ] CSV parsing (doesn't work; need to do manually)
-- [ ] Draft [[Building a Better Future Through Business and AI Application|AI Comp Application]]
-	- [ ] Conversating about it: [[AI Competition Application Assistance]]
-- [ ] 
+- [x] Draft [[Building a Better Future Through Business and AI Application|AI Comp Application]]
+	- [x] Conversating about it: [[AI Competition Application Assistance]]
 - [ ] Continue KOI Perusal: https://github.com/BlockScience/koi
 - [ ] Map out MVP (due June)
 	- [ ] Potential Patent Violations
@@ -72,3 +71,10 @@ Author:
 
 ---
 
+Note: I did not make this on day of, was too busy lmao
+
+[[2025-04-29 (handwritten notes)]]
+[[AI Competition Application Assistance]]
+[[Realizing the PKM Education Model]]
+[[Building a Better Future Through Business and AI Application]]
+	https://docs.google.com/document/d/1TtxgGrdPIuWDw-FguXDvPCJzfvytsAzHwtZdQasQMrI/edit?usp=sharing
