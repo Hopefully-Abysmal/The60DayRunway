@@ -55,292 +55,261 @@ Novel governance structures like the Decentralized Autonomous Organization (DAO)
 [[Subsidiaries and Synergistic partnerships to pursue]]
 
 # April 30th - Submission 
-## 1. Executive Summary
+## Scalable Community for Open-Online Learning ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdLsou6E4s8qjCQLu2WIrCYzFsJ3GxxrROF6ao0lqyszyONOlKkrVYSLu1lV71ea51nmFoaDtypczrvPQxWNeVUJCgHmqW1a8wKYwXIM-wpOOsmhq-VTBd2_tbji5tWoHE0KS8CAw?key=QZT90CcIgElpGVM66-SFPuGI)
 
-Overview of your venture in ~1 page.
-
-Problem:
-
-- [Describe the core problem: student debt, gatekept education, inefficient knowledge compensation]  
-      
-    
-
-Solution:
-
-- [Describe your solution: ARX Academy — decentralized education, AI learning paths, blockchain attribution]  
-      
-    
-
-Mission Statement (Optional, Powerful):
-
-"Building an open, creator-owned future for education — by the people, for the people."
-
-Progress So Far:
-
-- [Link to GitHub repo]  
-- [Mention MVP status (concept/early build phase)]  
+A.K.A. The Creostic Academia // The ARX Academy
 
 ---
 
-## 2. AI Integration
+## Developed by:
 
-Explain clearly how AI is central to the venture.
+Landon Dahle – Founder & Vision Architect. Background in biomedical engineering, systems design, and decentralized governance. Responsible for strategic direction and PKM architecture. Will additionally serve as Lead AI Engineer and Specialist in LLM fine-tuning and deployment. Additionally to develop the semantic tagging and Alter EGO models.
 
-Key AI Roles:
+Timothy Smith – Platform Developer. Full-stack engineer building the web interface, feed algorithm, and modular exams.
 
-- Personalized learning journeys based on semantic analysis  
-      
-    
-- Smart curation of modular content  
-      
-    
-- AI-assisted verification and attribution of user contributions  
-      
-    
-- Learning acceleration tools (quizzes, memory aids, focus modes)  
-      
-    
-
-Ethical Considerations:
-
-- Privacy-first design (user data minimally collected)  
-      
-    
-- Bias mitigation in content recommendations  
-      
-    
-- Transparent use of AI models and algorithms  
-      
-    
+Adam Miri - Co-Founder, outreach coordinator, financial coordination and funding management (credit for the name)
 
 ---
 
-## 3. Market Opportunity
-
-Prove there’s real demand.
-
-Target Users:
-
-- Students (K–12, university, lifelong learners)  
-      
-    
-- Independent educators  
-      
-    
-- Content creators  
-      
-    
-- Institutions and nonprofits  
-      
-    
-
-Market Size and Growth:
-
-- [Insert stats: global e-learning market size, student debt statistics, increasing alternative credential demand]  
-      
-    
-
-Competitive Landscape:
-
-- YouTube (informal)  
-      
-    
-- Coursera/Udemy (paid, centralized)  
-      
-    
-- Wikipedia (knowledge, but no structured curation)  
-      
-    
-
-Competitive Advantage:
-
-- Open-source platform  
-      
-    
-- Contributor compensation through blockchain  
-      
-    
-- Focus on learning acceleration, not passive consumption  
-      
-    
+This document and the intellectual property contained herein are the confidential and proprietary information of Landon Dahle, Adam Miri, and Timothy Smith. Access to this information is restricted to authorized personnel only. Unauthorized use, distribution, or reproduction of any part of this document without explicit permission is strictly prohibited. All content is intended for internal research, development, and academic purposes related to The 60 Day Runway Project and submission to Mays Business School’s “Building a Better Future Through Business and AI” National Undergraduate Pitch Competition for AI-Focused New Ventures.
 
 ---
 
-## 4. Revenue Model
+Executive Summary
 
-Show how you’ll make money sustainably.
+This proposal outlines a transformative, decentralized education model that fuses AI-powered personalization, personal knowledge management (PKM), and community-driven impact tracking to create an equitable system of lifelong learning and passive intellectual income. The current education system is facing an existential threat from privatization and underfunding, especially in public institutions. Yet this threat reveals a crucial opportunity: to rebuild education as a public good rooted in transparency, equity, and self-directed development. By leveraging advances in semantic search, decentralized governance (Decentralized Autonomous Organizations - DAOs), and AI agents trained on individual learning journeys (which we will call Alter Ego’s // AE’s), we aim to deliver a platform where users earn compensation for meaningful educational engagement and the long-term value their ideas create.  
+  
+The ARX Foundation, headquartered in College Station, Texas, is building a decentralized, open-source educational ecosystem designed to address the deep structural failures of traditional academia. We plan to call this initiative the Scalable Community for Open-Online Learning (SCOOL), because school really can be cool. In the face of rising privatization and underfunding, especially across public institutions, The ARX Foundation aims to offer SCOOL as a transformative opportunity to rebuild education as a transparent, equitable public good. Our mission is to empower global learners and creators by fusing AI-powered personalization, personal knowledge management (PKM), and decentralized governance to deliver lifelong, self-directed learning and passive intellectual income. Through blockchain-based time tokens, DAO-style governance, and AI agents trained on individual learning paths (Alter Egos // AEs), users are rewarded not only for what they learn but for the lasting value their contributions generate. Our open educational operating system includes gamified microlearning experiences, semantic search, and traceable impact tracking, aligning educators, learners, and creators through shared ownership. Targeting underserved students, independent educators, content creators, and mission-aligned institutions, SCOOL is uniquely positioned to disrupt edtech through radical transparency, community compensation, and innovation without exploitation. We are currently seeking $100,000 in funding to support platform development, contributor onboarding, and the launch of our pilot program, laying the groundwork for a globally scalable system that redefines how we learn, teach, and share knowledge in the 21st century.
 
-Phase 1 Revenue:
+Problem Statement:
 
-- Freemium tools (mind-mapping, AI enhanced note-taking, advanced search)  
-      
+The current education system is outdated, economically, structurally, and philosophically. Students are burdened with unsustainable debt, educators are undercompensated despite their impact, and access to meaningful learning is blocked by institutional paywalls and outdated gatekeeping models. Even as AI and digital platforms reshape industries, education remains stuck in legacy systems that fail to reward contribution or adapt to individual needs. Content creators and independent educators lack platforms that fairly attribute and compensate their intellectual labor, while students face rising costs for degrees that often yield diminishing returns. Existing solutions, from MOOCs to edtech apps, treat learners as users, not co-creators, and largely ignore the potential of AI to drive personalization, equity, and shared ownership. The result is a system that reinforces inequality, stifles innovation, and limits upward mobility. SCOOL addresses this by reimagining education as a decentralized, AI-powered, community-driven ecosystem built to reward learning, teaching, and impact at scale.
+
+### Solution:
+
+The ARX Foundation proposes a decentralized, AI-enabled educational platform designed to deliver equitable, personalized, and community-supported learning experiences. This platform combines personalized learning path optimization, adaptive content recommendation, and transparent governance mechanisms to address long-standing gaps in access, personalization, and educator compensation. A core feature is the implementation of automated personal knowledge management systems posited towards the creation of “Alter Egos”, AI agents assigned to each user that track engagement patterns, identify learning preferences, and recommend tailored educational content to maximize growth and motivation. These features are supported by a proprietary interest and aptitude-tracking algorithm that continuously adapts to each learner’s evolving needs and educational desires, improving educational outcomes and long-term learning retention.
+
+Participants, including students, educators, and affiliated institutions compensated through time-tracked tokens and usage-based royalties, establishing a sustainable model of intellectual equity and incentivized contribution. The platform operates under a decentralized governance structure, ensuring that decisions regarding content curation, compensation models, and platform development are transparent, democratic, and community-led. By integrating artificial intelligence, blockchain-based attribution systems, and open-source collaboration tools, SCOOL offers a transformative alternative to traditional educational infrastructures and supports the development of scalable, accessible, and self-sustaining knowledge ecosystems.
+
+One-sentence summary:  
+SCOOL leverages AI, decentralized governance, and incentive-based learning to create an equitable, adaptive, and sustainable educational infrastructure for the future.
+
+## AI Integration Overview
+
+Artificial Intelligence is not a feature of SCOOL, it is the foundation. Each layer of our educational architecture is driven by AI systems designed to personalize learning, incentivize contribution, and maintain transparency across the ecosystem. The following components illustrate how AI shapes every user experience on the platform:
+
+### Semantic Content Tagging & Knowledge Mapping
+
+AI-powered semantic tagging is utilized to organize and index all educational resources accessed by each user across any user-generated and institutional learning vaults. By analyzing the structure and context of content and how the user interacts with it, the system automatically classifies materials into a modular, interconnected knowledge graph reflective of the user’s engagement with that content. This enables precise retrieval, adaptive recommendations, and the dynamic assembly of personalized learning paths on a per-student basis. Additionally this allows for a dynamic representation of the user’s exposure and aptitude among a variety of disciplines, positioning us to push for user aptitude accreditation based on their engagement with our platform.
+
+### Personalized AI Agents ("Alter EGOs")
+
+Each learner is paired with an “Alter EGO”, a hybrid AI assistant that evolves over time based on the user’s goals, behaviors, and learning history through snapshots of the previously mentioned knowledge and engagement mapping system. Alter EGOs provide real-time support by surfacing relevant content, recommending next steps, and offering metacognitive prompts. These agents also act as intelligent mediators between the learner and the broader platform, optimizing their educational journey while continuously refining their profile through reinforcement learning models. 
+
+### Impact Tracking & Attribution Engine
+
+Again based on the Semantic Content Tagging and Knowledge Mapping systems, an emergent property arises in the ability to track the user’s utilization of the content consumed. This tracking provides an avenue to compensate the content’s creator(s) over a longer time period based on the concept of Impact Tracking to be discussed. By tracking the downstream influence of contributions, content remixes, citations, and collaborations, one can utilize the data collected to make informed decisions on creator compensation, flipping the incentive structure of views on its head. While not explicitly AI, this algorithmic engine enables the transparent attribution of intellectual labor and pedagogical value, supporting both feedback loops for educators and automated compensation mechanisms via time and impact tracking tokens that can be converted to the creators currency of choice. This system creates a verifiable lineage of impact, helping to quantify educational influence in both individual and institutional contexts; a system that ideally reduces slop and harbors innovative contributions to the platform through the motivating power that is compensation.
+
+### Dynamic Exam Personalization
+
+Leveraging large language models (LLMs) akin to that of the Alter Ego’s discussed prior, SCOOL is uniquely poised to deliver adaptive assessments that evolve in real time based on learner performance and content mastery. The system dynamically adjusts difficulty, format, and domain emphasis to provide accurate, context-aware evaluations. This personalized testing approach ensures students are challenged appropriately while minimizing frustration or disengagement, enhancing both retention and self-efficacy.
+
+AI on SCOOL is not an auxiliary tool, it is the backbone of a responsive, equitable, and intelligent educational system that evolves with every user it serves.
+
+## Market Opportunity
+
+The global learning landscape is undergoing a seismic shift. The practice of School Choice and the proposed voucher system indicate a transition from public to private education on a nationwide scale. By developing educational tools suited for learning communities, we can capture the market of community based learning. Traditional educational institutions are losing relevance and trust due to rising costs, outdated pedagogy, and inequitable access. Simultaneously, learners and educators are gravitating toward decentralized, on-demand, and personalized models of knowledge acquisition. In this new environment, platforms that empower self-directed growth, AI-enhanced learning, and equitable compensation are not only timely—they are inevitable.
+
+### The Hollowing of Public Education
+
+Underfunding, bureaucratic stagnation, and increasing privatization are weakening public education systems worldwide. As students and families search for alternative paths to learning, especially in underserved communities, the demand for accessible, scalable, and student-driven solutions is surging. This growing vacuum presents an opportunity for community-powered platforms to step in and serve as both supplement and successor.
+
+### The Creator-Educator Gap
+
+Despite the rise of the creator economy, educators and knowledge workers are often excluded from its benefits. Platforms like YouTube and TikTok reward entertainment more than education, and most edtech tools lack compensation models for contributors. SCOOL addresses this by enabling fair attribution and royalty-based rewards tied directly to impact and engagement, bridging the gap between teaching and creator monetization.
+
+### The Personalization Imperative in Learning
+
+AI has dramatically expanded the possibilities for individualized education. Learners increasingly expect content tailored to their pace, interests, and goals. With tools like AI-driven learning agents, semantic content curation, and adaptive assessments, SCOOL is positioned to meet this demand by offering deeply personalized and data-informed learning environments.
+
+### Key Target Audiences
+
+- Schools & Institutions Exploring AI: Educational organizations aiming to modernize their offerings with adaptive learning tools, decentralized infrastructure, and transparent credentialing.
+    
+- Underserved Students: Learners facing barriers due to geography, income, or institutional neglect, seeking affordable, self-paced, high-impact learning paths. By lowering the geographical, financial, and systemic overhead of education systems we are aptly suited to serve their needs.
+    
+- Independent Learners: Adults and youth engaging in self-directed education outside of formal institutions, often driven by career transitions, curiosity, or entrepreneurial goals. By providing innovative learning pathway curation tools, we accelerate and expand the initiative one puts into developing themselves; we effectively reduce the psychological and effort barriers to doing so, thus incentivizing it!
+    
+- Educators & Knowledge Creators: Teachers, mentors, and subject-matter experts looking for platforms that provide ownership, visibility, and income from their contributions. By being transparent in 
     
 
-Phase 2 Revenue:
+Together, these trends and audiences signal a moment of profound opportunity. The convergence of public education disruption, unmet needs in creator monetization, and the widespread adoption of AI creates fertile ground for SCOOL to emerge as a category-defining solution. The time to reimagine education is not in the future. It’s right now.
 
-- Institutional licenses (public schools, universities, nonprofits)  
-      
+## Business Model Development:
+
+We know our target audience, and they are not currently in a good spot. To this we propose a split business model, that being the platform as a public good and a marketplace for the concept of Accelerative Learning Tools (ALT’s).  
+
+SCOOL will generate cash flow through a dual-pronged approach: individual premium subscriptions and institutional licensing. The core educational experience remains free and open-access, but advanced features, such as AI-curated learning agents, performance analytics, dynamic assessment tools, and collaborative creator tools, are available under a freemium model. Individual users can upgrade for enhanced personalization and utility, while schools, universities, and incubators can license SCOOL’s infrastructure for their student communities. In addition, we will selectively partner with educational sponsors such as KAPLAN to feature scholarship opportunities, academic prep tools, and value-aligned resources, ensuring funding support without compromising platform integrity or user trust.
+
+Customer acquisition will be driven through direct outreach to schools and districts, strategic partnerships with educational nonprofits, and organic growth through social media and community channels. A semester-based entry point (approximately four months) will serve as the initial engagement window, gradually expanding into long-term relationships spanning K–12 and higher education phases. Over time, we project that highly engaged users may stay with the platform for 10–15 years or more, supporting a robust Customer Lifetime Value (LTV). Creator communities and school ambassadors will play a key role in viral onboarding and local trust-building.
+
+The cost structure includes cloud infrastructure, AI model training and algorithm deployment, creator compensation, and DAO infrastructure maintenance. We anticipate moderate fixed costs in early development, followed by scalable variable costs tied to user growth and platform activity. Compensation models will be algorithmically optimized based on impact and inter-community comparisons as a percentage distribution of the available funds to remain sustainable as engagement grows. Based on current projections, we expect SCOOL to achieve a healthy cash flow after platform stabilization, driven by the low marginal cost of digital content and high retention among mission-aligned users. (This is defined as the ability to support average to high impact creators with livable incomes based on their content.)
+
+## Platform Cash Flow Model
+
+As previously stated, the platform is to be developed as a public good; all funds that go into the platform go to the maintainers of and creators within the platform. We would like to utilize the following price schedules as a baseline, what we think would be reasonable for each party to pay, though acknowledge that with the scale of the platform we may need to adjust these to balance development, creation compensation, and user consumption costs.
+
+###  Individual User Tiers (Freemium SaaS Model)
+
+|   |   |   |
+|---|---|---|
+|Tier|Price (Monthly)|Features|
+|Free|$0|Limited access to learning vaults, Alter Ego (AE) trial mode, basic progress tracking, community forum access.|
+|Creator+|$7–10|Full AE support, semantic tagging tools, access to remixable content, earnings from token-based compensation (after verification).|
+|Pro Learner|$12–15|Everything in Creator+, plus exam personalization, early access to new modules, feedback analytics, and content bookmarking/sync across devices.|
+|Scholar Path (Annual Plan)|$99/year|Discounted yearly access to Pro Learner tier, designed for serious self-learners or students with long-term goals.|
+
+### Institutional Plans (License + API/Tool Access)
+
+|   |   |   |   |
+|---|---|---|---|
+|Tier|Price (Annual)|Target|Features|
+|Classroom Bundle|$1,200 per year|Small schools or educator pods (up to 100 users)|Admin dashboards, group AEs, shared learning paths, impact analytics.|
+|Campus License|$5,000–$25,000 per year|K–12 districts, colleges, training centers|Full integration, SSO, advanced governance tools, curriculum customization, private creator incentives.|
+|Innovation Partner|Custom pricing|Pilot or research-driven programs|Co-branded deployments, white-labeling options, research dashboards, direct access to AI adaptation APIs.|
+
+### Sponsor Packages (Mission-Aligned Only)
+
+|   |   |   |
+|---|---|---|
+|Type|Range|Inclusions|
+|Educational Sponsor (e.g., KAPLAN)|$10k–$50k|Highlighted educational tools, event partnerships, custom campaigns (non-advertising), scholarship listings.|
+|Foundational Grant Partner|$50k+|Long-term naming opportunities for platform features, impact reporting, nonprofit collaboration on educational equity.|
+
+  
+  
+
+## ALT Revenue Model
+
+Akin to the web extensions of old, we aim to productize the concept of the Accelerative Learning Tool, platform add-ons developed by the community for the community that offer ways to accelerate and generally improve the user’s experience for a price. The key philosophy is this: knowledge should be open for all, but the methods and speed of attaining that knowledge can be made luxurious.
+
+If not so ingrained into the platform, the LLM is a perfect example of an ALT one could create; it proved we could package the entirety of human knowledge into a simple chatbot to state it plainly. Furthermore, the entertainment aspect of things brings an avenue for exploration; novel education-gamification strategies and generally less boring alternatives to reading a textbook have and will be made. However, allowing for those methods to be used within a system like ours (potentially with professional development incentives for their utilization) allows for them to become prime methodologies for creators and learners to benefit alike. Finally, focus tools like that of content summarization, user defined censorship, and hyper-optimized knowledge searching/sourcing applications provide avenues for exploration into hyperproductivity, a trend our industry needs to lean into for any real progress.
+
+We at The ARX Foundation have many ideas for potential ALT’s, but we need to get the platform off the ground first in order to ensure they can prosper. We hope this competition can serve as an extension of our collective runways, and that we can make something genuinely impactful within our lifetimes.
+
+## Go-to-Market Strategy
+
+### Marketing & Acquisition Channels
+
+SCOOL will drive early adoption through a multi-channel marketing approach combining social media virality, direct institutional outreach, and creator-led advocacy. Short-form educational content on TikTok and YouTube will showcase the platform’s capabilities and learning experience, while Discord and Matrix communities will foster user-to-user discovery. In parallel, we’ll launch pilot programs in partnership with schools, districts, and education-focused nonprofits, ensuring alignment with public interest goals and increasing institutional visibility.
+
+### Sales Model & Conversion
+
+Our dual sales model consists of a freemium B2C layer and a B2B institutional licensing pathway. Individual users can access core learning features at no cost, with optional upgrades for AI-enhanced learning tools, certifications, and creator monetization utilities. Institutions such as schools and incubators will license the platform annually, gaining access to backend dashboards, cohort management tools, and tailored onboarding support. Sponsorships with organizations like KAPLAN provide additional non-intrusive monetization and outreach leverage.
+
+### Onboarding & Retention
+
+New users are to be on-boarded via AE assistants (based on community outreach professionals), which guide them through personalized setup and learning recommendations. A community-first interface, impact dashboards, and gamified learning sequences are used to promote immediate engagement. Long-term retention is driven by token-based compensation for contributors, a sense of shared ownership through DAO governance, and adaptive curriculum journeys that grow with learners from middle school to higher education and beyond.
+
+### Strategic Partnerships & Distribution
+
+SCOOL’s growth is reinforced through partnerships with mission-aligned platforms like Obsidian, GitHub, Are.na, and Wikipedia. These integrations expand creator workflows and support educational content syndication. We also plan to pursue formal collaborations with districts and academic incubators, enabling scaled onboarding while maintaining alignment with equity-driven reform. Our go-to-market strategy involves leveraging social media virality, institutional partnerships, and AI-assisted onboarding to acquire early adopters.
+
+Competitive Analysis
+
+The current educational technology landscape is saturated with platforms that offer digital learning tools, but very few prioritize equity, ownership, and personalization in a unified ecosystem. While incumbents like Khan Academy and Coursera focus on content delivery, and platforms like Notion or Obsidian support knowledge management, they do not address the deeper systemic problems of compensation, decentralization, and user autonomy. SCOOL enters this landscape with a hybrid model that merges AI personalization, DAO governance, and ethical monetization to provide a fundamentally new kind of educational infrastructure, one that rewards intellectual contribution, scales with learner identity, and operates as a public good rather than a profit-maximizing entity.
+
+Competitive Matrix
+
+|   |   |   |   |   |
+|---|---|---|---|---|
+|Feature/Value Proposition|SCOOL|Khan Academy|Coursera|Notion/Obsidian|
+|AI-driven personalization|✅ Yes (Alter EGO agents)|⚠️ Limited (generic pathways)|✅ Yes (some adaptivity)|❌ No|
+|Compensation for learners/creators|✅ Yes (Time tokens, royalties)|❌ No|⚠️ Rare (instructors only)|❌ No|
+|DAO governance & shared ownership|✅ Yes|❌ No|❌ No|⚠️ Open source, not governed by community|
+|Gamified microlearning / remixability|✅ Fully integrated|⚠️ Minimal|❌ Mostly passive|⚠️ Only through custom builds|
+|Institutional integrations|✅ Custom, API-ready|✅ Yes|✅ Yes|❌ Not education-specific|
+|Long-term learner lifecycle support|✅ Yes (K-12 to college and beyond)|⚠️ K–12 focus|⚠️ College+ only|❌ No educational scope|
+
+SCOOL is not a marginal improvement to existing platforms—it is a systemic rethinking of how learning happens, how value is distributed, and how education can evolve in the age of decentralized technology. By bridging the creator economy, AI-enhanced learning, and open governance, SCOOL positions itself as the first educational ecosystem designed for equity, sustainability, and exponential growth. This unique positioning ensures that as traditional systems erode or fragment, SCOOL will emerge as a resilient, future-ready solution with global relevance.
+
+## Traction & Milestones
+
+While SCOOL is currently in its pre-launch phase, we have laid a robust conceptual and infrastructural foundation. Our comprehensive business model, decentralized governance framework, and open-source licensing structure are fully developed. We’ve established early alignment with educational sponsors and platforms such as KAPLAN, Obsidian, GitHub, Are.na, and Khan Academy for future integrations. Strategic outreach has already begun with educators, schools, and policy stakeholders, and community-building has been initiated through active planning of Discord/Matrix-based engagement channels. Additionally, our public narrative, framed around educational equity, AI-driven personalization, and open-access intellectual economies, has gained traction through published thought pieces and community feedback.
+
+As a pre-revenue venture, we are currently measuring traction via planning-stage KPIs: partner interest (3 institutional conversations in progress), technical architecture readiness (core DAO compensation and AE design complete), and audience engagement (pre-launch community seeding and social strategy development). Internal goals include onboarding an initial cohort of 100 contributors/educators and assembling a governance-aligned advisory board.
+
+Our roadmap for the next 6–18 months includes the following milestones:
+
+- MVP Launch with Alter EGO functionality, gamified onboarding, and basic token attribution
     
-- Sponsored educational content (non-intrusive, mission-aligned)  
-      
+- Pilot Deployment in 1–3 partner schools or educational pods
     
-
-Future Model:
-
-- Time-based token system rewarding contributions  
-      
+- Platform Expansion to include certification engine, remix tools, and exam personalization modules
     
-- DAO-governed ecosystem for transparent funding and allocation  
-      
+- Community DAO Activation, including public governance and compensation cycles
     
-
----
-
-## 5. Team Overview
-
-Talk about yourself (and any team members if applicable).
-
-Founder:
-
-- [Your Name]  
-      
+- First Funding Round (grants + strategic capital) to support creator onboarding and infrastructure scale-up
     
-- Biomedical Engineering major, Texas A&M University (May 2025)  
-      
-    
-- Passionate about education reform, open knowledge, and AI/tech integration.  
-      
-    
-- [Highlight relevant skills: coding, project management, leadership]  
-      
-    
-
-Advisory (Planned):
-
-- (Optional) Advisors to be recruited in legal, education, and blockchain development domains.  
-      
-    
-
----
-
-## 6. Financial Projections
-
-Basic 1–2 year forecast. No need for huge detail.
-
-Year 1 (2025–2026):
-
-- Primary Expenses:  
-      
-    
-
-- Web hosting / servers  
-      
-    
-- Basic legal fees  
-      
-    
-- Development tools/licenses  
-      
-    
-- Initial outreach  
-      
-    
-
-- Primary Revenue:  
-      
-    
-
-- Early premium tool subscriptions  
-      
-    
-- Pilot institutional partnerships  
-      
-    
-
-Year 2 (2026–2027):
-
-- Revenue scaling through:  
-      
-    
-
-- Institutional licensing  
-      
-    
-- Contributor economy growth (token adoption)  
-      
-    
-
-Key Assumptions:
-
-- Slow, organic user growth at first  
-      
-    
-- Community-driven scaling via educational influencers  
-      
-    
-
----
-
-## 7. Appendices and Exhibits (Optional)
-
-Attach diagrams, flowcharts, or a one-page timeline if you can.
-
-Suggestions:
-
-- User Journey Diagram (Enter → Choose Topic → AI Curates Learning Path → Engage → Contribute/Rewarded)  
-      
-    
-- Roadmap Timeline:  
-      
+- User Growth Goal of 1,000+ active beta users and 25 institutional licenses within 12–18 months
     
 
-- MVP Launch  
-      
+To date, we have achieved a fully developed platform concept, strategic partnership alignment, and DAO-ready architecture plan. Our next major milestone is developing and launching our MVP to deploy with our first institutional pilots.
+
+# Financial Plan
+
+SCOOL is built on a lean, scalable, and ethically grounded financial model designed to sustain the platform while returning value to its contributors. Over the next five years, we project significant user and revenue growth driven by our blended monetization approach, combining individual freemium-to-premium conversions and institutional licensing.
+
+3–5 Year Forecast
+
+We anticipate onboarding 1,000 users during our initial pilot year, scaling to 300,000 by Year 5. Corresponding revenue is expected to grow from $25K in 2025 to over $7M by 2029. During the initial 24 months, we will operate at a net loss to focus on platform development, user onboarding, and community seeding. We project profitability beginning in Year 3, with community net profits exceeding $4.5M by Year 5 as user growth compounds and institutional partnerships mature.
+
+|   |   |   |   |   |
+|---|---|---|---|---|
+|Year|Users (Est.)|Revenue ($K)|Expenses ($K)|Net Profit ($K)|
+|2025|1,000|$25|$100|-$75|
+|2026|10,000|$200|$220|-$20|
+|2027|50,000|$1,000|$500|$500|
+|2028|150,000|$3,200|$1,200|$2,000|
+|2029|300,000|$7,000|$2,500|$4,500|
+
+## Break-Even Analysis
+
+Assuming an average ARPU of $40 and operating expenses of ~$8,000/month, our break-even point occurs in Year 3, once we surpass approximately 25,000 active users. This projection assumes a 7% conversion rate of freemium users and steady institutional licensing growth. The low cost of content reproduction and the automation of DAO-based payouts enable high gross margins post-scale.
+
+# Funding Needs
+
+We are seeking an initial $100,000 in funding to support:
+
+- 40% – Product development (AI systems, token infra, user onboarding)
     
-- Pilot User Testing  
-      
+- 20% – Cloud infrastructure and hosting
     
-- Institutional Partnership Onboarding  
-      
+- 15% – DAO tooling, licensing, legal setup
     
-- DAO Formation  
-      
+- 15% – Community marketing and institutional outreach
+    
+- 10% – School pilot onboarding and support
     
 
-- Example of Time Token Attribution Model  
-      
+## Key Metrics
+
+- Customer Acquisition Cost (CAC): $5 for individuals, $200 for institutions
+    
+- Customer Lifetime Value (LTV): $480 (individual), $15,000 (institutional)
+    
+- Burn Rate: ~$8,000/month
+    
+- Runway (with $100K): 10–12 months
     
 
 ---
 
-## ✅ Checklist Before Submission:
+# Acknowledgements and Advisors: 
 
-- Is the whole document under 15 pages (including exhibits)?  
-      
-    
-- Is AI clearly positioned at the heart of the business idea?  
-      
-    
-- Is the Executive Summary concise but compelling?  
-      
-    
-- Are there real numbers or sources to support the Market Opportunity?  
-      
-    
-- Is the Revenue Model realistic and scalable?  
-      
-    
-- Did you address ethical AI use?  
-      
-    
-- Is your formatting clean and professional?  
-      
-    
+Ellie DeSoto (MetaGov representative) - Community and Governance Lead. Focuses on DAO setup, user onboarding, and community moderation tools.
 
----
-
-Would you also like a short draft for your 10-minute pitch deck next, so you’re ready if (when 🚀) you make it to the top 24?  
-(We can design it so it directly maps to this business plan, super simple to fill out later.) 🎯
+John Adams - Philosophy student, Educational  Philosophy and Democracy advisor
 
 # Submission Page
 ## Call for Submissions
