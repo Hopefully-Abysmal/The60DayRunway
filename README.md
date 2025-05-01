@@ -4,7 +4,7 @@ The 60 Day Runway // The Beginnings of The Arx Foundation
 ![Pasted image 20250417105237.png](https://github.com/Hopefully-Abysmal/The60DayRunway/blob/main/0%20-%20Housekeeping%2F_Attatchments%2FThe%2060%20Day%20Runway.png)
 _The Beginnings of The Arx Foundation_
 
-Note: By continuing your perusal of this vault you are bound to the terms of the license and [memorandum of understanding](https://github.com/Hopefully-Abysmal/The60DayRunway/blob/main/0%20-%20Housekeeping%2FMemorandum%20of%20Understanding.md) IP terms listed; this is for the greater good, do not get in our way.
+Note: By continuing your perusal of this vault you are bound to the terms of the [license](https://github.com/Hopefully-Abysmal/The60DayRunway/blob/main/license.md) and [memorandum of understanding](https://github.com/Hopefully-Abysmal/The60DayRunway/blob/main/0%20-%20Housekeeping%2FMemorandum%20of%20Understanding.md) IP terms listed; this is for the greater good, do not get in our way.
 
 ## What Is This?
 
