@@ -1,7 +1,7 @@
 # LICENSE — The ARX Foundation Public Pact (AFPP)
 
 **Version 1.0**  
-**Last Updated:** April 19, 2025  
+**Last Updated:** May 1st, 2025  
 **Applies to:** All contents of this repository, including but not limited to source code, documentation, creative works, research notes, designs, and concepts.
 
 ---
@@ -102,8 +102,8 @@ If they aren’t: **Please step aside.**
 
 Let’s build something new — together, in the open, for everyone.
 
-— Landon Dahle  // Elryan The Explorer
-Founder, The ARX Foundation  
+— Landon Dahle  // Elryan The Explorer // 
+Founder of The ARX Foundation
 🧭 [60dayrunway@hopefullyabysmal.com](mailto:60dayrunway@hopefullyabysmal.com)
 
 ---
