@@ -4,7 +4,7 @@ The 60 Day Runway // The Beginnings of The Arx Foundation
 ![Pasted image 20250417105237.png](https://github.com/Hopefully-Abysmal/The60DayRunway/blob/main/0%20-%20Housekeeping%2F_Attatchments%2FThe%2060%20Day%20Runway.png)
 _The Beginnings of The Arx Foundation_
 
-Note: By continuing your perusal of this vault you are bound to the terms of the [license](https://github.com/Hopefully-Abysmal/The60DayRunway/blob/main/license.md) and [memorandum of understanding](https://github.com/Hopefully-Abysmal/The60DayRunway/blob/main/0%20-%20Housekeeping%2FMemorandum%20of%20Understanding.md) IP terms listed; this is for the greater good, do not get in our way.
+Note: By continuing your perusal of this vault you are bound to the terms of the [license](https://github.com/Hopefully-Abysmal/The60DayRunway/blob/main/license.md) terms listed; this is for the greater good, do not get in our way. To contribute to our cause, see the [memorandum of understanding](https://github.com/Hopefully-Abysmal/The60DayRunway/blob/main/0%20-%20Housekeeping%2FMemorandum%20of%20Understanding.md)  and send us a filled copy of either our Individual Contributor License Agreement or Entity Contributor License Agreement per your organization status. If any qualms need to be aired on any of the above please see and utilize the contract information provided.
 
 ## What Is This?
 
@@ -16,7 +16,7 @@ This isn’t just a hustle. It’s the **origin story of The Arx Foundation** �
 
 Revolutionize // reform the education system as we know it. We are in a time of misinformation, fear, and turmoil; now is better than any other time to make a change so thats what we are doing.
 
-Specifically: "Make Academia Great Again" by processing and centralizing knowledge on a publically owned platorm with the aim of decentralizing the tools to access and utilize it. The end goal is to create a marketplace of intellectual acceleration methods and strategies; we believe that people can think for themselves and want to ensure that is a secure statement.
+Specifically: "Make Academia Great Again" by processing and centralizing knowledge on a publically owned platorm (DO2E // [[Building a Better Future Through Business and AI Application|SCOOL]] // The Creostic Academia) with the aim of decentralizing the tools to access and utilize knowledge in general. The end goal is to create a marketplace of intellectual acceleration methods and strategies; we believe that people can think for themselves and want to ensure that is a secure statement.
 
 ## Why?
 
@@ -40,13 +40,16 @@ Landon's Motivations:
 We believe in making it visible — in **livestreaming** the climb, the mistakes, the breakthroughs, and the burnout; the current market lacks transparency. Open source doesn't mean just community driven; it means complete transparency in all aspects; complete accountability for the power the entity gains.
 
 
-## Core Projects (beyond the platform)
+## Core Projects (In chronological order of developmental planning)
 
 | Project                 | Description                                                 |
 | ----------------------- | ----------------------------------------------------------- |
+| **SCOOL**               | The Platform                                                |
 | **Bliss in Ignorance**  | Customizable content filtering for intentional mental space |
 | **Interphrase**         | Language immersion tool via browser-based phrase swapping   |
 | **Babel Ideas Archive** | A searchable, open-source graveyard of unclaimed ideas      |
+| **The Stranded Web**    | Gamification of the Node System                             |
+| **The Precursor**       | Pre-agentic development project preparation automation.     |
 
 ## Built With
 

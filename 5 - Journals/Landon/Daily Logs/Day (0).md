@@ -32,30 +32,30 @@ Author:
 - [ ] Check financial status (e.g., bank, crypto, whatever)
 - [x] Eat something (yes, that counts)
 - [x] Do a chore (dish/laundry/trash/etc.)
-- [ ] Handle pet care / errands / groceries  
-- [ ] Shower (for the love of all that is sacred)
-- [ ] Reflect / prep for public speaking / writing
-- [ ] Go outside (optionally with friends)
-- [ ] Dinner or evening wind-down
+- [x] Handle pet care / errands / groceries  
+- [ ] Shower (for the love of all that is sacred) - no time lmao, need to tomorrow...
+- [x] Reflect / prep for public speaking / writing
+- [ ] Go outside (optionally with friends) - I kindof did but not really
+- [x] Dinner or evening wind-down
 
 ## 🌱 Throughout Day
 
-- [ ] Drink entire water bottle (seriously)
-- [ ] Move body, stretch, or at least shift positions
-- [ ] !!BREATHE!!
+- [x] Drink entire water bottle (seriously)
+- [x] Move body, stretch, or at least shift positions
+- [x] !!BREATHE!!
 
 
 ## 🤑Work Schedule
 
 - [x] EH credit activity (am now graduated with honors!)
 - [x] Groceries
-- [ ] Review AI comp submission if team gets it done
-- [ ] Draft out [[DAO scope]]
-- [ ] Meet with Ellie DeSoto from MetaGov (was at 2pm but moved to 11am)
-- [ ] Bachelor Party!!!
-- [ ] Final review of AI comp submission if team gets it done
+- [x] Review AI comp submission if team gets it done
+- [x] Draft out [[DAO scope]]
+- [x] Meet with Ellie DeSoto from MetaGov (was at 2pm but moved to 11am)
+- [x] Bachelor Party!!!
+- [x] Final review of AI comp submission if team gets it done
 - [ ] Post updates or progress  
-	- [ ] Push to repo / update site  
+	- [x] Push to repo / update site  
 	- [ ] Update socials / links
 		- [ ] Post video reading the AI comp submission to be posted to ARX channel and hopefullyabysmal directing to ARX Foundation channel
 
@@ -73,4 +73,6 @@ Pushing forward:
 
 ---
 
-Note: I did not make this on day of, was too busy lmao
+Team pulled through, so fuckn happy
+
+[[Building a Better Future Through Business and AI Application]]

@@ -10,7 +10,7 @@ Published: true
 Author:
 ---
 ---
-# From The Beginning
+# From The Beginning (skip to next top level header for competition submission)
 ## The Immediate Problem:
 
 The talks of defunding the department of education (doe) struck fear into my heart for future generations. Acts like “School Choice” and the push towards privatized education were publicly framed as ways to allow for those underserved to have the choice to attend private schooling, an opportunity they wouldn’t otherwise have, an opportunity too good to pass up. This idealistic notion proves to be insecure upon further examination, however; if parents choose these private schools they inadvertently remove the ability of the public schools their children once utilized to support themselves, an outcome seemingly designed to cull the already underfunded public schools from existence. 
