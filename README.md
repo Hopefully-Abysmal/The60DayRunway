@@ -1,10 +1,10 @@
 # The60DayRunway
 The 60 Day Runway // The Beginnings of The Arx Foundation
 
-![Pasted image 20250417105237.png](https://github.com/Hopefully-Abysmal/The60DayRunway/blob/main/0%20-%20Housekeeping%2F_Attatchments%2FThe%2060%20Day%20Runway.png)
+![The 60 Day Runway.jpg](https://github.com/Hopefully-Abysmal/The60DayRunway/blob/main/0%20-%20Housekeeping%2F_Attatchments%2FThe%2060%20Day%20Runway.png)
 _The Beginnings of The Arx Foundation_
 
-Note: By continuing your perusal of this vault you are bound to the terms of the [license](https://github.com/Hopefully-Abysmal/The60DayRunway/blob/main/license.md) terms listed; this is for the greater good, do not get in our way. To contribute to our cause, see the [memorandum of understanding](https://github.com/Hopefully-Abysmal/The60DayRunway/blob/main/0%20-%20Housekeeping%2FMemorandum%20of%20Understanding.md)  and send us a filled copy of either our Individual Contributor License Agreement or Entity Contributor License Agreement per your organization status. If any qualms need to be aired on any of the above please see and utilize the contract information provided.
+Note: By continuing your perusal of this vault you are bound to the terms of the [license](https://github.com/Hopefully-Abysmal/The60DayRunway/blob/main/license.md) terms listed; this is for the greater good, do not get in our way. To contribute to our cause, see and send us a filled copy the [memorandum of understanding](https://github.com/Hopefully-Abysmal/The60DayRunway/blob/main/0%20-%20Housekeeping/Contractual%20Agreements/Memorandum%20of%20Understanding.md)  and either our [Individual Contributor License Agreement](https://github.com/Hopefully-Abysmal/The60DayRunway/blob/main/0%20-%20Housekeeping/Contractual%20Agreements/Individual%20Contributor%20Exclusive%20License%20Agreement.md) or [Entity Contributor License Agreement](https://github.com/Hopefully-Abysmal/The60DayRunway/blob/main/0%20-%20Housekeeping/Contractual%20Agreements/Entity%20Contributor%20Exclusive%20License%20Agreement.md) per your organization status. If any qualms need to be aired on any of the above (should you find them too restrictive // have a genuine reason to be exempt from any terms) please see and utilize the contract information provided to reach out for assistance.
 
 ## What Is This?
 
@@ -16,7 +16,7 @@ This isn’t just a hustle. It’s the **origin story of The Arx Foundation** �
 
 Revolutionize // reform the education system as we know it. We are in a time of misinformation, fear, and turmoil; now is better than any other time to make a change so thats what we are doing.
 
-Specifically: "Make Academia Great Again" by processing and centralizing knowledge on a publically owned platorm (DO2E // [[Building a Better Future Through Business and AI Application|SCOOL]] // The Creostic Academia) with the aim of decentralizing the tools to access and utilize knowledge in general. The end goal is to create a marketplace of intellectual acceleration methods and strategies; we believe that people can think for themselves and want to ensure that is a secure statement.
+Specifically: "Make Academia Great Again" by processing and centralizing knowledge on a publically owned platorm ([DO2E // SCOOL // The Creostic Academia](https://github.com/Hopefully-Abysmal/The60DayRunway/blob/main/6%20-%20Projects/Outreach/Building%20a%20Better%20Future%20Through%20Business%20and%20AI%20Application.md)) with the aim of decentralizing the tools to access and utilize knowledge in general. The end goal is to create a marketplace of intellectual acceleration methods and strategies; we believe that people can think for themselves and want to ensure that is a secure statement.
 
 ## Why?
 
@@ -42,14 +42,14 @@ We believe in making it visible — in **livestreaming** the climb, the mistakes
 
 ## Core Projects (In chronological order of developmental planning)
 
-| Project                 | Description                                                 |
-| ----------------------- | ----------------------------------------------------------- |
-| **SCOOL**               | The Platform                                                |
-| **Bliss in Ignorance**  | Customizable content filtering for intentional mental space |
-| **Interphrase**         | Language immersion tool via browser-based phrase swapping   |
-| **Babel Ideas Archive** | A searchable, open-source graveyard of unclaimed ideas      |
-| **The Stranded Web**    | Gamification of the Node System                             |
-| **The Precursor**       | Pre-agentic development project preparation automation.     |
+| Project                                                                                                                                                                                                                           | Description                                                 |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------- |
+| **[SCOOL](https://github.com/Hopefully-Abysmal/The60DayRunway/blob/main/6%20-%20Projects/Outreach/Building%20a%20Better%20Future%20Through%20Business%20and%20AI%20Application.md)**                                              | The Platform                                                |
+| **[Bliss in Ignorance](https://github.com/Hopefully-Abysmal/The60DayRunway/blob/main/6%20-%20Projects/The%20Creostic%20Academia/Bliss%20In%20Ignorance/%F0%9F%90%9D%20Bliss%20in%20Ignorance%20(BII)%20%E2%80%93%20Tasklist.md)** | Customizable content filtering for intentional mental space |
+| **[Interphrase](https://github.com/Hopefully-Abysmal/The60DayRunway/blob/main/6%20-%20Projects/The%20Creostic%20Academia/Interphrase/%F0%9F%8C%90%20Interphrase%20%E2%80%94%20Tasklist.md)**                                      | Language immersion tool via browser-based phrase swapping   |
+| **Babel Ideas Archive**                                                                                                                                                                                                           | A searchable, open-source graveyard of unclaimed ideas      |
+| **[The Stranded Web](https://github.com/Hopefully-Abysmal/The60DayRunway/blob/main/6%20-%20Projects/The%20Stranded%20Web/Gamification%20of%20the%20Node%20System.md)**                                                            | Gamification of the Node System                             |
+| **[The Precursor](https://github.com/Hopefully-Abysmal/The60DayRunway/blob/main/6%20-%20Projects/The%20Precursor/Project%20Planning%20Automation.md)**                                                                            | Pre-agentic development project preparation automation.     |
 
 ## Built With
 
