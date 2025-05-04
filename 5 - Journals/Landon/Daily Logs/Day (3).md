@@ -49,9 +49,9 @@ Author:
 
 
 - [x] Archive [[Impact, Guilds, and Community Culture|GPT chat on impact compensation]]
-- [ ] Make [[Impact Compensation Methodologies and Mechanisms|formal document on impact compensation mechanisms]]
-	- [ ] Consolidate [[all relevant references of impact compensation]]
-- [ ] Read it and record for today's video
+- [x] Make [[Impact Compensation Methodologies and Mechanisms|formal document on impact compensation mechanisms]]
+	- [x] Consolidate [[all relevant references of impact compensation]]
+- [x] Read it and record for today's video - https://www.youtube.com/watch?v=Xeer2MNU7ZI
 
 Pushing forward:
 - [ ] Actually write out [[crypto as backend]] idea

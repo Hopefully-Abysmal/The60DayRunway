@@ -28,11 +28,8 @@ We abandon speculative tokenomics in favor of direct-impact-driven compensation.
 ### A. Direct Subscription Model
 
 - Platform users subscribe using fiat (or stablecoin) in tiers.
-    
 - Subscription fees pooled into a **Creator Compensation Reserve (T)**.
-    
-- No speculative holding. Users receive **time access**, not tokens.
-    
+- No speculative holding. Users receive **time and impact data access** to be reflected in their compensation, not the tokens potentially utilized.
 
 ### B. Impact-Based Payout Formula
 
