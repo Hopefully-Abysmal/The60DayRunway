@@ -25,3 +25,17 @@ Author:
 - [ ] Code something to copy paste the unchecked from the last days work schedule to auto update the template for next day
 	- [ ] Day planning automation
 - [ ] Continue KOI Perusal: https://github.com/BlockScience/koi
+- [ ] Actually write out [[crypto as backend]] idea
+- [ ] Finalize DAO Structure
+- [ ] BII and Interphrase prototypes
+- [ ] PKM Automation Prototype
+- [ ] Summarize [[Foundation Company Holding Structure|finalized company structure]]
+- [ ] Convert [[DAO Global Compliance Checklist]] into an actual checklist
+- [ ] Make ARX Foundation channel
+	- [ ] Intro video: [[Introducing The ARX Foundation]]
+- [ ] Filter GPT Chats for note separation possibilities (what needs to be its own note?) - going to be an ongoing effort...
+	- [ ] Go through and fix all mermaid chart errors lmao
+	- [ ] Move answered questions into folder
+		- [ ] [[Unanswered]] questions for SCOOL
+- [ ] Rename image attachments for ease of perusal and reference
+- [ ] Inter-link all relevant mentions of impact to [[Impact Compensation Methodologies and Mechanisms]]
