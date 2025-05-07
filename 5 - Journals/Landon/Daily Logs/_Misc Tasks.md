@@ -39,3 +39,4 @@ Author:
 		- [ ] [[Unanswered]] questions for SCOOL
 - [ ] Rename image attachments for ease of perusal and reference
 - [ ] Inter-link all relevant mentions of impact to [[Impact Compensation Methodologies and Mechanisms]]
+- [ ] [[SCOOL Portal Mockups|Figma mockups of intro and all portals for all device types]]

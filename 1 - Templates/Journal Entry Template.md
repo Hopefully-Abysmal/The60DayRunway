@@ -3,10 +3,12 @@ Date Created: "{{date}} {{time}}"
 Last Updated: "{{date}} {{time}}"
 tags:
   - Archive
-Index: "[[Journals]]"
+Index:
+  - "[[Journals]]"
 Status: Unweathered
 Published: true
 Author:
+  - "[[Landon Dahle]]"
 ---
 ---
 
@@ -16,7 +18,6 @@ Author:
 
 ## 🕒 Life Schedule
 
-- [ ] Make work to-do list  
 - [ ] Morning routine  
 	- [ ] Brush teeth  
 	- [ ] Take meds  
@@ -26,15 +27,18 @@ Author:
 		- [x] omega 3-6-9 complex
 		- [x] mushroom blend
 		- [x] veggie superfood blend
-	- [ ] Drink something green and holy (Good old matcha my beloved)  
+	- [ ] Drink something caffeinated 
+	- [ ] Breakfast
+- [ ] Make work to-do list 
 - [ ] Check financial status (e.g., bank, crypto, whatever)
-- [ ] Eat something (yes, that counts)
 - [ ] Do a chore (dish/laundry/trash/etc.)
 - [ ] Handle pet care / errands / groceries  
+- [ ] Lunch
+- [ ] Go outside (optionally with friends)
 - [ ] Shower (for the love of all that is sacred)
 - [ ] Reflect / prep for public speaking / writing
-- [ ] Go outside (optionally with friends)
-- [ ] Dinner or evening wind-down
+- [ ] Dinner 
+- [ ] Evening wind-down
 
 ## 🌱 Throughout Day
 
@@ -44,10 +48,11 @@ Author:
 
 
 ## 🤑Work Schedule
+ Having trouble thinking of what to do? Check and answer some [[Unanswered]] questions.
 
-- [ ] Post updates or progress  
-	- [ ] Push to repo / update site  
-	- [ ] Update socials / links
+- [ ] 
+- [ ] Push to repo / update site  
+- [ ] Record and Post V-log
 
 ---
 

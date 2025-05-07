@@ -79,7 +79,7 @@ Meds helped, still took it slow cause I'm trying to be conscious of burnout.
 
 Wrote script and recorded [video](https://youtu.be/2pb6-0VatBY?si=mUbgEaOILkrnR-77)
 
-Wife wants to help fund so is going to use her art skills to make shirts to sell on my personal website [hopefullyabysmal.com](hopefullyabysmal.com) so go buy em mfs
+Wife wants to help fund so is going to use her art skills to make shirts to sell on my personal website [Hopefully Abysmal](Hopefully%20Abysmal.md) so go buy em mfs
 	Yes its fast fashion, print on demand, but for a good cause;; ill comp the environmental costs later on when I can afford it (hold me to it)
 	Gonna charge ~$30 per shirt, costs anywhere from $12-$20 to make (depending on if just front or on both front and back) so only taking a bit off the top like the middleman I am;; again for a good cause tho, everything made from that is being re-invested so HELP ME BY HELPING YOURSELF TO COOL MERCH PLEASE.
 	Taking ideas from https://www.are.na/nxlounojeoi/shirts-to-wear-to-your-grandmothers-birthday-party and my wife's beautiful sense of humor (and extensive tweet archive lmao) so if you want something done add to the board, if you want anything expedited hmu we gotchu.

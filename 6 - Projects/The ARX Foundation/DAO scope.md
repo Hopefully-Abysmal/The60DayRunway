@@ -62,3 +62,8 @@ Here’s a **fillable table** (copy-paste ready for Notion, Obsidian, Google Doc
 |Hardware/OS Integration (Future)|||||
 
 ---
+
+
+Notebook LM podcast on integration ideation:
+
+notebooklm.google.com/notebook/4c323e6b-3f45-4657-a887-08c429bb1628/audio

@@ -1354,7 +1354,7 @@ We believe in making it visible — in **livestreaming** the climb, the mistakes
 #### Follow / Support
 
 - 💲 Support on Patreon: patreon.com/HopefullyAbysmal
-- 🛍️ Shop at [hopefullyabysmal.com](hopefullyabysmal.com)
+- 🛍️ Shop at [Hopefully Abysmal](Hopefully%20Abysmal.md)
 - 💌 Contact: [60dayrunway@hopefullyabysmal.com]
 - 🧭 Follow progress via [Our Zettelkasten](https://hopefullyabysmal.github.io)
 - 📽️ Immerse yourself in the story on [Youtube](https://www.youtube.com/@HopefullyAbysmal/)

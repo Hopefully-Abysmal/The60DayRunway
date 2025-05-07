@@ -42,19 +42,29 @@ We believe in making it visible — in **livestreaming** the climb, the mistakes
 
 ## Core Projects (In chronological order of developmental planning)
 
-| Project                                                                                                                                                                                                                           | Description                                                 |
+
+SCOOL is the **central hub** of the knowledge ecosystem we're building:
+
+| Layer                                                                                                                                                                                | Role                                                                   |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------- |
+| DSWM                                                                                                                                                                                 | Decentralized system for organizing user-contributed knowledge         |
+| **[SCOOL](https://github.com/Hopefully-Abysmal/The60DayRunway/blob/main/6%20-%20Projects/Outreach/Building%20a%20Better%20Future%20Through%20Business%20and%20AI%20Application.md)** | The Platform. UX/UI focus on shareable, scrollable learning            |
+| ALTs                                                                                                                                                                                 | Accelerative learning tools to treat your time as our biggest priority |
+
+Some ALT Examples to spur ideation:
+
+| ALTs                                                                                                                                                                                                                              | Description                                                 |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------- |
-| **[SCOOL](https://github.com/Hopefully-Abysmal/The60DayRunway/blob/main/6%20-%20Projects/Outreach/Building%20a%20Better%20Future%20Through%20Business%20and%20AI%20Application.md)**                                              | The Platform                                                |
 | **[Bliss in Ignorance](https://github.com/Hopefully-Abysmal/The60DayRunway/blob/main/6%20-%20Projects/The%20Creostic%20Academia/Bliss%20In%20Ignorance/%F0%9F%90%9D%20Bliss%20in%20Ignorance%20(BII)%20%E2%80%93%20Tasklist.md)** | Customizable content filtering for intentional mental space |
 | **[Interphrase](https://github.com/Hopefully-Abysmal/The60DayRunway/blob/main/6%20-%20Projects/The%20Creostic%20Academia/Interphrase/%F0%9F%8C%90%20Interphrase%20%E2%80%94%20Tasklist.md)**                                      | Language immersion tool via browser-based phrase swapping   |
 | **Babel Ideas Archive**                                                                                                                                                                                                           | A searchable, open-source graveyard of unclaimed ideas      |
 | **[The Stranded Web](https://github.com/Hopefully-Abysmal/The60DayRunway/blob/main/6%20-%20Projects/The%20Stranded%20Web/Gamification%20of%20the%20Node%20System.md)**                                                            | Gamification of the Node System                             |
 | **[The Precursor](https://github.com/Hopefully-Abysmal/The60DayRunway/blob/main/6%20-%20Projects/The%20Precursor/Project%20Planning%20Automation.md)**                                                                            | Pre-agentic development project preparation automation.     |
 
-## Built With
+## Knowledge Corpus Built With
 
 - 🧠 **Obsidian** + Zettelkasten (knowledge work)
-- 🛠️ **Python**, **Markdown**, **JavaScript**, **TailwindCSS**, **Astro**, **FastAPI**
+- 🛠️ **Python**, **Markdown**, JSON Canvases, and Mermaid
 - 💡 Livestreams, blogs, devlogs, and mini-lessons
 - 🎥 Community-supported via [HopefullyAbysmal](patreon.com/HopefullyAbysmal)
 
@@ -76,7 +86,7 @@ We believe in making it visible — in **livestreaming** the climb, the mistakes
 ## Follow / Support
 
 - 💲 Support on Patreon: patreon.com/HopefullyAbysmal
-- 🛍️ Shop at [hopefullyabysmal.com](hopefullyabysmal.com)
+- 🛍️ Shop at [Hopefully Abysmal](Hopefully%20Abysmal.md)
 - 💌 Contact: [60dayrunway@hopefullyabysmal.com]
 - 🧭 Follow progress via [Our Zettelkasten](https://hopefullyabysmal.github.io)
 - 📽️ Immerse yourself in the story on [Youtube](https://www.youtube.com/@HopefullyAbysmal/)
