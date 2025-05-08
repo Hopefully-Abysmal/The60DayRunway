@@ -82,3 +82,6 @@ Author:
 
 ---
 
+Hung out with the homies; did a movie night and watched `Meet The Robinsons`, probably my first sci-fi as a kid! Definitely shaped my views on innovation and time travel;; the concept of multiple timelines is re-enforced via the paradoxes within the film.  As such though, time was tight; just ran a NotebookLM podcast on the [[conversation on The Decentralized Semantic Web Mirror (DSWM)]]. Spent some time on the overlay though to keep it not boring; wish I could make it such that the background moves but that would've taken a bunch more time and effort than what I put in.
+
+We think Ares ate some chocolate, had an accident ~12am then another ~3am. Didn't get to bed until like 4-5ish fml.

@@ -6276,16 +6276,20 @@ Youtube Description:
 
 Notebook LM Podcast because I had friends over and it ran too late to record (am posting this on day 7 technically lmao, but this is all day 6 work). 
 
-Ideating on the groundwork required to get this thing up;; thought it'd be cool to see a synopsis of like 700 pages of text on the subject so threw into Notebook LM.
+Ideating on the groundwork required to get this thing up;; thinking ahead, what will be needed to be built infrastructure-wise for a system like the one I want to make? The answer: Web 3.... (the semantic web).. So now to try to solve a decade old problem of re-indexing the web. As startup costs are a thing, hoping to just serve as a CDN of sorts and outsource the processing and storage to the community. Ideating on this concept.
 
-Relevant links for you to mess with / check out:
+Thought it'd be cool to see a synopsis of like 700 pages of text on the subject so threw into Notebook LM. Relevant links for you to mess with / check out:
 - https://notebooklm.google.com/notebook/d36cff68-2416-4f5c-86d6-c8b69e31982a?original_referer=https:%2F%2Fwww.google.com%23&pli=1
 - https://notebooklm.google.com/notebook/d36cff68-2416-4f5c-86d6-c8b69e31982a/audio
 
 
 ---
 
-The relevant notes folder: 
+The relevant notes: 
+
+Ideation LLM chat leading up and through DSWM Dev - https://github.com/Hopefully-Abysmal/The60DayRunway/blob/main/4%20-%20Source%20Material/_LLM%20Logs/conversation%20on%20The%20Decentralized%20Semantic%20Web%20Mirror%20(DSWM).md
+
+DSWM Proposed Tech Stack - https://github.com/Hopefully-Abysmal/The60DayRunway/blob/main/6%20-%20Projects/The%20Creostic%20Academia/The%20DSWM/Intro%20to%20The%20DSWM%20Tech%20Stack.md
 
 (Still relevant because I need money to get this thing going) Funding Ask Breakdown - https://github.com/Hopefully-Abysmal/The60DayRunway/blob/main/6%20-%20Projects/Outreach/The%20Funding%20Ask.md
 
