@@ -1,11 +1,12 @@
 ---
-Date Created: "2025-05-07 15:44"
-Last Updated: "2025-05-07 15:44"
+Date Created: 2025-05-07 15:44
+Last Updated: 2025-05-07 15:44
 tags:
   - Resource
 Index: 
 Topic: 
-Link: 
+Link:
+  - https://www.youtube.com/watch?v=0xS68sl2D70&t=1462s
 Status: Unweathered
 Published: true
 ---
