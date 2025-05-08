@@ -6,19 +6,20 @@
       {
         "id": "98dd5fad1ad9a340",
         "type": "tabs",
+        "dimension": 61.228813559322035,
         "children": [
           {
-            "id": "236f0c9ca98c12ef",
+            "id": "866245d8fd3a14c4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5 - Journals/Landon/Daily Logs/Day (7).md",
+                "file": "5 - Journals/Landon/Daily Logs/_Misc Tasks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Day (7)"
+              "title": "_Misc Tasks"
             }
           },
           {
@@ -36,49 +37,100 @@
             }
           },
           {
-            "id": "a026d7e78ddae09f",
+            "id": "7ffbfe461cd11fd6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 - Source Material/Videos/my teacher was a youtuber - nobody.md",
+                "file": "4 - Source Material/Community/The Auctor/Peer review of X to the power of ∞.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "my teacher was a youtuber - nobody"
+              "title": "Peer review of X to the power of ∞"
             }
           },
           {
-            "id": "9f8a8a29e6181fb7",
+            "id": "04a4bfab33809e79",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "6 - Projects/The Creostic Academia/AI and Learning Rebuttal.md",
-                "mode": "source",
-                "source": false
+                "file": "4 - Source Material/Community/The Auctor/X to the power of infinity - Philosophy_of_Accountability_V1.0_en.pdf",
+                "page": 28,
+                "left": -25,
+                "top": 431,
+                "zoom": 1.8
               },
-              "icon": "lucide-file",
-              "title": "AI and Learning Rebuttal"
+              "icon": "lucide-file-text",
+              "title": "X to the power of infinity - Philosophy_of_Accountability_V1.0_en"
             }
           },
           {
-            "id": "c061e80d44f715d9",
+            "id": "d7c4d09879ec1273",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Projects/The Creostic Academia/Questions/Rebuttals to Common Failure Points in Educational Innovation.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rebuttals to Common Failure Points in Educational Innovation"
+              "title": "README"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
+      },
+      {
+        "id": "65cc2cd03a244b0a",
+        "type": "tabs",
+        "dimension": 38.771186440677965,
+        "children": [
+          {
+            "id": "f26f63f43ec620cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4 - Source Material/Community/The Auctor/Peer review of X to the power of ∞.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Peer review of X to the power of ∞"
+            }
+          },
+          {
+            "id": "e00f1875d1db6508",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4 - Source Material/Research/Economics/Socialism vs Communism.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Socialism vs Communism"
+            }
+          },
+          {
+            "id": "72a5da40cb83bc91",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4 - Source Material/Community/The Auctor/Request for Peer Review on X to the power of ∞ – The Philosophy of Accountability.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Request for Peer Review on X to the power of ∞ – The Philosophy of Accountability"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -135,7 +187,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 264.5086555480957
+    "width": 264.5086555480957,
+    "collapsed": true
   },
   "right": {
     "id": "1e547c4c8c7187e0",
@@ -221,9 +274,21 @@
               "icon": "lucide-archive",
               "title": "All properties"
             }
+          },
+          {
+            "id": "09dfbf370d0b2731",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "README.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for README"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -232,6 +297,9 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -240,46 +308,48 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a026d7e78ddae09f",
+  "active": "d7c4d09879ec1273",
   "lastOpenFiles": [
-    "4 - Source Material/Videos/Veritasium What Everyone Gets Wrong About AI and Learning - Derek Muller Explains.md",
+    "4 - Source Material/Community/The Auctor/Peer review of X to the power of ∞.md",
+    "4 - Source Material/Research/Economics/Socialism vs Communism.md",
+    "4 - Source Material/Community/The Auctor/X to the power of infinity - Philosophy_of_Accountability_V1.0_en.pdf",
+    "4 - Source Material/Community/The Auctor/Request for Peer Review on X to the power of ∞ – The Philosophy of Accountability.md",
+    "4 - Source Material/Community/The Auctor/Annotations of X to the power of Infinity.md",
     "6 - Projects/The Creostic Academia/AI and Learning Rebuttal.md",
-    "6 - Projects/The Creostic Academia/ELI5 The SCOOL Platform.md",
+    "4 - Source Material/Videos/my teacher was a youtuber - nobody.md",
+    "5 - Journals/Landon/Daily Logs/_Misc Tasks.md",
+    "2 - Paths/The Auctor.md",
+    "5 - Journals/Landon/Daily Logs/Day (8).md",
+    "4 - Source Material/Community/The Auctor/Annotations.md",
+    "4 - Source Material/Community/The Auctor/X^∞ -- Philosophy_of_Accountability_V1.0_en.pdf",
     "5 - Journals/Landon/Daily Logs/Day (7).md",
+    "Governance.md",
+    "3 - Indexes/People.md",
+    "2 - Paths/Adam Miri.md",
+    "4 - Source Material/_LLM Logs/Agentic Coding.md",
+    "4 - Source Material/Community/The Auctor",
+    "4 - Source Material/Games/Ithya - Magic Studies.md",
+    "4 - Source Material/Community",
+    "4 - Source Material/Games",
+    "4 - Source Material/Videos/Veritasium What Everyone Gets Wrong About AI and Learning - Derek Muller Explains.md",
+    "6 - Projects/The Creostic Academia/ELI5 The SCOOL Platform.md",
     "5 - Journals/Landon/Daily Logs/Day (6).md",
     "4 - Source Material/_LLM Logs/conversation on The Decentralized Semantic Web Mirror (DSWM).md",
     "0 - Housekeeping/Consolidations/Consolidated_Notes (2025-05-07).md",
     "6 - Projects/The Creostic Academia/Questions/Rebuttals to Common Failure Points in Educational Innovation.md",
-    "4 - Source Material/Videos/my teacher was a youtuber - nobody.md",
     "6 - Projects/Hopefully Abysmal/Licensing Requirements for Creative Development Business.md",
     "4 - Source Material/Interviews/MetaGov Orientation Conference Call.md",
     "6 - Projects/The Creostic Academia/Funding Cycle for Open Access Education With Accelerative Learning Tools.canvas",
     "6 - Projects/The Creostic Academia/The ARX Portal/The SCOOL Student Experience.canvas",
     "6 - Projects/The Creostic Academia/The DSWM/Intro to The DSWM Tech Stack.md",
     "4 - Source Material/Research/All you need is links - Gordon Brander.md",
-    "README.md",
-    "license.md",
-    "6 - Projects/The Creostic Academia/A Modern Privacy Policy for Open Education.md",
-    "4 - Source Material/_LLM Logs/Making SCOOL Cool (Problem statement ideation and selling points).md",
-    "6 - Projects/Outreach/SCOOL Pitch Ideation.md",
-    "4 - Source Material/_LLM Logs/How can we make transparent education privacy centric.md",
     "0 - Housekeeping/_Attatchments/https___www.youtube.com_watch_v=qp0HIF3SfI4.url",
-    "3 - Indexes/Hopefully Abysmal.md",
     "6 - Projects/Hopefully Abysmal",
     "6 - Projects/The Creostic Academia/The DSWM",
-    "1 - Templates/Journal Entry Template.md",
-    "6 - Projects/The ARX Foundation/DAO scope.md",
-    "6 - Projects/The Creostic Academia/Questions/Unanswered.md",
-    "6 - Projects/The Creostic Academia/The ARX Portal/SCOOL Portal Mockups.md",
-    "5 - Journals/Landon/Daily Logs/_Misc Tasks.md",
-    "5 - Journals/Landon/Daily Logs/Day (5).md",
     "6 - Projects/The Creostic Academia/The ARX Portal",
     "6 - Projects/The Creostic Academia/Questions",
     "6 - Projects/The Creostic Academia/Funding Cycle for Open Access Education.canvas",
     "0 - Housekeeping/_Attatchments/Impact Compensation Handwritten Notes - 2025-05-03.png",
-    "0 - Housekeeping/Licensing and Copyright",
-    "0 - Housekeeping/Contractual Agreements",
-    "5 - Journals/Landon/Beliefs",
     "0 - Housekeeping/_Attatchments/The 60 Day Runway.png",
     "0 - Housekeeping/_Attatchments/icon-48.png",
     "0 - Housekeeping/_Attatchments/in-other-waters-h5w67-1664758789.jpg",
@@ -288,8 +358,6 @@
     "0 - Housekeeping/_Attatchments/The Arx Foundation（3）.png",
     "0 - Housekeeping/_Attatchments/The Arx Foundation（6）.png",
     "0 - Housekeeping/_Attatchments/The Arx Foundation（9）.png",
-    "0 - Housekeeping/_Attatchments/The Arx Foundation（12）.png",
-    "4 - Source Material/Research/Agents",
-    "0 - Housekeeping/Consolidations"
+    "0 - Housekeeping/_Attatchments/The Arx Foundation（12）.png"
   ]
 }

@@ -8,6 +8,8 @@ Note: By continuing your perusal of this vault you are bound to the terms of the
 
 ## What Is This?
 
+For the non-tech, non-academic, non-involved folks here's an ELI5 of the vision: https://youtu.be/xfiZfF2Y6K8?si=XogD75Ow--5zG5Z9
+
 **The 60 Day Runway** is a public 2-month challenge to escape student debt, secure housing, and build a sustainable, creator-owned life — all before June 30, 2025. It's a test of self-rescue, autonomy, and creative momentum.
 
 This isn’t just a hustle. It’s the **origin story of The Arx Foundation** — a long-term effort to build tools, ideas, and support structures for people stuck in survival loops. The goal is to challenge the myth of merit, reveal the hidden architecture of economic traps, and share everything I learn in the open.

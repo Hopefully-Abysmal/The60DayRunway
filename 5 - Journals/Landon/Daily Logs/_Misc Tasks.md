@@ -40,3 +40,17 @@ Author:
 - [ ] Rename image attachments for ease of perusal and reference
 - [ ] Inter-link all relevant mentions of impact to [[Impact Compensation Methodologies and Mechanisms]]
 - [ ] [[SCOOL Portal Mockups|Figma mockups of intro and all portals for all device types]]
+
+
+- [ ] Content to consume:
+	- [ ] OpenAI’s Sam Altman Talks ChatGPT, AI Agents and Superintelligence — Live at TED2025 https://www.youtube.com/watch?v=5MWT_doo68k
+- [ ] Resources to make note of // peruse
+	- [ ] https://logseq.com/
+	- [ ] Design Principles for Contribution Systems https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5190625
+	- [ ] Contribution Systems - https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5018758
+	- [ ] https://metagov.org/projects/daostar
+		- [ ] https://github.com/metagov/daostar
+
+- [ ] Obsidian Plugins to check out
+	- [ ] obsidian://show-plugin?id=onyx-boox-extractor
+	- [ ] 

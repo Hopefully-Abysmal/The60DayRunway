@@ -52,7 +52,7 @@ Author:
 
 - [x] [[MetaGov Orientation Conference Call]]
 - [ ] Content to consume:
-	- [ ] OpenAI’s Sam Altman Talks ChatGPT, AI Agents and Superintelligence — Live at TED2025 https://www.youtube.com/watch?v=5MWT_doo68k
+	- [ ] OpenAI’s Sam Altman Talks ChatGPT, AI Agents and Superintelligence — Live at TED2025 https://www.youtube.com/watch?v=5MWT_doo68k - culling
 	- [x] [[Veritasium What Everyone Gets Wrong About AI and Learning - Derek Muller Explains]] - https://www.youtube.com/watch?v=0xS68sl2D70
 	- [x] [[my teacher was a youtuber - nobody]] - https://www.youtube.com/watch?v=Zeb6XCvx7RQ
 - [ ] Beurocratic Stuff
@@ -62,10 +62,10 @@ Author:
 - [ ] Semantic Web Sprint
 	- [ ] Copy paste code into code structure + documentation and automation tools
 		- [ ] Re-parse to Draft out cursor utilizable pseudocode (doubt GPT code works as is)
-- [ ] Push to repo / update site  
-- [ ] Record and Post V-log
-	- [ ] Mom was confused and said my family was confused lmao, need to simplify - [[ELI5 The SCOOL Platform]] 
-- [ ] Resources to make note of // peruse
+- [x] Push to repo / update site  
+- [x] Record and Post V-log
+	- [x] Mom was confused and said my family was confused lmao, need to simplify - [[ELI5 The SCOOL Platform]] 
+- [ ] Resources to make note of // peruse - culling
 	- [ ] https://logseq.com/
 	- [ ] Design Principles for Contribution Systems https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5190625
 	- [ ] Contribution Systems - https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5018758
@@ -79,3 +79,6 @@ Author:
 
 ---
 
+# Notes from the day
+
+Bought and am using [[Ithya - Magic Studies]], plan to do a study on its utilization for gamification in general productivity;; feel it would be really cool if one could do something similar tailored to their hyperfixations (i.e. me as a wizard);; feasable at scale with AI image generation and automated editing (i.e. make the character model move by splicing at joints and doing basic character animation? maybe AI processing to fill in the gaps? idk lol but like, personalization is dope...)
