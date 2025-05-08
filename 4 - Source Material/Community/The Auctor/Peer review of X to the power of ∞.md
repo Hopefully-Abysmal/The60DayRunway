@@ -130,7 +130,107 @@ A term that comes to mind is technosocialism (good stuff IMO); per my interpreta
 How do you calculate CAP? Mathematics requires quantification, I agree completely with your methods and logic thus far but they need to be realizable to be utilized.
 
 
+## Chapter 7
+
+In this case I understand the lack of transparency to an extent;; my previous understanding was that of civic leaders being invisible and that struck fear in my heart.
+
+> [!PDF|] [[X to the power of infinity - Philosophy_of_Accountability_V1.0_en.pdf#page=29&selection=47,40,47,65|free of personality cults]]
+> > free of personality cults
+> 
+> YES
+
+Perhaps require full transparency in everything except identity; unless the guilt // responsibility denotes the doxxing of that identity (in cases of corruption, true crime, etc.)
+
+## Chapter 8
+
+8.1 is straight facts, I agree with the pursuit of stabilizing if not eliminating the deleterious effects of diversification of mind;; likely requiring cultural rewiring s.t. it is  an imperative to be an individual (to avoid cognitive biases, to prevent groupthink, to enable anyone to serve as the UdU if they feel called to do so like I do...)
+
+8.2
+I envision a future where politicians must be able to trace and present their motivations for their actions (I'm biased to a PKM snapshot system but that is just a single solution);; such that full transparency is realized. We have fallen for personalities so much over the course of human history, I don't think I need to give an example because of how rife the trope is.
+
+The future is going to be open long term planning. Integrating this into the Cap system is a good touch, but I'm curious on the specifics of how you would suggest doing so;; I conflate that sentiment to economic // social retribution on the parties that harm the collective, but may be misinterpreting things.
+
+8.3
+See [[DAO Voting Structures]] for potential implementability of this concept, I dont believe in classical representatives rather that the individuals must have a voice (democracy in purest sense);; one can and should have the ability to delegate their vote, but should not be required to do so in any case other than incompetence // lack of exposure // will to gain exposure to the subjects being covered. 
+
+> [!PDF|] [[X to the power of infinity - Philosophy_of_Accountability_V1.0_en.pdf#page=33&selection=23,0,25,18|They act not “on behalf of,” but “in the interest of”— based on eect, not ideology.]]
+> > They act not “on behalf of,” but “in the interest of”— based on eect, not ideology.
+> 
+> This sentiment actually helps me build out ways this delegation system can be built;; I think we align here as well.
+
+8.4 
+
+I am of the firm belief that any belief system should be open to critique, any that are not are inherently invalid practices... Similarly those that try to force themselves on people are inherently wrong;; faith has to be consensual to be true. Along the same line, yes of course any system should be impartial to belief so long as it follows the listed qualities.
+
+8.5
+
+For sure! But exactly how? I propose via training the community to trace their thoughts "rooting" their opinions, and only then moving forward. 
+
+Critique: How exactly does x^inf aim to formulate clarity? Just saying it "allows connection where it works" is a good sentiment but still quite vague on realizability and the social pressures required to ensure that this stays that way as a system.
+
+8.6
+
+All social constructs lmao, same logic for religion applies here;; its irrelevant to a system thus should be allowed where the individual wants it not where it's forced on them.
+
+> [!PDF|] [[X to the power of infinity - Philosophy_of_Accountability_V1.0_en.pdf#page=34&selection=1,0,8,29|Important: Those who speak must bear eect. Those who harm must be fed back—regardless of intention.]]
+> > Important: Those who speak must bear eect. Those who harm must be fed back—regardless of intention.
+> 
+> How exactly again though? Just expecting social pressures to do the work?
+
+8.7
 
 
+> [!PDF|] [[X to the power of infinity - Philosophy_of_Accountability_V1.0_en.pdf#page=34&selection=26,1,26,42|You may be anything. But not do anything.]]
+> > You may be anything. But not do anything.
+> 
+> I am of the belief that we should all be truly free to do or be anything, but have to bear the consequences if those beliefs or actions deleteriously effect others. Responsibility for ones beliefs and actions in your vocabulary.
+
+> [!PDF|] [[X to the power of infinity - Philosophy_of_Accountability_V1.0_en.pdf#page=34&selection=27,28,28,6|not through political correctness, but through structural ethics]]
+> > not through political correctness, but through structural ethics
+> 
+> One must know ethics to employ them;; needs to be core to education from a young age to enable social change. I.e. contemporary moral frameworks, logic, general philosophy, etc.
+
+## Chapter 9
+
+9.1
+So I assume you disagree with moral reletavism? This is a very utilitarian framework that may not suffice for all aspects, however if one can truly measure the effects why not employ it (therein lies the problem of utilitarianism though;; how do you track the effects of one's actions, both direct and indirect?)
+
+The sentiment of protecting the weakest is good, but again I ask how? Economically yes this is quite easily, but what other aspects does this apply to and how exactly.
+
+9.2
+So x-inf is a selective application of utilitarianism to purely the weakest through a kantian lens of maxims? Can be beneficial, but makes me worry that it sways significantly on ones definition of who falls under the weakest;; generalization to all other parties may be required, but yes one can still apply extra attention to those most affected by decisions within any decision.
+
+You are starting to branch into moral structures rather than just governance structures with this section; whilst a worthy endeavor I would tread lightly as this is where lack of diversity I would argue can doom any intelligent species.
+
+9.3
+
+I would agree with the sentiment of preventing those acts, "acts of destruction" as I would classify them, I am trying to flush out my own moral system "creosticism" in which creation is the polar good, whilst destruction is the polar bad (as a very crude tldr)
+
+> [!PDF|] [[X to the power of infinity - Philosophy_of_Accountability_V1.0_en.pdf#page=37&selection=11,1,14,40|Protect rst those who cannot protect themselves.]]
+> > Protect rst those who cannot protect themselves.
+> 
+> Again great sentiment, though may need to think of more applications for the maxim;; in game theory the concept of tit-for-tat becomes quite prevalent, I would recommend doing research into the topics outlined in the following edu-tainment source and how this strategy could be tested in comparison: What Game Theory Reveals About Life, The Universe, and Everything By Veritasium - https://www.youtube.com/watch?v=mScpHTIi-kM
 
 
+9.4
+
+Again see the tit-for-tat logic;; "One cannot be a pushover"
+
+Again a mention of Cap withdrawal, what exactly does that imply?
+	The way I see Cap is that of ones capabilities, you cannot reduce their capabilities... 
+	Unless you factor in economic or social power into those capabilities, then perhaps you can do the stated withdrawal through dis-crediting the violator
+
+9.5
+
+I am unsure how this applies... Like, if there is a perpetrator then they should be brought to justice. If this is a nod to forgiveness by blaming the UdU as a built in straw-man for things not attributable to any individuals or groups I can agree with that though.
+
+9.6
+
+Interesting concept, will have to do more research myself to comment.
+
+9.7
+No ideals leads to stagnation in practice, we all need goals to work towards;; but perhaps we can just have the societies set those goals. See [[Progress]] for how I may plan to do this in academic contexts.
+
+## Chapter 10
+
+To be perused shortly, have to go for now.
