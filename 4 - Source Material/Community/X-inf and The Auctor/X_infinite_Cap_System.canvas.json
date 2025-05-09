@@ -1,0 +1,121 @@
+{
+  "nodes": [
+    {
+      "id": "1b4329ce-3b87-430f-bb8f-d3e7a8e47cc5",
+      "type": "group",
+      "label": "\ud83e\uddee Variables & Inputs",
+      "x": 0,
+      "y": 0,
+      "width": 400,
+      "height": 300,
+      "content": "E: Entity\nA: Task\nD: Domain\nMPot(E, A): Self-assessed suitability for task A\nCapBase: Base capability (1)\nCapBGE: Basic guaranteed income contribution\nCapPast: Historical authority\nCapPotential: Future capacity\nCapProtection: Protection against overload\nCapReal: Current responsibility load\nCapSolo: Self-borne responsibility\nCapTeam: Delegated responsibility"
+    },
+    {
+      "id": "cap_past",
+      "type": "text",
+      "x": 500,
+      "y": 0,
+      "width": 400,
+      "height": 300,
+      "label": "\ud83d\udcd6 CapPast (Historical Authority)",
+      "content": "Equation 2\nCapPast(E, t) = CapPast(t-1) + \u0394CapEvents\n\n\u0394CapEvents:\n+ Successful Tasks\n- Penalties (Oversteering, Return, Delegation Depth)\n+ Bonuses (Promotion, Compensation)"
+    },
+    {
+      "id": "cap_potential",
+      "type": "text",
+      "x": 1000,
+      "y": 0,
+      "width": 400,
+      "height": 300,
+      "label": "\ud83d\udcc8 CapPotential (Future Capability)",
+      "content": "Equation 9\nCapPotential = \u03b3 * (MPot_last + CapBase + CapBGE) * max(0.1, FactorReliability) - CapProtection\n\nUses:\n- MPot_last (Capability Memory)\n- FactorReliability (Historical Stability)\n- CapProtection (Health, Age, etc.)"
+    },
+    {
+      "id": "mpot",
+      "type": "text",
+      "x": 1500,
+      "y": 0,
+      "width": 400,
+      "height": 300,
+      "label": "\ud83e\udde0 MPot (Capability Profile)",
+      "content": "Equation 11\nMPot_last updated via Cap_after_Feedback\n\n- MPot(E, A): Self-assessed suitability for each task.\n- Updated post-task via feedback.\n- Domain-specific capabilities evolve over time."
+    },
+    {
+      "id": "cap_real",
+      "type": "text",
+      "x": 500,
+      "y": 400,
+      "width": 400,
+      "height": 300,
+      "label": "\ud83d\udcca CapReal (Active Load)",
+      "content": "Equation 12\nCapReal = \u03a3 (Active Task Values)\n\nControls:\n- Current workload.\n- Ensures no overloading beyond CapPotential."
+    },
+    {
+      "id": "cap_feedback",
+      "type": "text",
+      "x": 1000,
+      "y": 400,
+      "width": 400,
+      "height": 300,
+      "label": "\ud83d\udd01 CapFeedback (Feedback Loop)",
+      "content": "Equation 14\n\u0394CapFeedback = \u03a3 (Feedback / CapPotential of Providers)\n\n- Positive Feedback: Increases CapPast.\n- Negative Feedback: Reduces CapPast.\n- High weighting for low-cap actors."
+    },
+    {
+      "id": "delegation",
+      "type": "text",
+      "x": 1500,
+      "y": 400,
+      "width": 400,
+      "height": 300,
+      "label": "\ud83d\udce6 Delegation & Task Limits",
+      "content": "Equation 11 (System Limits)\nDelegation only valid if:\nCapSender \u2265 minDelegation\nAND\nCapRecipient + TaskValue \u2264 CapPotential_Recipient"
+    },
+    {
+      "id": "cap_total",
+      "type": "text",
+      "x": 1000,
+      "y": 800,
+      "width": 400,
+      "height": 300,
+      "label": "\ud83d\udd10 CapTotal (Authority Ledger)",
+      "content": "CapTotal = CapSolo + CapTeam\n\nConstrained by:\nCapTotal \u2264 CapPotential"
+    }
+  ],
+  "edges": [
+    {
+      "fromNode": "cap_past",
+      "toNode": "cap_potential",
+      "label": "Historical Performance \u2192 Future Capacity"
+    },
+    {
+      "fromNode": "mpot",
+      "toNode": "cap_potential",
+      "label": "Capability Profile \u2192 Future Capacity"
+    },
+    {
+      "fromNode": "cap_potential",
+      "toNode": "cap_real",
+      "label": "Defines Responsibility Ceiling"
+    },
+    {
+      "fromNode": "cap_feedback",
+      "toNode": "cap_past",
+      "label": "Feedback Adjusts Historical Cap"
+    },
+    {
+      "fromNode": "cap_real",
+      "toNode": "cap_feedback",
+      "label": "Active Tasks Generate Feedback"
+    },
+    {
+      "fromNode": "cap_total",
+      "toNode": "delegation",
+      "label": "Delegation Bound by Total Authority"
+    },
+    {
+      "fromNode": "cap_potential",
+      "toNode": "delegation",
+      "label": "Recipient CapPotential Limits Delegation"
+    }
+  ]
+}

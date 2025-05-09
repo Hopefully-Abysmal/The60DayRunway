@@ -25,7 +25,7 @@ Love the imagery, sentiment, and drive; not much to critique here as we align qu
 
 ## Chapter 4
 
-> ([[X to the power of infinity - Philosophy_of_Accountability_V1.0_en.pdf#page=18&selection=1,0,2,31|X to the power of infinity - Philosophy_of_Accountability_V1.0_en, p.18]])
+> ([[X-inf Philosophy_of_Accountability_V1.0_en.pdf#page=18&selection=1,0,2,31|X to the power of infinity - Philosophy_of_Accountability_V1.0_en, p.18]])
 > Unconditional Basic Income Security Through Responsibility
 
 ### Critique:
@@ -60,7 +60,7 @@ You're correct: such a system *requires* robust effect-tracking — but here's t
 This is where **non-human observers** (as you mentioned) enter — machines can *track effect* without violating privacy, provided their own outputs are also subject to Rückkopplung. Machines, in X^∞, are mirrors — not actors (see chapter 11).
 ````
 
-# Chapter 5
+## Chapter 5
 
 ### Critique: 
 
@@ -111,12 +111,12 @@ If no one steps up? The system begins to **escalate through feedback** — until
 Quite intriguing;; coincidentally I was going to be flushing out this part of the system today via the question: "what is the minimum amount of productivity required to keep the world running?" Essentially mirrored by a Cap_world_min in your terms. I think denoting this could allow us to pace ourselves in this marathon of life, incessant progress for the sake of progress is great for progress itself but its wake leaves wreckages in the lives of its exploitants. 
 
 
-> [!PDF|] [[X to the power of infinity - Philosophy_of_Accountability_V1.0_en.pdf#page=25&selection=31,0,31,41|Delegation is necessary—but not limitless]]
+> [!PDF|] [[X-inf Philosophy_of_Accountability_V1.0_en.pdf#page=25&selection=31,0,31,41|Delegation is necessary—but not limitless]]
 > > Delegation is necessary—but not limitless
 
 ^^ This. 
 
-> [!PDF|] [[X to the power of infinity - Philosophy_of_Accountability_V1.0_en.pdf#page=26&selection=46,1,50,0|mpf änger]]
+> [!PDF|] [[X-inf Philosophy_of_Accountability_V1.0_en.pdf#page=26&selection=46,1,50,0|mpf änger]]
 > > Empf änger
 > 
 
@@ -134,7 +134,7 @@ How do you calculate CAP? Mathematics requires quantification, I agree completel
 
 In this case I understand the lack of transparency to an extent;; my previous understanding was that of civic leaders being invisible and that struck fear in my heart.
 
-> [!PDF|] [[X to the power of infinity - Philosophy_of_Accountability_V1.0_en.pdf#page=29&selection=47,40,47,65|free of personality cults]]
+> [!PDF|] [[X-inf Philosophy_of_Accountability_V1.0_en.pdf#page=29&selection=47,40,47,65|free of personality cults]]
 > > free of personality cults
 > 
 > YES
@@ -153,7 +153,7 @@ The future is going to be open long term planning. Integrating this into the Cap
 8.3
 See [[DAO Voting Structures]] for potential implementability of this concept, I dont believe in classical representatives rather that the individuals must have a voice (democracy in purest sense);; one can and should have the ability to delegate their vote, but should not be required to do so in any case other than incompetence // lack of exposure // will to gain exposure to the subjects being covered. 
 
-> [!PDF|] [[X to the power of infinity - Philosophy_of_Accountability_V1.0_en.pdf#page=33&selection=23,0,25,18|They act not “on behalf of,” but “in the interest of”— based on eect, not ideology.]]
+> [!PDF|] [[X-inf Philosophy_of_Accountability_V1.0_en.pdf#page=33&selection=23,0,25,18|They act not “on behalf of,” but “in the interest of”— based on eect, not ideology.]]
 > > They act not “on behalf of,” but “in the interest of”— based on eect, not ideology.
 > 
 > This sentiment actually helps me build out ways this delegation system can be built;; I think we align here as well.
@@ -172,7 +172,7 @@ Critique: How exactly does x^inf aim to formulate clarity? Just saying it "allow
 
 All social constructs lmao, same logic for religion applies here;; its irrelevant to a system thus should be allowed where the individual wants it not where it's forced on them.
 
-> [!PDF|] [[X to the power of infinity - Philosophy_of_Accountability_V1.0_en.pdf#page=34&selection=1,0,8,29|Important: Those who speak must bear eect. Those who harm must be fed back—regardless of intention.]]
+> [!PDF|] [[X-inf Philosophy_of_Accountability_V1.0_en.pdf#page=34&selection=1,0,8,29|Important: Those who speak must bear eect. Those who harm must be fed back—regardless of intention.]]
 > > Important: Those who speak must bear eect. Those who harm must be fed back—regardless of intention.
 > 
 > How exactly again though? Just expecting social pressures to do the work?
@@ -180,12 +180,12 @@ All social constructs lmao, same logic for religion applies here;; its irrelevan
 8.7
 
 
-> [!PDF|] [[X to the power of infinity - Philosophy_of_Accountability_V1.0_en.pdf#page=34&selection=26,1,26,42|You may be anything. But not do anything.]]
+> [!PDF|] [[X-inf Philosophy_of_Accountability_V1.0_en.pdf#page=34&selection=26,1,26,42|You may be anything. But not do anything.]]
 > > You may be anything. But not do anything.
 > 
 > I am of the belief that we should all be truly free to do or be anything, but have to bear the consequences if those beliefs or actions deleteriously effect others. Responsibility for ones beliefs and actions in your vocabulary.
 
-> [!PDF|] [[X to the power of infinity - Philosophy_of_Accountability_V1.0_en.pdf#page=34&selection=27,28,28,6|not through political correctness, but through structural ethics]]
+> [!PDF|] [[X-inf Philosophy_of_Accountability_V1.0_en.pdf#page=34&selection=27,28,28,6|not through political correctness, but through structural ethics]]
 > > not through political correctness, but through structural ethics
 > 
 > One must know ethics to employ them;; needs to be core to education from a young age to enable social change. I.e. contemporary moral frameworks, logic, general philosophy, etc.
@@ -206,7 +206,7 @@ You are starting to branch into moral structures rather than just governance str
 
 I would agree with the sentiment of preventing those acts, "acts of destruction" as I would classify them, I am trying to flush out my own moral system "creosticism" in which creation is the polar good, whilst destruction is the polar bad (as a very crude tldr)
 
-> [!PDF|] [[X to the power of infinity - Philosophy_of_Accountability_V1.0_en.pdf#page=37&selection=11,1,14,40|Protect rst those who cannot protect themselves.]]
+> [!PDF|] [[X-inf Philosophy_of_Accountability_V1.0_en.pdf#page=37&selection=11,1,14,40|Protect rst those who cannot protect themselves.]]
 > > Protect rst those who cannot protect themselves.
 > 
 > Again great sentiment, though may need to think of more applications for the maxim;; in game theory the concept of tit-for-tat becomes quite prevalent, I would recommend doing research into the topics outlined in the following edu-tainment source and how this strategy could be tested in comparison: What Game Theory Reveals About Life, The Universe, and Everything By Veritasium - https://www.youtube.com/watch?v=mScpHTIi-kM
@@ -234,3 +234,9 @@ No ideals leads to stagnation in practice, we all need goals to work towards;; b
 ## Chapter 10
 
 To be perused shortly, have to go for now.
+
+---
+
+# Post-[[Request for Peer Review on X to the power of ∞ – The Philosophy of Accountability|conversation]] re-parse:
+
+Taking break to make [[X-inf P&E V2.11 visualization.canvas|x-inf visualization]]
