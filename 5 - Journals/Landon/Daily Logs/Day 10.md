@@ -1,6 +1,6 @@
 ---
-Date Created: "2025-05-08 09:54"
-Last Updated: "2025-05-08 09:54"
+Date Created: "2025-05-10 18:13"
+Last Updated: "2025-05-10 18:13"
 tags:
   - Archive
 Index:
@@ -12,7 +12,7 @@ Author:
 ---
 ---
 
-# 📆 Daily Log – 2025-05-08
+# 📆 Daily Log – 2025-05-10
 
 **Shit I Need to Do Today:**
 
@@ -31,40 +31,45 @@ Author:
 	- [x] Breakfast
 - [ ] Make work to-do list 
 - [ ] Check financial status (e.g., bank, crypto, whatever)
-- [ ] Do a chore (dish/laundry/trash/etc.)
-- [ ] Handle pet care / errands / groceries  
-- [ ] Lunch
+- [x] Do a chore (dish/laundry/trash/etc.)
+- [x] Handle pet care / errands / groceries  
+- [x] Lunch
 - [ ] Go outside (optionally with friends)
-- [ ] Shower (for the love of all that is sacred)
+- [x] Shower (for the love of all that is sacred)
 - [ ] Reflect / prep for public speaking / writing
 - [ ] Dinner 
 - [ ] Evening wind-down
 
 ## 🌱 Throughout Day
 
-- [ ] Drink entire water bottle (seriously)
-- [ ] Move body, stretch, or at least shift positions
+- [x] Drink entire water bottle (seriously)
+- [x] Move body, stretch, or at least shift positions
 - [ ] !!BREATHE!!
 
 
 ## 🤑Work Schedule
- Having trouble thinking of what to do? Check and answer some [[Unanswered]] questions or work on the backlog of [[_Misc Tasks]].
+ Having trouble thinking of what to do? Check and answer some [[Unanswered]] questions.
 
 - [ ] Beurocratic Stuff
 	- [ ] [[Licensing Requirements for Creative Development Business]] - eepy, doin tmrw
 	- [ ] LLC for ARX (waiting until have a relevant email and website for it)
-		- [ ] Buy .org domain
+		- [x] Buy .org domain
+		- [x] Buy .com domain 
+		- [x] Forward domains to https://vault.hopefullyabysmal.com
 - [ ] Semantic Web Sprint
 	- [ ] Copy paste code into code structure + documentation and automation tools
 		- [ ] Re-parse to Draft out cursor utilizable pseudocode (doubt GPT code works as is)
-- [x] Push to repo / update site  
-- [x] Record and Post V-log
-	- [ ] https://youtu.be/gbMdTZKEuLw
+- [ ] [[X-inf P&E V2.11 visualization.canvas|X-inf P&E V2.11 visualization]]
+- [ ] Push to repo / update site 
+	- [ ] Migrate content to substack and repost the shorts generated on youtube (and Instagram? and reddit?)
 - [ ] Fun task: Collage Ethan's DND snapshot (due May 16th before wedding rehersal)
+- [ ] Push to repo / update site  
+- [ ] Record and Post V-log
+	- [x] Did a 10.5 for making thumbnails but :shrug:
 
 ---
 
-# Notes from the day
+## 🧠 [[_Misc Tasks]]
 
-Woke up to a slack push to peer review of something quite similar to my endeavors; X^∞ by [[The Auctor]]
-	Submitted my initial thoughts and decided to launch into [[Request for Peer Review on X to the power of ∞ – The Philosophy of Accountability|a full peer review]] to help me flush out the impact system.
+---
+

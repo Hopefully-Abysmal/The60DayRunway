@@ -10,7 +10,8 @@ Published: true
 Author:
 ---
 ---
-- [ ] Quartz webhosting on hopefullyabysmal.github.io
+- [x] Quartz webhosting on hopefullyabysmal.github.io
+	- [x] vault.hopefullyabysmal.com instead :)
 - [ ] Add 'call to artists' to [[Harnessing Entropy - A Thermodynamic Framework for World Peace and Energy Abundance|The ARX Manifesto]]
 - [ ] Build decentralized storage or backup net  
 	- [ ] Mirror video content to local devices or mini-nodes  
@@ -33,6 +34,7 @@ Author:
 - [ ] Convert [[DAO Global Compliance Checklist]] into an actual checklist
 - [ ] Make ARX Foundation channel
 	- [ ] Intro video: [[Introducing The ARX Foundation]]
+- [ ] Finish [[AI and Learning Rebuttal]]
 - [ ] Filter GPT Chats for note separation possibilities (what needs to be its own note?) - going to be an ongoing effort...
 	- [ ] Go through and fix all mermaid chart errors lmao
 	- [ ] Move answered questions into folder

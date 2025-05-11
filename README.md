@@ -59,7 +59,7 @@ Some ALT Examples to spur ideation:
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------- |
 | **[Bliss in Ignorance](https://github.com/Hopefully-Abysmal/The60DayRunway/blob/main/6%20-%20Projects/The%20Creostic%20Academia/Bliss%20In%20Ignorance/%F0%9F%90%9D%20Bliss%20in%20Ignorance%20(BII)%20%E2%80%93%20Tasklist.md)** | Customizable content filtering for intentional mental space |
 | **[Interphrase](https://github.com/Hopefully-Abysmal/The60DayRunway/blob/main/6%20-%20Projects/The%20Creostic%20Academia/Interphrase/%F0%9F%8C%90%20Interphrase%20%E2%80%94%20Tasklist.md)**                                      | Language immersion tool via browser-based phrase swapping   |
-| **Babel Ideas Archive**                                                                                                                                                                                                           | A searchable, open-source graveyard of unclaimed ideas      |
+| **[Babel Ideas Archive](https://vault.hopefullyabysmal.com/4---Source-Material/Ideas/)**                                                                                                                                          | A searchable, open-source graveyard of unclaimed ideas      |
 | **[The Stranded Web](https://github.com/Hopefully-Abysmal/The60DayRunway/blob/main/6%20-%20Projects/The%20Stranded%20Web/Gamification%20of%20the%20Node%20System.md)**                                                            | Gamification of the Node System                             |
 | **[The Precursor](https://github.com/Hopefully-Abysmal/The60DayRunway/blob/main/6%20-%20Projects/The%20Precursor/Project%20Planning%20Automation.md)**                                                                            | Pre-agentic development project preparation automation.     |
 
@@ -67,13 +67,13 @@ Some ALT Examples to spur ideation:
 
 - 🧠 **Obsidian** + Zettelkasten (knowledge work)
 - 🛠️ **Python**, **Markdown**, JSON Canvases, and Mermaid
-- 💡 Livestreams, blogs, devlogs, and mini-lessons
+- 💡 Livestreams, [blogs](https://substack.com/@elryantheexplorer), [devlogs](https://www.youtube.com/@HopefullyAbysmal), and mini-lessons
 - 🎥 Community-supported via [HopefullyAbysmal](patreon.com/HopefullyAbysmal)
 
 ## Immediate Needs
 
-- **Funding support** for editors, moderators, and infrastructure
-- **All video revenue** is being shared among collaborators based on time/impact
+- **[[The Funding Ask|Funding support]]** for editors, moderators, and infrastructure
+	- **All video revenue** is to be shared among collaborators based on time/impact
 - Looking for grants, community backers, or people who want to co-build something different
 - Attention. Share this with your friends, family, colleagues, anyone who will listen; we are a democratic society and the only way change occurs is with volume of opinion.
 
@@ -81,16 +81,17 @@ Some ALT Examples to spur ideation:
 
 > "What if the systems we need already exist — they just haven't been connected yet for some reason?"
 
-**The Augment Realities Experience (Arx) Foundation** is the name I’m giving to this larger dream — a network of open tools, ideas, stories, and support systems to help people survive long enough to create. It starts with me, but it won’t end with me.
+**[[Introducing The ARX Foundation|The Augment Realities Experience (Arx) Foundation]]** is the name I’m giving to this larger dream — a network of open tools, ideas, stories, and support systems to help people survive long enough to create. It starts with me, but it won’t end with me.
 
 ---
 
 ## Follow / Support
 
+- ☕ Support on Ko.Fi: https://ko-fi.com/hopefullyabysmal
 - 💲 Support on Patreon: patreon.com/HopefullyAbysmal
-- 🛍️ Shop at [Hopefully Abysmal](Hopefully%20Abysmal.md)
+- 🛍️ Shop for some cool merch at [Hopefully Abysmal](Hopefully%20Abysmal.md)
 - 💌 Contact: [60dayrunway@hopefullyabysmal.com]
-- 🧭 Follow progress via [Our Zettelkasten](https://hopefullyabysmal.github.io)
+- 🧭 Follow progress via [Our Zettelkasten](https://vault.hopefullyabysmal.com)
 - 📽️ Immerse yourself in the story on [Youtube](https://www.youtube.com/@HopefullyAbysmal/)
 - ✨ Submit your ideas on our [Are.na](https://www.are.na/nxlounojeoi/misc-community-ideas)
 - 💻 Join the community on our [Discord Server](https://discord.gg/WM8uWWwUH7 )
