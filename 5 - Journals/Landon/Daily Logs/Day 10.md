@@ -29,16 +29,16 @@ Author:
 		- [x] veggie superfood blend
 	- [ ] Drink something caffeinated 
 	- [x] Breakfast
-- [ ] Make work to-do list 
-- [ ] Check financial status (e.g., bank, crypto, whatever)
+- [x] Make work to-do list 
+- [x] Check financial status (e.g., bank, crypto, whatever)
 - [x] Do a chore (dish/laundry/trash/etc.)
 - [x] Handle pet care / errands / groceries  
 - [x] Lunch
-- [ ] Go outside (optionally with friends)
+- [x] Go outside (optionally with friends)
 - [x] Shower (for the love of all that is sacred)
-- [ ] Reflect / prep for public speaking / writing
-- [ ] Dinner 
-- [ ] Evening wind-down
+- [x] Reflect / prep for public speaking / writing
+- [x] Dinner 
+- [ ] Evening wind-down - crashed lmao
 
 ## 🌱 Throughout Day
 
@@ -51,7 +51,7 @@ Author:
  Having trouble thinking of what to do? Check and answer some [[Unanswered]] questions.
 
 - [ ] Beurocratic Stuff
-	- [ ] [[Licensing Requirements for Creative Development Business]] - eepy, doin tmrw
+	- [ ] [[Licensing Requirements for Creative Development Business]] 
 	- [ ] LLC for ARX (waiting until have a relevant email and website for it)
 		- [x] Buy .org domain
 		- [x] Buy .com domain 
@@ -59,13 +59,13 @@ Author:
 - [ ] Semantic Web Sprint
 	- [ ] Copy paste code into code structure + documentation and automation tools
 		- [ ] Re-parse to Draft out cursor utilizable pseudocode (doubt GPT code works as is)
-- [ ] [[X-inf P&E V2.11 visualization.canvas|X-inf P&E V2.11 visualization]]
-- [ ] Push to repo / update site 
+- [ ] [[X-inf P&E V2.11 visualization.canvas|X-inf P&E V2.11 visualization]] - Culling to misc tasks
+- [x] Push to repo / update site 
 	- [ ] Migrate content to substack and repost the shorts generated on youtube (and Instagram? and reddit?)
 - [ ] Fun task: Collage Ethan's DND snapshot (due May 16th before wedding rehersal)
-- [ ] Push to repo / update site  
-- [ ] Record and Post V-log
+- [x] Record and Post V-log
 	- [x] Did a 10.5 for making thumbnails but :shrug:
+	- [x] Day 10 on more official website launch and i forget what else
 
 ---
 

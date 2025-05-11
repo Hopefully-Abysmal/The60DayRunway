@@ -24,8 +24,8 @@ This is a living archive of experiments, frameworks, and survival strategies by 
 ---
 ## 🎞️ Live Documentation
 
-Daily logs can be found at '[./5 - Journals/Landon/Daily Logs](./5 - Journals/Landon/Daily Logs)' 
-Video logs ([SCOOL Documentation - Recommended Watch Order](https://www.youtube.com/playlist?list=PL7X-f5UyTywOv1IEZiQdS9BZ4NMqlbPm1)) are recorded daily and posted to YouTube [@hopefullyabysmal](https://www.youtube.com/@HopefullyAbysmal), Substack [@elryantheexplorer](https://substack.com/@elryantheexplorer) (along with some irrelevant but still cool content),  Ko-Fi [@hopefullyabysmal](https://ko-fi.com/hopefullyabysmal) (just reposting youtube for now...), and Patreon [@hopefulyabysmal](https://www.patreon.com/HopefullyAbysmal) (extra content goodies for supporters!!).
+Daily logs can be found at '[./5 - Journals/Landon/Daily Logs](./5%20-%20Journals/Landon/Daily%20Logs)' 
+Video logs ([SCOOL Documentation - Recommended Watch Order](https://www.youtube.com/playlist?list=PL7X-f5UyTywOv1IEZiQdS9BZ4NMqlbPm1)) are recorded daily and posted to YouTube [@hopefullyabysmal](https://www.youtube.com/@HopefullyAbysmal), Substack [@hopefullyabysmal](https://substack.com/@hopefullyabysmal) (along with some irrelevant but still cool content),  Ko-Fi [@hopefullyabysmal](https://ko-fi.com/hopefullyabysmal) (just reposting youtube for now...), and Patreon [@hopefulyabysmal](https://www.patreon.com/HopefullyAbysmal) (extra content goodies for supporters!!).
 
 ---
 ## 🧭 Explore Freely
@@ -35,15 +35,15 @@ Use the navigation sidebar or jump directly into any of the available content th
 ---
 ## 🔗 Relevant Links
 
-☕ Support on Ko.Fi: https://ko-fi.com/hopefullyabysmal
-💲 Support on Patreon: patreon.com/HopefullyAbysmal
-🛍️ Shop for some cool merch at [shop.hopefullyabysmal.com](https://shop.hopefullyabysmal.com
-💌 Contact: [60dayrunway@hopefullyabysmal.com](mailto:60dayrunway@hopefullyabysmal.com)
-🧭 Follow progress via [Our Zettelkasten](https://vault.hopefullyabysmal.com)
-📽️ Immerse yourself in the story on [Youtube](https://www.youtube.com/@HopefullyAbysmal/) and [Substack](https://substack.com/@elryantheexplorer)
-✨ Submit your ideas on our [Are.na](https://www.are.na/nxlounojeoi/misc-community-ideas)
-💻 Join the community on our [Discord Server](https://discord.gg/WM8uWWwUH7 )
-🌐 Matrix and IRC support to come soon!
-🛠️ Open-source vault for mirroring and collaborations: [The 60 Day Runway](https://github.com/Hopefully-Abysmal/The60DayRunway)
+- ☕ Support on Ko.Fi: https://ko-fi.com/hopefullyabysmal
+- 💲 Support on Patreon: patreon.com/HopefullyAbysmal
+- 🛍️ Shop for some cool merch at [shop.hopefullyabysmal.com](https://shop.hopefullyabysmal.com
+- 💌 Contact: [60dayrunway@hopefullyabysmal.com](mailto:60dayrunway@hopefullyabysmal.com)
+- 🧭 Follow progress via [Our Zettelkasten](https://vault.hopefullyabysmal.com)
+- 📽️ Immerse yourself in the story on [Youtube](https://www.youtube.com/@HopefullyAbysmal/) and [Substack](https://substack.com/@hopefullyabysmal)
+- ✨ Submit your ideas on our [Are.na](https://www.are.na/nxlounojeoi/misc-community-ideas)
+- 💻 Join the community on our [Discord Server](https://discord.gg/WM8uWWwUH7 )
+- 🌐 Matrix and IRC support to come soon!
+- 🛠️ Open-source vault for mirroring and collaborations: [The 60 Day Runway](https://github.com/Hopefully-Abysmal/The60DayRunway)
 
 > Built not to impress, but to survive. Then to share.

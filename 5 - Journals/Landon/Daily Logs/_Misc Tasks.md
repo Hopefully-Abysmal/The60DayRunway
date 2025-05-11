@@ -42,7 +42,7 @@ Author:
 - [ ] Rename image attachments for ease of perusal and reference
 - [ ] Inter-link all relevant mentions of impact to [[Impact Compensation Methodologies and Mechanisms]]
 - [ ] [[SCOOL Portal Mockups|Figma mockups of intro and all portals for all device types]]
-
+- [ ] [[X-inf P&E V2.11 visualization.canvas|X-inf P&E V2.11 visualization]]
 
 - [ ] Content to consume:
 	- [ ] OpenAI’s Sam Altman Talks ChatGPT, AI Agents and Superintelligence — Live at TED2025 https://www.youtube.com/watch?v=5MWT_doo68k
@@ -55,4 +55,3 @@ Author:
 
 - [ ] Obsidian Plugins to check out
 	- [ ] obsidian://show-plugin?id=onyx-boox-extractor
-	- [ ] 
