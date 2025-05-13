@@ -43,6 +43,11 @@ Author:
 - [ ] Inter-link all relevant mentions of impact to [[Impact Compensation Methodologies and Mechanisms]]
 - [ ] [[SCOOL Portal Mockups|Figma mockups of intro and all portals for all device types]]
 - [ ] [[X-inf P&E V2.11 visualization.canvas|X-inf P&E V2.11 visualization]]
+	- [ ] [[Request for Peer Review on X to the power of ∞ – The Philosophy of Accountability]]
+	- [ ] [[X-inf mindmap notes]]
+	- [ ] [[X-inf Postmoral and Emotionless_V2.11_en.pdf]]
+	- [ ] [[X-inf Philosophy_of_Accountability_V1.0_en.pdf]]
+- [ ] 
 
 - [ ] Content to consume:
 	- [ ] OpenAI’s Sam Altman Talks ChatGPT, AI Agents and Superintelligence — Live at TED2025 https://www.youtube.com/watch?v=5MWT_doo68k

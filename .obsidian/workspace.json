@@ -13,26 +13,43 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5 - Journals/Landon/Daily Logs/Day 11.md",
+                "file": "6 - Projects/The Creostic Academia/The ARX Portal/SCOOL Portal Mockups.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Day 11"
+              "title": "SCOOL Portal Mockups"
             }
           },
           {
-            "id": "f1d907157d42d9e6",
+            "id": "6511a9e2a89e24b5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5 - Journals/Landon/Daily Logs/_Misc Tasks.md",
+                "file": "6 - Projects/The Creostic Academia/The ARX Portal/Portal Logo Ideations.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "_Misc Tasks"
+              "title": "Portal Logo Ideations"
+            }
+          },
+          {
+            "id": "94278c118e340aa6",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "6 - Projects/The Creostic Academia/The ARX Portal/The SCOOL Student Experience.canvas",
+                "viewState": {
+                  "x": 483.42110969396987,
+                  "y": 488.5834017417959,
+                  "zoom": -0.7487320713446857
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "The SCOOL Student Experience"
             }
           },
           {
@@ -47,114 +64,6 @@
               },
               "icon": "lucide-file",
               "title": "index"
-            }
-          },
-          {
-            "id": "72a5da40cb83bc91",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4 - Source Material/Community/X-inf and The Auctor/Request for Peer Review on X to the power of ∞ – The Philosophy of Accountability.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Request for Peer Review on X to the power of ∞ – The Philosophy of Accountability"
-            }
-          },
-          {
-            "id": "04a4bfab33809e79",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "4 - Source Material/Community/X-inf and The Auctor/X-inf Philosophy_of_Accountability_V1.0_en.pdf",
-                "page": 38,
-                "left": -152,
-                "top": 411,
-                "zoom": 1.4
-              },
-              "icon": "lucide-file-text",
-              "title": "X-inf Philosophy_of_Accountability_V1.0_en"
-            }
-          },
-          {
-            "id": "d73f315db88a9261",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "4 - Source Material/Community/X-inf and The Auctor/X-inf Postmoral and Emotionless_V2.11_en.pdf",
-                "page": 1,
-                "left": -130,
-                "top": 171,
-                "zoom": 1
-              },
-              "icon": "lucide-file-text",
-              "title": "X-inf Postmoral and Emotionless_V2.11_en"
-            }
-          },
-          {
-            "id": "f26f63f43ec620cd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5 - Journals/Landon/Daily Logs/Day (9).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Day (9)"
-            }
-          },
-          {
-            "id": "9d0e93b15ee952f3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4 - Source Material/Community/X-inf and The Auctor/X-inf mindmap notes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "X-inf mindmap notes"
-            }
-          },
-          {
-            "id": "3b985e4958054bbd",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "4 - Source Material/Community/X-inf and The Auctor/X-inf P&E V2.11 visualization.canvas",
-                "viewState": {
-                  "x": 240.38120799626358,
-                  "y": 258.07701332059645,
-                  "zoom": -0.5071504971866916
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "X-inf P&E V2.11 visualization"
-            }
-          },
-          {
-            "id": "bf3a28fbdddd45fb",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "4 - Source Material/Community/X-inf and The Auctor/X-inf P&E V2.11 visualization.canvas",
-                "viewState": {
-                  "x": 1011.5943758117965,
-                  "y": 369.5269908392104,
-                  "zoom": -0.5071504971866916
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "X-inf P&E V2.11 visualization"
             }
           }
         ]
@@ -336,16 +245,30 @@
   },
   "active": "84d42a9db049045d",
   "lastOpenFiles": [
-    "5 - Journals/Landon/Daily Logs/_Misc Tasks.md",
+    "0 - Housekeeping/_Attatchments/ARX Portal Modern Font Colored No Loader SCOOL Owl.png",
+    "0 - Housekeeping/_Attatchments/Pasted image 20250512140658.png",
+    "0 - Housekeeping/_Attatchments/Pasted image 20250512133853.png",
+    "0 - Housekeeping/_Attatchments/Pasted image 20250512133711.png",
+    "6 - Projects/The Creostic Academia/The ARX Portal/The SCOOL Student Experience.canvas",
+    "6 - Projects/The Creostic Academia/The ARX Portal/Portal Logo Ideations.md",
+    "6 - Projects/The Creostic Academia/The ARX Portal/SCOOL Portal Mockups.md",
+    "0 - Housekeeping/_Attatchments/Pasted image 20250512133116.png",
+    "0 - Housekeeping/_Attatchments/ChatGPT Image May 12, 2025, 11_31_19 AM.png",
+    "0 - Housekeeping/_Attatchments/ChatGPT Image May 12, 2025, 11_26_18 AM.png",
+    "0 - Housekeeping/_Attatchments/ChatGPT Image May 12, 2025, 11_25_04 AM.png",
+    "0 - Housekeeping/_Attatchments/ChatGPT Image May 12, 2025, 11_22_28 AM.png",
+    "0 - Housekeeping/_Attatchments/ChatGPT Image May 12, 2025, 11_19_46 AM.png",
+    "0 - Housekeeping/_Attatchments/ChatGPT Image May 12, 2025, 10_19_31 AM.png",
     "5 - Journals/Landon/Daily Logs/Day 11.md",
+    "index.md",
+    "5 - Journals/Landon/Daily Logs/_Misc Tasks.md",
+    "4 - Source Material/Research/Energy/Harnessing Entropy - A Thermodynamic Framework for World Peace and Energy Abundance.md",
     "5 - Journals/Landon/Daily Logs/Day 10.md",
     "5 - Journals/Landon/Daily Logs/Day 9.md",
     "5 - Journals/Landon/Daily Logs/Day 8.md",
     "5 - Journals/Landon/Daily Logs/Day 7.md",
     "5 - Journals/Landon/Daily Logs/Day 6.md",
-    "index.md",
     "README.md",
-    "0 - Housekeeping/_Attatchments/The 60 Day Runway.png",
     "license.md",
     "4 - Source Material/Community/X-inf and The Auctor/Peer review of X to the power of ∞.md",
     "6 - Projects/The Creostic Academia/AI and Learning Rebuttal.md",
@@ -353,7 +276,6 @@
     "4 - Source Material/Community/X-inf and The Auctor/X-inf mindmap notes.md",
     "4 - Source Material/Community/X-inf and The Auctor/Request for Peer Review on X to the power of ∞ – The Philosophy of Accountability.md",
     "4 - Source Material/Community/X-inf and The Auctor/X-inf Philosophy_of_Accountability_V1.0_en.pdf",
-    "4 - Source Material/Community/X-inf and The Auctor/ChatGPT Image May 8, 2025, 11_21_30 PM.png",
     "4 - Source Material/Community/X-inf and The Auctor/X^∞ – The Philosophy of Responsibility - Volume 2 - Why We Must Act.pdf",
     "4 - Source Material/Community/X-inf and The Auctor/X-inf Postmoral and Emotionless_V2.11_en.pdf",
     "4 - Source Material/Community/X-inf and The Auctor/X_infinite_Cap_System.canvas.json",
@@ -368,23 +290,10 @@
     "4 - Source Material/Community/The Auctor/X^∞ -- Philosophy_of_Accountability_V1.0_en.pdf",
     "2 - Paths/Governance.md",
     "3 - Indexes/People.md",
-    "2 - Paths/Adam Miri.md",
-    "4 - Source Material/_LLM Logs/Agentic Coding.md",
     "4 - Source Material/Community/X-inf and The Auctor",
-    "4 - Source Material/Games/Ithya - Magic Studies.md",
     "4 - Source Material/Community",
     "4 - Source Material/Games",
-    "4 - Source Material/Videos/Veritasium What Everyone Gets Wrong About AI and Learning - Derek Muller Explains.md",
     "6 - Projects/The Creostic Academia/Funding Cycle for Open Access Education With Accelerative Learning Tools.canvas",
-    "6 - Projects/The Creostic Academia/The ARX Portal/The SCOOL Student Experience.canvas",
-    "6 - Projects/The Creostic Academia/Funding Cycle for Open Access Education.canvas",
-    "0 - Housekeeping/_Attatchments/Impact Compensation Handwritten Notes - 2025-05-03.png",
-    "0 - Housekeeping/_Attatchments/icon-48.png",
-    "0 - Housekeeping/_Attatchments/in-other-waters-h5w67-1664758789.jpg",
-    "0 - Housekeeping/_Attatchments/Screenshot_1.webp",
-    "0 - Housekeeping/_Attatchments/The Arx Foundation（1）.png",
-    "0 - Housekeeping/_Attatchments/The Arx Foundation（3）.png",
-    "0 - Housekeeping/_Attatchments/The Arx Foundation（6）.png",
-    "0 - Housekeeping/_Attatchments/The Arx Foundation（9）.png"
+    "6 - Projects/The Creostic Academia/Funding Cycle for Open Access Education.canvas"
   ]
 }
