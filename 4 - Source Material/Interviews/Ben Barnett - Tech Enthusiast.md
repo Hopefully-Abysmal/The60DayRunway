@@ -12,11 +12,11 @@ Published: true
 ---
 # 2025-05-13
 ## Summary:
-Meeting to discuss Ben's role in the grand scheme of things (this endeavor lmao), he plans on helping out where he can, currently in networking for us; prompted us to draft up a [[The ARX Foundation Forwardable|forwardable]] to send out.
+Meeting to discuss Ben's role in the grand scheme of things (this endeavor lmao), he plans on helping out where he can, currently in networking for us; prompted us to draft up a [[SCOOL and ARX Portal Forwardable|forwardable]] to send out.
 # GPT Refinement: 
 ## Notes
 
-### [[The ARX Foundation Forwardable|Forwardable]]
+### [[SCOOL and ARX Portal Forwardable|Forwardable]]
 Name // Cofounder
 The ARX Foundation and SCOOL Framework
 "Knowledge should be open to all"

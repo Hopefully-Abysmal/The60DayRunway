@@ -25,62 +25,31 @@
             }
           },
           {
-            "id": "6511a9e2a89e24b5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Projects/The Creostic Academia/The ARX Portal/Portal Logo Ideations.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Portal Logo Ideations"
-            }
-          },
-          {
-            "id": "94278c118e340aa6",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "6 - Projects/The Creostic Academia/The ARX Portal/The SCOOL Student Experience.canvas",
-                "viewState": {
-                  "x": 381.16041987080916,
-                  "y": 245.71416085347528,
-                  "zoom": -0.7487320713446857
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "The SCOOL Student Experience"
-            }
-          },
-          {
-            "id": "f0101ce5a4f054eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "index"
-            }
-          },
-          {
             "id": "57f40725fb9467bc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 - Source Material/Interviews/Ben Barnett - Tech Enthusiast.md",
+                "file": "6 - Projects/Outreach/Building a Better Future Through Business and AI Application.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ben Barnett - Tech Enthusiast"
+              "title": "Building a Better Future Through Business and AI Application"
+            }
+          },
+          {
+            "id": "2e298b36622d6624",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Projects/Outreach/The Funding Ask.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Funding Ask"
             }
           },
           {
@@ -89,16 +58,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The ARX Foundation Forwardable.md",
+                "file": "6 - Projects/The Creostic Academia/Market Analysis for SCOOL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The ARX Foundation Forwardable"
+              "title": "Market Analysis for SCOOL"
+            }
+          },
+          {
+            "id": "04040b1b8094607e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Projects/The Creostic Academia/SCOOL and ARX Portal Forwardable.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SCOOL and ARX Portal Forwardable"
+            }
+          },
+          {
+            "id": "2d3e8a68b84b5043",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Projects/The Creostic Academia/A Modern Privacy Policy for Open Education.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "A Modern Privacy Policy for Open Education"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -275,11 +272,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "edfc7f95393d01eb",
+  "active": "04040b1b8094607e",
   "lastOpenFiles": [
-    "4 - Source Material/Interviews/Ben Barnett - Tech Enthusiast.md",
-    "The ARX Foundation Forwardable.md",
+    "6 - Projects/The Creostic Academia/Market Analysis for SCOOL.md",
+    "6 - Projects/The Creostic Academia/SCOOL and ARX Portal Forwardable.md",
+    "6 - Projects/The Creostic Academia/A Modern Privacy Policy for Open Education.md",
     "6 - Projects/The Creostic Academia/Funding Cycle for Open Access Education With Accelerative Learning Tools.canvas",
+    "6 - Projects/Outreach/The Funding Ask.md",
+    "6 - Projects/The Creostic Academia/ELI5 The SCOOL Platform.md",
+    "6 - Projects/Outreach/Building a Better Future Through Business and AI Application.md",
+    "4 - Source Material/Interviews/Ben Barnett - Tech Enthusiast.md",
+    "6 - Projects/The Creostic Academia/The ARX Portal/Portal Logo Ideations.md",
     "6 - Projects/The Creostic Academia/The ARX Portal/The SCOOL Student Experience.canvas",
     "6 - Projects/The Creostic Academia/Funding Cycle for Open Access Education.canvas",
     "6 - Projects/The Creostic Academia/Funding Cycle for Open Access Education With ALTs - Mermaid.md",
@@ -288,7 +291,6 @@
     "0 - Housekeeping/_Attatchments/Pasted image 20250512140658.png",
     "0 - Housekeeping/_Attatchments/Pasted image 20250512133853.png",
     "0 - Housekeeping/_Attatchments/Pasted image 20250512133711.png",
-    "6 - Projects/The Creostic Academia/The ARX Portal/Portal Logo Ideations.md",
     "0 - Housekeeping/_Attatchments/Pasted image 20250512133116.png",
     "0 - Housekeeping/_Attatchments/ChatGPT Image May 12, 2025, 11_31_19 AM.png",
     "0 - Housekeeping/_Attatchments/ChatGPT Image May 12, 2025, 11_26_18 AM.png",
@@ -315,14 +317,8 @@
     "4 - Source Material/Community/X-inf and The Auctor/X^∞ – The Philosophy of Responsibility - Volume 2 - Why We Must Act.pdf",
     "4 - Source Material/Community/X-inf and The Auctor/X-inf Postmoral and Emotionless_V2.11_en.pdf",
     "4 - Source Material/Community/X-inf and The Auctor/X_infinite_Cap_System.canvas.json",
-    "6 - Projects/The ARX Foundation/DAO Voting Structures.md",
-    "4 - Source Material/Research/Economics/Socialism vs Communism.md",
     "4 - Source Material/Community/The Auctor/Untitled.pdf",
     "4 - Source Material/Community/The Auctor/X^∞ -- Postmoral and Emotionless_V2.11_en.pdf",
-    "4 - Source Material/Community/The Auctor/Annotations of X to the power of Infinity.md",
-    "4 - Source Material/Videos/my teacher was a youtuber - nobody.md",
-    "2 - Paths/The Auctor.md",
-    "4 - Source Material/Community/The Auctor/Annotations.md",
     "4 - Source Material/Community/The Auctor/X^∞ -- Philosophy_of_Accountability_V1.0_en.pdf",
     "4 - Source Material/Community/X-inf and The Auctor",
     "4 - Source Material/Community",
