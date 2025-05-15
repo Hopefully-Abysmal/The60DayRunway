@@ -61,8 +61,8 @@ Author:
 - [x] Migrate content to substack and repost the shorts generated on youtube (and Instagram? and reddit?) - ongoing effort, takes forever to upload each because it processes it then and there
 - [x] Edited and posted "2025-04-20 // The Jankiest TV Mount of All Time" to patreon (forgot I recorded it)
 - [ ] [[SCOOL Portal Mockups|Figma mockups of intro and all portals for all device types]] - pulled from misc tasks
-	- [ ] convert logos from day 5 thumbnail to minimalistic portal icons
-		- [ ] Home page with stated icons (do ring)
+	- [x] convert logos from day 5 thumbnail to minimalistic portal icons
+		- [x] Home page with stated icons (do ring)
 	- [ ] make basic representations of each
 		- [ ] chatgpt to elaborate, lovable to create, figma to edit
 - [ ] Fun task: Collage Ethan's DND snapshot (due May 16th before wedding rehersal)
