@@ -1,6 +1,6 @@
 ---
-Date Created: "2025-05-14 23:19"
-Last Updated: "2025-05-14 23:19"
+Date Created: "2025-05-21 11:05"
+Last Updated: "2025-05-21 11:05"
 tags:
   - Archive
 Index:
@@ -12,23 +12,23 @@ Author:
 ---
 ---
 
-# 📆 Daily Log – 2025-05-15
+# 📆 Daily Log – 2025-05-21
 
 **Shit I Need to Do Today:**
 
 ## 🕒 Life Schedule
 
-- [ ] Morning routine  
-	- [ ] Brush teeth  
-	- [ ] Take meds  
+- [x] Morning routine  
+	- [x] Brush teeth  
+	- [x] Take meds  
 		- [x] straterra
 		- [x] l-methyl folate
 		- [x] glucosamine with chondroitin
 		- [x] omega 3-6-9 complex
 		- [x] mushroom blend
 		- [x] veggie superfood blend
-	- [ ] Drink something caffeinated 
-	- [ ] Breakfast
+	- [x] Drink something caffeinated 
+	- [x] Breakfast
 - [ ] Make work to-do list 
 - [ ] Check financial status (e.g., bank, crypto, whatever)
 - [ ] Do a chore (dish/laundry/trash/etc.)
@@ -50,16 +50,10 @@ Author:
 ## 🤑Work Schedule
  Having trouble thinking of what to do? Check and answer some [[Unanswered]] questions.
 
-- [ ] Metagov Community Call? - pushed to a few weeks from now I think
-- [ ] Fabricate daily logs for days 12 and 13 because u forgot to write em (but did do videos)
-- [ ] [[Licensing Requirements for Creative Development Business]] 
-- [ ] [[SCOOL Portal Mockups|Figma mockups of intro and all portals for all device types]] - need to stop pushing off
-	- [ ] make basic representations of each
-		- [ ] chatgpt to elaborate, lovable to create, figma to edit
-- [x] Fun task: Collage Ethan's DND snapshot (due TMRW)
-- [ ] Push to repo / update site  
-- [ ] Record and Post V-log
-- [x] Andor binge?
+
+- [x] Finish Linux Setup (never going to be finished, but like get operational)
+- [ ] Push to repo / update site  - need to get github, vscode, and quartz installed to do this
+- [x] Record and Post V-log
 
 ---
 
@@ -67,3 +61,7 @@ Author:
 
 ---
 
+Things have been a rush, got back from long weekend and hit the ground running, forgot to make my daily logs though...
+
+Applied to a ton of grants and residencies, check the notion workspace (if published) for this...
+- Need to make a list of funding opportunities and host it on my services for getting the word out to fellow artists//visionaries//developers//survivors

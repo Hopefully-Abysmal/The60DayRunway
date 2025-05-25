@@ -13,7 +13,7 @@ Author:
 ---
 
 
-Archivist movements like the wayback machine and internet archive are very inspiring to me; I've had this idea for a while now but didn't think it to be really feasible (sitting on my own hands). I quite enjoy the concept of a human library, where you can rent someones time (buy them lunch / a coffee) and just have a chat with them!! Not necessarily feasible due to the constraints of there only being one of that person, though could still be a cool thing for living people.
+Archivist movements like the wayback machine and internet archive are very inspiring to me; I've had this idea for a while now but didn't think it to be really feasible (sitting on my own hands). I quite enjoy the concept of a [[The Human Library|human library]], where you can rent someones time (buy them lunch / a coffee) and just have a chat with them!! Not necessarily feasible due to the constraints of there only being one of that person, though could still be a cool thing for living people.
 
 >TLDR: Check out a human like one would a book
 	Buy lunch and have a conversation!!

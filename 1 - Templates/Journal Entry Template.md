@@ -55,8 +55,8 @@ Author:
 - [ ] Record and Post V-log
 
 ---
-
 ## 🧠 [[_Misc Tasks]]
+## 🧩[[_Completed Tasks]]
 
 ---
 
