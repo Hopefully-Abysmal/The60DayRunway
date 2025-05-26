@@ -10,6 +10,7 @@ Published: true
 Author:
 ---
 ---
+- [ ] Migrate tasks to notion...
 
 - [ ] Add 'call to artists' to [[Harnessing Entropy - A Thermodynamic Framework for World Peace and Energy Abundance|The ARX Manifesto]]
 - [ ] Sort Anything in Moderation - https://www.are.na/nxlounojeoi/anything-in-moderation
@@ -35,6 +36,7 @@ Author:
 - [ ] Make ARX Foundation channel
 	- [ ] Intro video: [[Introducing The ARX Foundation]]
 - [ ] Finish [[AI and Learning Rebuttal]]
+- [ ] Make a bluesky acc for HA - https://bsky.app/
 - [ ] Filter GPT Chats for note separation possibilities (what needs to be its own note?) - going to be an ongoing effort...
 	- [ ] Go through and fix all mermaid chart errors lmao
 	- [ ] Move answered questions into folder
