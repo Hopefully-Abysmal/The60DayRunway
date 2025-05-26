@@ -53,13 +53,13 @@ Author:
 
 - [x] [[Bio-regional Gamification Concept]] + Zoom Meeting
 	- [ ] Take notes on meeting transcript
-	- [ ] Send out 1:1 requests to those that can do co-development // funding
-	- [ ] Apply to https://quorum.one/
-	- [ ] Set up acc on 
-- [ ] Make a bluesky acc for HA - https://bsky.app/
+	- [x] Send out 1:1 requests to those that can do co-development // funding
+	- [x] Apply to https://quorum.one/
+- [ ] Make a bluesky acc for HA - https://bsky.app/ (pushed to misc tasks)
 - [x] Set up Anything in Moderation - https://www.are.na/nxlounojeoi/anything-in-moderation
 	- [x] [[Matthew B Davis]], [[Optimally Buzzed App Idea]], [[Anything In Moderation]]
-- [ ] Push to repo / update site - get github, vscode, and quartz installed to do this
+- [x] Push to repo - get github, 
+- [ ] update site - vscode, and quartz installed to do this
 - [ ] Record and Post V-log
 
 ---
