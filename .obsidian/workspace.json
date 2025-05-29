@@ -8,105 +8,147 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ba38a3c1bb4e7b3e",
+            "id": "e2fbb5b1df6d0e4b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5 - Journals/Landon/Daily Logs/Day 22.md",
+                "file": "6 - Projects/The Society of Seekers/The SOS - Pitch.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Day 22"
+              "title": "The SOS - Pitch"
             }
           },
           {
-            "id": "e3e08a23e91d6965",
+            "id": "a007fbb23f164ee8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5 - Journals/Landon/Daily Logs/_Misc Tasks.md",
+                "file": "6 - Projects/The Society of Seekers/Progress Through Eras.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "_Misc Tasks"
+              "title": "Progress Through Eras"
             }
           },
           {
-            "id": "44296d18d2a35aea",
+            "id": "d1ade2d85431b5c3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5 - Journals/Landon/Daily Logs/Day 25.md",
+                "file": "6 - Projects/The Society of Seekers/Uninhabited Land Pathways.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Day 25"
+              "title": "Uninhabited Land Pathways"
             }
           },
           {
-            "id": "34dd8fa25c31278f",
+            "id": "53fa8db14fa21ec3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 - Source Material/People/DefenderOfBasic.md",
+                "file": "4 - Source Material/_LLM Logs/Gamification of The SOS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DefenderOfBasic"
+              "title": "Gamification of The SOS"
             }
           },
           {
-            "id": "626dc3c0a96797cf",
+            "id": "7f3f6d19cc88e05d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Projects/The Impact Tracer/Impact Compensation Methodologies and Mechanisms.md",
+                "file": "6 - Projects/The Society of Seekers/SOS Metrics and Incentives.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Impact Compensation Methodologies and Mechanisms"
+              "title": "SOS Metrics and Incentives"
             }
           },
           {
-            "id": "789f005a2cd4abfd",
+            "id": "f773f8118ca0ef28",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Projects/Symbiosis/The Human Library.md",
+                "file": "4 - Source Material/_LLM Logs/Bio-regional Gamification Concept.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Human Library"
+              "title": "Bio-regional Gamification Concept"
             }
           },
           {
-            "id": "1aa31637c70ac3e8",
+            "id": "2216ccc616ee83a7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Forming The Human Library.md",
+                "file": "6 - Projects/The Society of Seekers/Ben's SOS Pitch Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Forming The Human Library"
+              "title": "Ben's SOS Pitch Notes"
+            }
+          },
+          {
+            "id": "37d64a9da76e4cd4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Projects/The Society of Seekers/2025-05-27 ~ Q1 Setup and Workload Ideation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-05-27 ~ Q1 Setup and Workload Ideation"
+            }
+          },
+          {
+            "id": "5e4f0d6ac0ad1dac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Projects/The Society of Seekers/2025-05-27 - Reflecting on CF Gamification Ideation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-05-27 - Reflecting on CF Gamification Ideation"
+            }
+          },
+          {
+            "id": "3d3a0b8425c466ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Projects/The Society of Seekers/Refining the SOS pitch and learning about Daniel.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Refining the SOS pitch and learning about Daniel"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -138,7 +180,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "geoca",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -163,7 +205,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 434.5
+    "width": 285.5110321044922
   },
   "right": {
     "id": "1e547c4c8c7187e0",
@@ -280,60 +322,62 @@
       "command-palette:Open command palette": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "random-note:Open random note": false,
+      "zk-prefixer:Create new unique note": false,
+      "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "34dd8fa25c31278f",
+  "active": "61abc57c5a9ddab5",
   "lastOpenFiles": [
-    "4 - Source Material/Research/IMPACT/Impact Evaluators - Evan Miyazono.md",
+    "6 - Projects/The Society of Seekers/2025-05-27 - Reflecting on CF Gamification Ideation.md",
+    "6 - Projects/The Society of Seekers/Refining the SOS pitch and learning about Daniel.md",
+    "6 - Projects/The Society of Seekers/The SOS - Pitch.md",
+    "0 - Housekeeping/_Attatchments/Pasted image 20250528184328.png",
+    "0 - Housekeeping/_Attatchments/Pasted image 20250528184803.png",
+    "0 - Housekeeping/_Attatchments/Pasted image 20250528184707.png",
+    "0 - Housekeeping/_Attatchments/Pasted image 20250528184426.png",
+    "0 - Housekeeping/_Attatchments/Pasted image 20250528184251.png",
+    "0 - Housekeeping/_Attatchments/Pasted image 20250528183957.png",
+    "6 - Projects/The Society of Seekers/Ben's SOS Pitch Notes.md",
+    "6 - Projects/The Society of Seekers/2025-05-28 - Elryan x Daniel Introductions.md",
+    "6 - Projects/The Society of Seekers/2025-05-27 ~ Q1 Setup and Workload Ideation.md",
+    "4 - Source Material/People/Christine Francis.md",
+    "4 - Source Material/_LLM Logs/Bio-regional Gamification Concept.md",
+    "6 - Projects/The Society of Seekers/SOS Metrics and Incentives.md",
+    "4 - Source Material/_LLM Logs/Gamification of The SOS.md",
+    "6 - Projects/The Society of Seekers/Progress Through Eras.md",
+    "6 - Projects/The Society of Seekers/Exploration Gamification.md",
+    "6 - Projects/The Society of Seekers/Uninhabited Land Pathways.md",
+    "4 - Source Material/People/Daniel Lindenberger.md",
+    "4 - Source Material/People/Eddie Lin.md",
+    "6 - Projects/The Society of Seekers/2025-05-28 - Introduction to Eddie Lin.md",
+    "6 - Projects/_Requests for Support/Building a Better Future Through Business and AI Application.md",
+    "6 - Projects/The Creostic Academia/Funding Cycle for Open Access Education With Accelerative Learning Tools.canvas",
+    "2 - Paths/Bio-regional Gamification.md",
+    "1 - Templates/People Template.md",
+    "1 - Templates/Source Template.md",
+    "0 - Housekeeping/_Attatchments/Funding Cycle for Open Access Education With Accelerative Learning Tools.png",
+    "0 - Housekeeping/_Attatchments/Pasted image 20250527114036.png",
+    "0 - Housekeeping/_Attatchments/Pasted image 20250527113617.png",
+    "0 - Housekeeping/_Attatchments/Pasted image 20250527113415.png",
     "4 - Source Material/People/DefenderOfBasic.md",
+    "4 - Source Material/Research/IMPACT/Impact Evaluators - Evan Miyazono.md",
+    "6 - Projects/The Creostic Academia/SCOOL as a CO-OP.md",
+    "6 - Projects/Symbiosis/The Human Library.md",
+    "6 - Projects/The Impact Tracer/Impact Compensation Methodologies and Mechanisms.md",
+    "6 - Projects/The Society of Seekers",
     "4 - Source Material/Research/IMPACT/Research Retreat - Impact Evaluators.pdf",
     "4 - Source Material/Research/IMPACT/Impact Evaluators - Evan Miyazono.pdf",
-    "4 - Source Material/Research/IMPACT/Funding the Commons - Networked OKRs & Milestone Bounties.md",
     "4 - Source Material/Research/IMPACT/Funding the Commons - Networked OKRs & Milestone Bounties.pdf",
-    "4 - Source Material/Research/IMPACT/Funding the Commons - Impact Certificates and Impact certificates and Impact Markets.md",
     "4 - Source Material/Research/IMPACT/Untitled",
     "4 - Source Material/Research/IMPACT/Funding the Commons - Impact Certificates and Impact certificates and Impact Markets.pdf",
     "4 - Source Material/Research/IMPACT/Certificates of Impact _ Rational Altruist.pdf",
     "4 - Source Material/Research/IMPACT/Impact Evaluator Design - Juan Benet.pdf",
     "4 - Source Material/Research/IMPACT/Hypercerts ~ on-chain primitives for impact markets with David Dalrymple.pdf",
-    "4 - Source Material/Research/IMPACT/Hypercerts ~ on-chain primitives for impact markets with David Dalrymple.md",
     "4 - Source Material/Research/IMPACT/Hypercerts_ a New Primitive for Impact Funding Systems _ Hypercerts.pdf",
-    "4 - Source Material/Research/IMPACT/Hypercerts_ A new primitive for public goods funding _ Protocol Labs.pdf",
-    "5 - Journals/Landon/Daily Logs/Day 26.md",
-    "5 - Journals/Landon/Daily Logs/Day 25.md",
-    "5 - Journals/Landon/Daily Logs/Day 22.md",
-    "5 - Journals/Landon/Daily Logs/_Misc Tasks.md",
-    "5 - Journals/Landon/Daily Logs/Day 21.md",
-    "1 - Templates/Journal Entry Template.md",
-    "5 - Journals/Landon/Daily Logs/_Completed Tasks.md",
-    "6 - Projects/External Influence/Optimally Buzzed App Idea.md",
-    "4 - Source Material/People/Matthew B Davis.md",
-    "6 - Projects/External Influence/Anything In Moderation.md",
-    "6 - Projects/The Archive Eternal/Forming The Human Library.md",
-    "6 - Projects/The Creostic Academia/Funding Cycle for Open Access Education With Accelerative Learning Tools.canvas",
-    "4 - Source Material/_LLM Logs/Bio-regional Gamification Concept.md",
-    "6 - Projects/Symbiosis/The Human Library.md",
-    "6 - Projects/The Archive Eternal/The Human Codex.md",
-    "6 - Projects/Symbiosis/Intro to Symbiosis.md",
-    "6 - Projects/The Archive Eternal/DataBANK - Data Immortalization Service.md",
-    "6 - Projects/The Creostic Academia/SCOOL vs. Waldorf vs. Montessori education frameworks.md",
-    "6 - Projects/The Impact Tracer/Impact Compensation Methodologies and Mechanisms.md",
-    "6 - Projects/_Branding/Hopefully Abysmal Youtube Descriptions.md",
-    "6 - Projects/The Creostic Academia/A Modern Privacy Policy for Open Education.md",
     "6 - Projects/The Creostic Academia/The ARX Portal/The SCOOL Student Experience.canvas",
-    "5 - Journals/Landon/Daily Logs/Day 15.md",
-    "0 - Housekeeping/_Attatchments/Funding Cycle for Open Access Education With Accelerative Learning Tools.png",
     "6 - Projects/The Creostic Academia/Funding Cycle for Open Access Education.canvas",
-    "0 - Housekeeping/_Attatchments/ARX Portal Modern Font Colored No Loader SCOOL Owl.png",
-    "0 - Housekeeping/_Attatchments/Pasted image 20250512140658.png",
-    "0 - Housekeeping/_Attatchments/Pasted image 20250512133853.png",
-    "0 - Housekeeping/_Attatchments/Pasted image 20250512133711.png",
-    "0 - Housekeeping/_Attatchments/Pasted image 20250512133116.png",
-    "0 - Housekeeping/_Attatchments/ChatGPT Image May 12, 2025, 11_31_19 AM.png",
-    "0 - Housekeeping/_Attatchments/ChatGPT Image May 12, 2025, 11_26_18 AM.png",
-    "0 - Housekeeping/_Attatchments/ChatGPT Image May 12, 2025, 11_25_04 AM.png",
-    "0 - Housekeeping/_Attatchments/ChatGPT Image May 12, 2025, 11_22_28 AM.png",
     "4 - Source Material/Community/X-inf and The Auctor/X-inf P&E V2.11 visualization.canvas"
   ]
 }
