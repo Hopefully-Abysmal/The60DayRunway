@@ -13,6 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "6 - Projects/The Society of Seekers/BioTowns.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "BioTowns"
+            }
+          },
+          {
+            "id": "4435f81b201da54f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "6 - Projects/The Society of Seekers/The SOS - Pitch.md",
                 "mode": "source",
                 "source": false
@@ -147,8 +161,7 @@
               "title": "Refining the SOS pitch and learning about Daniel"
             }
           }
-        ],
-        "currentTab": 9
+        ]
       }
     ],
     "direction": "vertical"
@@ -320,19 +333,21 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "pdf-plus:PDF++: Toggle auto-copy": false,
-      "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false,
       "random-note:Open random note": false,
       "zk-prefixer:Create new unique note": false,
-      "workspaces:Manage workspace layouts": false
+      "workspaces:Manage workspace layouts": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "61abc57c5a9ddab5",
+  "active": "e2fbb5b1df6d0e4b",
   "lastOpenFiles": [
-    "6 - Projects/The Society of Seekers/2025-05-27 - Reflecting on CF Gamification Ideation.md",
-    "6 - Projects/The Society of Seekers/Refining the SOS pitch and learning about Daniel.md",
     "6 - Projects/The Society of Seekers/The SOS - Pitch.md",
+    "6 - Projects/The Society of Seekers/BioTowns.md",
+    "6 - Projects/The Stranded Web/Gamification of the Node System.md",
+    "6 - Projects/The Society of Seekers/Refining the SOS pitch and learning about Daniel.md",
+    "6 - Projects/The Society of Seekers/2025-05-27 - Reflecting on CF Gamification Ideation.md",
     "0 - Housekeeping/_Attatchments/Pasted image 20250528184328.png",
     "0 - Housekeeping/_Attatchments/Pasted image 20250528184803.png",
     "0 - Housekeeping/_Attatchments/Pasted image 20250528184707.png",
@@ -365,7 +380,6 @@
     "4 - Source Material/Research/IMPACT/Impact Evaluators - Evan Miyazono.md",
     "6 - Projects/The Creostic Academia/SCOOL as a CO-OP.md",
     "6 - Projects/Symbiosis/The Human Library.md",
-    "6 - Projects/The Impact Tracer/Impact Compensation Methodologies and Mechanisms.md",
     "6 - Projects/The Society of Seekers",
     "4 - Source Material/Research/IMPACT/Research Retreat - Impact Evaluators.pdf",
     "4 - Source Material/Research/IMPACT/Impact Evaluators - Evan Miyazono.pdf",
