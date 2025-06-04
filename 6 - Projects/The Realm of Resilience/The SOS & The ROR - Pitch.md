@@ -1,4 +1,4 @@
-## *The Society of Seekers*
+## *The Society of Seekers // The Realm of Resilience*
 **Exploring Communities, Building Futures**
 ~
 An Augmented eXperience in ***this*** Reality

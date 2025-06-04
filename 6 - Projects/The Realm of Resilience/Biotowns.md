@@ -1,10 +1,9 @@
-
 ## **BioTowns**
 **Community Engagement Through Action**
 
 ---
 
-**BioTowns** is a lightweight, badge-based platform for coordinating community engagement and disaster response. Designed to incentivize real-world action through visible progress and peer accountability, building on the existing (and to be developed) **WNC Disaster Relief** framework.
+A lightweight, badge-based platform for coordinating community engagement and disaster response. Designed to incentivize real-world action through visible progress and peer accountability, building on the existing (and to be developed) **WNC Disaster Relief** framework.
 
 ---
 
@@ -122,11 +121,11 @@ Designed for use during disasters: mobile-first, low-bandwidth, offline caching.
 
 ---
 
-# Any questions?
+### Any questions?
 
 ---
 
 ## Onto the future, what next?
 
-[[The SOS - Pitch]]
+[[The SOS & The ROR - Pitch]]
 

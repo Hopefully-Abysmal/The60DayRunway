@@ -1,4 +1,4 @@
-Based on **"[[The SOS - Pitch|The Society of Seekers]]"** outline, you're building an incredibly immersive and impactful platform that encourages **[[Exploration Gamification|real-world exploration]]**, **community development**, and **story-driven engagement**. 
+Based on **"[[The SOS & The ROR - Pitch|The Society of Seekers]]"** outline, you're building an incredibly immersive and impactful platform that encourages **[[Exploration Gamification|real-world exploration]]**, **community development**, and **story-driven engagement**. 
 
 
 Expanded list of **historical eras** for the community's progression, with corresponding **metrics** to unlock each era:
