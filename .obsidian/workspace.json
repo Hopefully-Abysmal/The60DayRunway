@@ -6,35 +6,8 @@
       {
         "id": "bb22a8c526793c93",
         "type": "tabs",
+        "dimension": 22.68041237113402,
         "children": [
-          {
-            "id": "35f737b95a110437",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5 - Journals/Landon/Daily Logs/Day 34.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Day 34"
-            }
-          },
-          {
-            "id": "98114b94e157c8df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Projects/The Realm of Resilience/Airtable Functionality to be Replaced.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Airtable Functionality to be Replaced"
-            }
-          },
           {
             "id": "59f66257f0cd3932",
             "type": "leaf",
@@ -47,34 +20,6 @@
               },
               "icon": "lucide-file",
               "title": "_JAVA - Index"
-            }
-          },
-          {
-            "id": "f5a7b17ae64f26ff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Projects/The Backend Dev/JAVA/JAVA - Classes and Objects.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "JAVA - Classes and Objects"
-            }
-          },
-          {
-            "id": "96b4dd1e4d5ec2a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Projects/The Backend Dev/JAVA/Intellij.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Intellij"
             }
           },
           {
@@ -92,21 +37,81 @@
             }
           },
           {
-            "id": "50f2bd3631aff684",
+            "id": "651f961108cab790",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TAK Meeting.md",
+                "file": "6 - Projects/The Backend Dev/Vocabulary/General/General Development - Vocabulary List.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "General Development - Vocabulary List"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "45d3d5234d373405",
+        "type": "tabs",
+        "dimension": 77.31958762886599,
+        "children": [
+          {
+            "id": "d21a02870d831e96",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Projects/The Backend Dev/Vocabulary/General/DEV - variable.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TAK Meeting"
+              "title": "DEV - variable"
+            }
+          },
+          {
+            "id": "fb3d311ad9219425",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Projects/The Realm of Resilience/Biotowns.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Biotowns"
+            }
+          },
+          {
+            "id": "27ab9a3f7c76bc53",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Projects/_Requests for Support/AI for Human Reasoning Fellowship.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AI for Human Reasoning Fellowship"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -286,37 +291,42 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "50f2bd3631aff684",
+  "active": "27ab9a3f7c76bc53",
   "lastOpenFiles": [
-    "6 - Projects/The Realm of Resilience/Airtable Functionality to be Replaced.md",
-    "5 - Journals/Landon/Daily Logs/Day 34.md",
-    "6 - Projects/The Backend Dev/R4",
-    "5 - Journals/Landon/Daily Logs/Day 33.md",
+    "Untitled.md",
+    "6 - Projects/_Requests for Support/AI for Human Reasoning Fellowship.md",
+    "6 - Projects/The Realm of Resilience/Biotowns.md",
+    "6 - Projects/The Backend Dev/Vocabulary/General/DEV - variable.md",
+    "6 - Projects/The Backend Dev/Vocabulary/General/DEV - comment.md",
+    "6 - Projects/The Backend Dev/Vocabulary/General/DEV - Docstrings.md",
+    "6 - Projects/The Backend Dev/Vocabulary/General/General Development - Vocabulary List.md",
+    "6 - Projects/The Backend Dev/Vocabulary/General/DEV - expression.md",
+    "6 - Projects/The Backend Dev/Vocabulary/General/DEV - statement.md",
+    "6 - Projects/The Backend Dev/Vocabulary/General/DEV - syntax.md",
+    "6 - Projects/The Backend Dev/Vocabulary/OOP/OOP - class.md",
+    "6 - Projects/The Backend Dev/Vocabulary/OOP/Object Oriented Programming - Vocabulary List.md",
+    "6 - Projects/The Backend Dev/Vocabulary/JAVA/JAVA - Vocabulary Index.md",
+    "6 - Projects/The Backend Dev/Vocabulary/OOP/OOP - Object-Oriented Programming.md",
+    "6 - Projects/The Backend Dev/Vocabulary/General/DEV - Object-Oriented Programming.md",
     "6 - Projects/The Backend Dev/JAVA/_JAVA - Index.md",
-    "6 - Projects/The Backend Dev/JAVA/JAVA - Classes and Objects.md",
-    "6 - Projects/The Backend Dev/JAVA/_Glossed Over.md",
-    "6 - Projects/The Backend Dev/JAVA/Intellij.md",
-    "6 - Projects/The Backend Dev/JAVA/JAVA - Control Flow.md",
-    "6 - Projects/The Backend Dev/JAVA/JAVA - Conditionals.md",
-    "JAVA - Loops.md",
-    "TAK Meeting.md",
-    "4 - Source Material/_LLM Logs/TAK Introduction.md",
-    "6 - Projects/The Realm of Resilience/2025-06-03 ~ Design Projects.md",
-    "6 - Projects/The Realm of Resilience/R4Dash - R4Go The Story.md",
-    "6 - Projects/_Branding/Hopefully Abysmal Youtube Descriptions.md",
-    "6 - Projects/The Realm of Resilience/R4Dash - R4Go Tech Request.md",
-    "6 - Projects/The Realm of Resilience/2025-06-02 ~ AidArena Meeting.md",
-    "6 - Projects/The Backend Dev/JAVA/JAVA - Methods (Functions).md",
-    "index.md",
-    "6 - Projects/The Backend Dev/JAVA/JAVA - Basic Syntax.md",
-    "6 - Projects/The Backend Dev/JAVA/JAVA - Commenting and Module Descriptors.md",
-    "6 - Projects/The Backend Dev/JAVA/JAVA - Primitive Variable Types.md",
-    "6 - Projects/The Backend Dev/JAVA/JAVA - Non-primitive Variables.md",
-    "6 - Projects/The Backend Dev/JAVA/JAVA - Relevant Filetypes.md",
-    "6 - Projects/The Backend Dev/JAVA/_JAVA baptism by fire.md",
+    "6 - Projects/The Backend Dev/Vocabulary/General/DEV - state.md",
+    "6 - Projects/The Backend Dev/Vocabulary/JAVA/JAVA - class.md",
+    "6 - Projects/The Backend Dev/Vocabulary/OOP/OOP - overloading.md",
+    "2 - Paths/Coding Vocabulary.md",
+    "6 - Projects/The Backend Dev/Vocabulary/OOP/OOP - abstraction.md",
+    "6 - Projects/The Backend Dev/Vocabulary/OOP/OOP - polymorphism.md",
+    "6 - Projects/The Backend Dev/Vocabulary/OOP/OOP - inheritance.md",
+    "6 - Projects/The Backend Dev/Vocabulary/OOP/OOP - encapsulation.md",
+    "6 - Projects/The Backend Dev/Vocabulary/OOP/OOP - instance.md",
+    "6 - Projects/The Backend Dev/Vocabulary/OOP/OOP - field.md",
+    "6 - Projects/The Backend Dev/Vocabulary/OOP",
+    "6 - Projects/The Backend Dev/Vocabulary/General",
+    "6 - Projects/The Backend Dev/Vocabulary/JAVA",
+    "6 - Projects/The Backend Dev/Vocabulary",
+    "6 - Projects/The Creostic Academia/The ARX Portal/The SCOOL Student Experience.canvas",
+    "6 - Projects/The Backend Dev/R4",
     "6 - Projects/The Backend Dev/JAVA",
     "6 - Projects/The Backend Dev",
-    "5 - Journals/Landon/Daily Logs/Day 32.md",
     "6 - Projects/The Realm of Resilience",
     "6 - Projects/The Society of Seekers",
     "0 - Housekeeping/_Attatchments/Pasted image 20250528184328.png",
@@ -331,11 +341,6 @@
     "0 - Housekeeping/_Attatchments/Pasted image 20250527113617.png",
     "0 - Housekeeping/_Attatchments/Pasted image 20250527113415.png",
     "4 - Source Material/Research/IMPACT/Research Retreat - Impact Evaluators.pdf",
-    "4 - Source Material/Research/IMPACT/Impact Evaluators - Evan Miyazono.pdf",
-    "4 - Source Material/Research/IMPACT/Funding the Commons - Networked OKRs & Milestone Bounties.pdf",
-    "4 - Source Material/Research/IMPACT/Untitled",
-    "4 - Source Material/Research/IMPACT/Funding the Commons - Impact Certificates and Impact certificates and Impact Markets.pdf",
-    "6 - Projects/The Creostic Academia/The ARX Portal/The SCOOL Student Experience.canvas",
     "6 - Projects/The Creostic Academia/Funding Cycle for Open Access Education.canvas",
     "4 - Source Material/Community/X-inf and The Auctor/X-inf P&E V2.11 visualization.canvas"
   ]

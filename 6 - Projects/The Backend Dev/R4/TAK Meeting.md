@@ -175,6 +175,10 @@ nogginOCA?
 - 
 
 ---
+
+# GPT Refinement: [[Daniel Fountaine & TAK Intro]]
+
+---
 # transcript
 0:00
 

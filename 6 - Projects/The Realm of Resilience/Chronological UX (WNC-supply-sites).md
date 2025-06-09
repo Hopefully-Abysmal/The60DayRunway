@@ -62,17 +62,68 @@ Published: true
 	- Dispatch of site connected to the route (starting location not destination) has to approve this delivery and set a date to have the driver pick up the items
 		- In Airtable:
 			- Kanban view "create/track delivery"
-				- shows categories: uncategorized, driver volunteered, creating dispatch, 
+				- shows categories: uncategorized, driver volunteered, creating dispatch, assigning driver, confirming, confirmed, delivery in progress, delivery complete
 				- under driver volunteered:
 					- dispatcher approves the delivery, sets date, and adds notes as needed. This sends confirmation?
+				- can create a delivery manually as well
+					- Set date
+					- set pick up site
+					- set drop off site
+					- set (autopopulate?) item count
+					- set driver
+					- set dispatcher
+					- "driver volunteer from date"?
+					- "driver volunteer to date"?
+					- closing submits and exits form (not best UX)
+						- now shows in airtable formatting autopopulated info
+						- can change info still (prior to confirmation only?)
+						- opportunity to leave comments
+							- and dispatcher notes
+							- and attachments
+						- at this point can click "add eligible items" to do just that
+							- Im assuming that pings the server to send over whatever items were from the needs matched table entry of the from and to locations.
+							- "only works if both pickup & dropoff sites have WSS IDs"
+							- no error message if doesn't work
+						- click send confirmation and that I'm assuming submits form
+							- boots back to website for delivery confirmation
+						- post confirmation moves to confirming status; each party (driver, pickup, dropoff) get manifest link (idk if on airtable or server logic for that generation but assuming server)
+							- all available in airtable, possible risk of confirmation without someone's consent? shouldn't be too big of an issue so long as the airtable is only used by admins; but it seems that the dispatchers use it too which is meh
 			- Grid view of the drivers
 				- shows name, current location (ideally), vehicle type, phone number, and availability
 			- Needs matching (grid view)
 				- shows Site name, county/state/city, quantity of items needed, autodirect button to route browser with their location, autodirect button for needs matcher for that site, 
 		- Back on WNC-supply-sites (or socal but yeah)
-		- 
+			- The aforementioned autodirects push back to the site (logic likely on our end as such)
+			- Needs matching page (site specific)
+				- Inventory
+					- same as global view of inventory (needs list and available list)
+				- Needs matching
+					- auto-populates closest site with an item from their needs
+						- shows name, distance, and item
+			- delivery confirmation
+				- shows information of delivery
+					- status
+					- date
+					- confirm button
+						- "click to confirm"
+						- subtext: "confirm will send SMS confirmation requests"
+						- once clicked converts to table with confirmations of driver, pickup site, and dropoff site (empty until they confirm via SMS)
+					- table of info: pickup, drop off, driver, dispatcher, items
+					- map embed of route
+				- each party now has a link to a manifest (likely texted to them via SMS) to click to confirm or click to cancel
+			- driver's confirm link converts to delivery page once all three confirm and it is day of delivery
+				- "start delivery" button where confirmation was
+					- changes from confirmed delivery and pending driver to delivery in progress and driver en route respectively
+					- sends SMS to pickup that driver is on their way and to get item ready
+				- "arrived at pickup"
+				- "leaving pickup"
+					- SMS to dropoff with ETA
+				- "arrived at dropoff"
+					- delivery marked as completed
+				- All of above proc with no confirmations; could accidentally skip steps
 ## Curiosities
-- 
+- [[Chronological WNC-Backend operations]]
+- [[Airtable Functionality to be Replaced]]
 ## Ideas
 - 
 ## Questions
@@ -80,7 +131,106 @@ Published: true
 
 # GPT Refinement: 
 
-# Transcript Analysis
+## Key Modules
+
+### 🔍 **Needs Matching View**
+
+**Used For:**
+
+- Displaying sites with current **needs**
+    
+- Showing:
+    
+    - Site name
+        
+    - County/state/city
+        
+    - Quantity of items needed
+        
+    - Direct link to:
+        
+        - Route browser (for drivers)
+            
+        - Site-specific needs matching page
+            
+
+**Replacement Needs:**
+
+- Queryable inventory matrix (Site A has X, Site B needs X)
+    
+- Table UI with sort and filter
+    
+- Distance calculation (server-side or via mapping API)
+    
+- Link buttons to generate/preview dispatch options
+    
+
+
+### 📦 **Delivery Manifest View (Confirmation Stage)**
+
+**Used For:**
+
+- Confirming deliveries by each party
+    
+- Shows:
+    
+    - Pickup & dropoff details
+        
+    - Driver info
+        
+    - Item list
+        
+    - Map embed
+        
+    - Buttons to Confirm / Cancel
+        
+
+**Replacement Needs:**
+
+- Delivery preview page (public)
+    
+- Confirmation link tied to token
+    
+- Authless access + one-click confirmation
+    
+- Mark confirmed in backend DB
+    
+- Optional expiration on links or status updates
+    
+
+---
+
+### 📈 **Status-Based Button Flow (Driver’s Delivery Journey)**
+
+**Used For:**
+
+- Step-by-step interaction flow:
+    
+    - Start delivery → Arrived at pickup → Leaving pickup → Arrived at dropoff
+        
+- Each step triggers:
+    
+    - DB status change
+        
+    - SMS to involved parties
+        
+
+**Replacement Needs:**
+
+- Frontend button logic with:
+    
+    - State gating (can’t skip ahead)
+        
+    - Trigger endpoints for:
+        
+        - Status update
+            
+        - SMS with dynamic info (ETA, contact warning)
+            
+- Status-to-SMS queue integration
+    
+
+## Transcript Analysis
 Here are **key timestamps** from the walkthrough of the current site (R4 D2) that highlight **functionality worth maintaining or evolving** for **R4Dash** (disaster logistics) and **R4Go** (civic gamification):
 
 ---

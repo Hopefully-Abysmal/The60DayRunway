@@ -51,11 +51,11 @@ Author:
  Having trouble thinking of what to do? Check and answer some [[Unanswered]] questions.
 
 - [x] Meeting with Daniel Lindenberger - Graphic design work
-- [ ] Set up meeting with Daniel Fountaine (clusterfuck)
-- [ ] Continue JAVA Binge
+- [x] Set up meeting with Daniel Fountaine (clusterfuck)
+- [x] Continue JAVA Binge
 - [x] Get up to speed on airtable functionality
 	- [x] https://youtu.be/VkmZCC55giA?si=laCwz1lVUV46UY_J
-	- [ ] [[Airtable Functionality to be Replaced]]
+	- [ ] [[Chronological UX (WNC-supply-sites)]]
 - [ ] Push to repo / update site  
 - [ ] Record and Post V-log
 
