@@ -135,3 +135,15 @@ Parallel Learning:
 
 Stuff I added in as I went: 
 [[DEV - Docstrings]]
+[[DEV - configuration flags]]
+[[DEV - numeric values]]
+[[DEV - string processing]]
+[[DEV - mutable]]
+[[DEV - object]]
+[[DEV - class]]
+[[DEV - struct]]
+[[DEV - nested data]]
+[[DEV - reusable logic]]
+[[DEV - complex behavior]]
+[[DEV - complex type]]
+[[DEV - reference type]]

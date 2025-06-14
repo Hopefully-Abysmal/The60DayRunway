@@ -82,8 +82,3 @@ CREATE SCHEMA analytics;
 #️⃣ [[DB - primary key]]
 
 ---
-
-```
-
-Ready to move on to `DB - primary key`?
-```

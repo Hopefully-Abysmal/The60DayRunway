@@ -4,100 +4,109 @@
     "type": "split",
     "children": [
       {
-        "id": "bb22a8c526793c93",
+        "id": "614f7a354b1d9b1f",
         "type": "tabs",
-        "dimension": 28.865979381443296,
         "children": [
           {
-            "id": "59f66257f0cd3932",
+            "id": "37ca82eeb4d63d38",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Projects/The Backend Dev/JAVA/_JAVA - Index.md",
+                "file": "6 - Projects/Vocation-Search/Neurotechnology/Neurotech Iceberg.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "_JAVA - Index"
+              "title": "Neurotech Iceberg"
             }
           },
           {
-            "id": "5393c0aa96975271",
+            "id": "ce92bff1a8330fc6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Projects/The Backend Dev/JAVA/_Glossed Over.md",
+                "file": "Mapping My Interests in Neurotech.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "_Glossed Over"
+              "title": "Mapping My Interests in Neurotech"
             }
           },
           {
-            "id": "13d6c97edd142cbe",
+            "id": "ee6778b9fa15b4b5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Projects/The Backend Dev/Vocabulary/DB/Database Management - Vocabulary List.md",
+                "file": "6 - Projects/Vocation-Search/Neurotechnology/Neurosecurity & Neuroethics.md",
                 "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Database Management - Vocabulary List"
+              "title": "Neurosecurity & Neuroethics"
+            }
+          },
+          {
+            "id": "b75153613bafe7f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Projects/Vocation-Search/Neurotechnology/Breaking into the field without a PhD.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Breaking into the field without a PhD"
+            }
+          },
+          {
+            "id": "ede43c92cac7ac72",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Projects/Vocation-Search/Neurotechnology/Neurotech Publication Roadmap.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Neurotech Publication Roadmap"
+            }
+          },
+          {
+            "id": "d8b30330d511f943",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Projects/Vocation-Search/Neurotechnology/The State of Neurotech (2025).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The State of Neurotech (2025)"
+            }
+          },
+          {
+            "id": "71313987d8d3e119",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hopefully Abysmal - Web Suite.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Hopefully Abysmal - Web Suite"
             }
           }
         ],
-        "currentTab": 2
-      },
-      {
-        "id": "30a8485cecd91a1a",
-        "type": "tabs",
-        "dimension": 71.1340206185567,
-        "children": [
-          {
-            "id": "fb2f1e707514a6b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Projects/The Backend Dev/Vocabulary/DB Vocab Note Template.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "DB Vocab Note Template"
-            }
-          },
-          {
-            "id": "b20757c1ab7e3191",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Projects/The Backend Dev/Vocabulary/DB/DB - schema.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "DB - schema"
-            }
-          }
-        ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -248,10 +257,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "index.md"
+                "file": "Hopefully Abysmal - Web Suite.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for index"
+              "title": "File properties for Hopefully Abysmal - Web Suite"
             }
           }
         ],
@@ -278,34 +287,39 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "13d6c97edd142cbe",
+  "active": "71313987d8d3e119",
   "lastOpenFiles": [
-    "6 - Projects/The Backend Dev/Vocabulary/DB/DB - schema.md",
-    "6 - Projects/The Backend Dev/Vocabulary/DB/Database Management - Vocabulary List.md",
-    "6 - Projects/The Backend Dev/Vocabulary/DB/DB - table.md",
-    "6 - Projects/The Backend Dev/Vocabulary/DB/DB - column.md",
-    "6 - Projects/The Backend Dev/Vocabulary/DB/DB - row.md",
-    "6 - Projects/The Backend Dev/Vocabulary/DB Vocab Note Template.md",
-    "6 - Projects/The Backend Dev/Vocabulary/DB/DB - database.md",
-    "6 - Projects/The Backend Dev/Vocabulary/General Vocab Note Template.md",
-    "6 - Projects/The Backend Dev/Vocabulary/General/General Development - Vocabulary List.md",
-    "6 - Projects/The Backend Dev/Vocabulary/General/DEV - syntax.md",
-    "6 - Projects/The Backend Dev/Vocabulary/General/DEV - expression.md",
-    "6 - Projects/The Backend Dev/Vocabulary/General/DEV - statement.md",
-    "6 - Projects/The Backend Dev/Vocabulary/General/DEV - API.md",
-    "6 - Projects/The Backend Dev/Vocabulary/DB/DB - view.md",
-    "6 - Projects/The Backend Dev/Vocabulary/DB/DB - transaction.md",
-    "6 - Projects/The Backend Dev/Vocabulary/DB/DB - seed data.md",
-    "6 - Projects/The Backend Dev/Vocabulary/DB/DB - relationship.md",
-    "6 - Projects/The Backend Dev/Vocabulary/DB/DB - query.md",
-    "6 - Projects/The Backend Dev/Vocabulary/DB/DB - primary key.md",
-    "6 - Projects/The Backend Dev/Vocabulary/DB/DB - migration.md",
-    "6 - Projects/The Backend Dev/Vocabulary/DB/DB - join.md",
-    "6 - Projects/The Backend Dev/Vocabulary/DB/DB - index.md",
-    "6 - Projects/The Backend Dev/Vocabulary/DB/DB - foreign key.md",
-    "6 - Projects/The Backend Dev/Vocabulary/DB/DB - filter.md",
-    "6 - Projects/The Backend Dev/Vocabulary/DB/DB - data type.md",
-    "6 - Projects/The Backend Dev/Vocabulary/DB/DB - constraint.md",
+    "Hopefully Abysmal - Web Suite.md",
+    "6 - Projects/Vocation-Search/Neurotechnology/The State of Neurotech (2025).md",
+    "6 - Projects/Vocation-Search/Neurotechnology/Neurotech Publication Roadmap.md",
+    "6 - Projects/Vocation-Search/Neurotechnology/Breaking into the field without a PhD.md",
+    "6 - Projects/Vocation-Search/Neurotechnology/BRAIN 2025 - A Scientific Vision.md",
+    "6 - Projects/Vocation-Search/Neurotechnology/BRAIN 2025 - Roster.md",
+    "6 - Projects/Vocation-Search/Neurotechnology/BRAIN 2025 - A Scientific Vision.pdf",
+    "6 - Projects/Vocation-Search/Neurotechnology/Neurosecurity & Neuroethics.md",
+    "Mapping My Interests in Neurotech.md",
+    "6 - Projects/Vocation-Search/Neurotechnology/Neurotech Iceberg.md",
+    "2025-06-13 ~ Intro to Dylan Tull.md",
+    "Dylan Tull.md",
+    "6 - Projects/Vocation-Search/Neurotechnology/Neural Engineering.md",
+    "6 - Projects/Vocation-Search/Neurotechnology/Neural engineering.md",
+    "6 - Projects/Vocation-Search/Neurotechnology/Neurotechnology.md",
+    "6 - Projects/Vocation-Search/Neurotechnology/stem-cell neural repair.md",
+    "6 - Projects/Vocation-Search/Neurotechnology/neuromorphic computing.md",
+    "6 - Projects/Vocation-Search/Neurotechnology/neuroethics.md",
+    "6 - Projects/Vocation-Search/Neurotechnology/The Future of Neurotechnology - Forbes.md",
+    "6 - Projects/Vocation-Search/Neurotechnology/Neurotech Directory.md",
+    "6 - Projects/Vocation-Search/Neurotechnology/Neurotech Classification Systems.md",
+    "6 - Projects/Vocation-Search/Neurotechnology/Neurotech.md",
+    "6 - Projects/Vocation-Search/Neurotechnology/Neurorobotics.md",
+    "6 - Projects/Vocation-Search/Neurotechnology/Neuroprosthetics _ Rehab.md",
+    "6 - Projects/Vocation-Search/Neurotechnology/Neuropharmacology.md",
+    "6 - Projects/Vocation-Search/Neurotechnology/Neuromonitoring _ Imaging.md",
+    "6 - Projects/Vocation-Search/Neurotechnology/Neuromodulation (non-pharma).md",
+    "6 - Projects/The Creostic Academia/Funding Cycle for Open Access Education With Accelerative Learning Tools.canvas",
+    "6 - Projects/Vocation-Search/Neurotechnology",
+    "6 - Projects/Vocation-Search",
+    "6 - Projects/External Influence/Paradromics",
     "6 - Projects/The Backend Dev/Vocabulary/DB/Untitled",
     "6 - Projects/The Backend Dev/Vocabulary/DB",
     "6 - Projects/The Backend Dev/Vocabulary/OOP",
@@ -313,17 +327,12 @@
     "6 - Projects/The Backend Dev/Vocabulary/JAVA",
     "6 - Projects/The Backend Dev/Vocabulary",
     "6 - Projects/The Creostic Academia/The ARX Portal/The SCOOL Student Experience.canvas",
-    "6 - Projects/The Backend Dev/R4",
-    "6 - Projects/The Backend Dev/JAVA",
-    "6 - Projects/The Backend Dev",
-    "6 - Projects/The Realm of Resilience",
     "0 - Housekeeping/_Attatchments/Pasted image 20250528184328.png",
     "0 - Housekeeping/_Attatchments/Pasted image 20250528184803.png",
     "0 - Housekeeping/_Attatchments/Pasted image 20250528184707.png",
     "0 - Housekeeping/_Attatchments/Pasted image 20250528184426.png",
     "0 - Housekeeping/_Attatchments/Pasted image 20250528184251.png",
     "0 - Housekeeping/_Attatchments/Pasted image 20250528183957.png",
-    "6 - Projects/The Creostic Academia/Funding Cycle for Open Access Education With Accelerative Learning Tools.canvas",
     "0 - Housekeeping/_Attatchments/Funding Cycle for Open Access Education With Accelerative Learning Tools.png",
     "0 - Housekeeping/_Attatchments/Pasted image 20250527114036.png",
     "0 - Housekeeping/_Attatchments/Pasted image 20250527113617.png",
