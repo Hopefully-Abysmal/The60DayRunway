@@ -1,6 +1,8 @@
 ---
 title: Welcome to the Vault of Hopefully Abysmal
 description: A curated archive of raw ideas, existential experiments, and ongoing attempts to escape the loop.
+tags:
+  - linker-exclude
 ---
 
 # Welcome to the Vault of Hopefully Abysmal 🌌

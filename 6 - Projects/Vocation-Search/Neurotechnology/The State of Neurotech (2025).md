@@ -111,3 +111,7 @@ https://braininitiative.nih.gov/research/neuroethics?utm_source=chatgpt.com
 https://braininitiative.nih.gov/vision/nih-brain-initiative-reports/brain-2025-scientific-vision
 https://science.xyz/news/biohybrid-neural-interfaces/?utm_source=chatgpt.com
 https://science.xyz/technologies/prima/
+
+---
+
+[[Neurotech Iceberg]]
